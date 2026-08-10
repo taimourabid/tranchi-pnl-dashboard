@@ -1,423 +1,663 @@
 {
   "transactions": [
     {
-      "id": "t01",
+      "id": "f6547e73-3738-41bc-95d9-55473f6013a3",
       "date": "01/07",
       "name": "Susan Birney",
-      "closer": "",
+      "closer": "Alex",
       "processor": "fanbasis",
-      "amount": 3000
+      "amount": 3000.0
     },
     {
-      "id": "t02",
+      "id": "66908840-5bb8-411a-9928-d661efd523cc",
       "date": "01/07",
       "name": "Amit Patel",
-      "closer": "",
+      "closer": "Alex",
       "processor": "fanbasis",
-      "amount": 500
+      "amount": 500.0
     },
     {
-      "id": "t03",
+      "id": "f914e7de-cd36-4c37-90a4-9e5ed64a24de",
       "date": "02/07",
       "name": "Steven Markgraf",
-      "closer": "",
+      "closer": "Caleb",
       "processor": "whop",
-      "amount": 6000
+      "amount": 6000.0
     },
     {
-      "id": "t04",
+      "id": "77ecdda6-8d31-4b64-abaa-6f3bfc1fb676",
       "date": "02/07",
       "name": "Jinal Patel",
-      "closer": "",
+      "closer": "Izaac",
       "processor": "whop",
-      "amount": 7500
+      "amount": 7500.0
     },
     {
-      "id": "t05",
+      "id": "6f7b50cb-6693-4679-bde2-4ed4b2809689",
       "date": "02/07",
       "name": "Timothy Rappaport",
-      "closer": "",
+      "closer": "Izaac",
       "processor": "whop",
-      "amount": 6000
+      "amount": 6000.0
     },
     {
-      "id": "t06",
+      "id": "ac0392a9-04a4-449f-a13c-345b3d0db9f6",
       "date": "02/07",
       "name": "Reshma Kamath",
-      "closer": "",
+      "closer": "Josh",
       "processor": "fanbasis",
-      "amount": 500
+      "amount": 3000.0
     },
     {
-      "id": "t07",
-      "date": "03/07",
-      "name": "Charnelle Noviello",
-      "closer": "",
-      "processor": "whop",
-      "amount": 4500
-    },
-    {
-      "id": "t08",
+      "id": "b43acb8d-5b9f-4781-8ce5-4f082152fb96",
       "date": "03/07",
       "name": "Noel Mulet",
-      "closer": "",
+      "closer": "Alex",
       "processor": "fanbasis",
-      "amount": 6000
+      "amount": 6000.0
     },
     {
-      "id": "t09",
+      "id": "1b67a973-5411-40f0-afd1-6ad866accb62",
       "date": "03/07",
-      "name": "Reshma Kamath (2)",
-      "closer": "",
-      "processor": "fanbasis",
-      "amount": 2500
+      "name": "Charnelle Noviello",
+      "closer": "Alyssa",
+      "processor": "whop",
+      "amount": 4500.0
     },
     {
-      "id": "t10",
+      "id": "8a855a18-1036-4906-a99d-43d52703c9b3",
       "date": "04/07",
       "name": "Emil Huszar",
-      "closer": "",
+      "closer": "Josh",
       "processor": "whop",
-      "amount": 4500
+      "amount": 4500.0
     },
     {
-      "id": "t11",
+      "id": "3d9ae439-09cc-486c-b746-00188ad2600d",
       "date": "04/07",
-      "name": "Shiela Chee",
-      "closer": "",
+      "name": "Shiela",
+      "closer": "Alex",
       "processor": "fanbasis",
-      "amount": 3000
+      "amount": 3000.0
     },
     {
-      "id": "t12",
+      "id": "56f3698f-3db7-40c6-ba8c-1543196fdfef",
       "date": "04/07",
       "name": "Chaney",
-      "closer": "",
+      "closer": "Alex",
       "processor": "fanbasis",
-      "amount": 4500
+      "amount": 4500.0
     },
     {
-      "id": "t13",
+      "id": "d8dcce01-32a5-4f00-b164-f7acf928c220",
       "date": "06/07",
-      "name": "Sheila Chee (2)",
-      "closer": "",
+      "name": "Sheila Chee",
+      "closer": "Alex",
       "processor": "fanbasis",
-      "amount": 1500
+      "amount": 1500.0
     },
     {
-      "id": "t14",
+      "id": "e91d9021-656c-4258-9580-e7a88ca817c8",
       "date": "07/07",
       "name": "Maria Paletta-Shreve",
-      "closer": "",
+      "closer": "Alyssa",
       "processor": "whop",
-      "amount": 4500
+      "amount": 4500.0
     },
     {
-      "id": "t15",
+      "id": "845beff6-a7cb-43f8-ba39-f3c609411c75",
       "date": "07/07",
       "name": "Anthony Dedentro",
       "closer": "Izaac",
       "processor": "whop",
-      "amount": 3500
+      "amount": 4500.0
     },
     {
-      "id": "t16",
-      "date": "07/07",
-      "name": "Anthony Dedentro (2)",
-      "closer": "Izaac",
-      "processor": "whop",
-      "amount": 1000
-    },
-    {
-      "id": "t17",
+      "id": "e1a6c94d-d5ef-4103-bd6e-0c0914661308",
       "date": "07/07",
       "name": "Nicole Ali",
-      "closer": "",
+      "closer": "Caden",
       "processor": "whop",
-      "amount": 500
+      "amount": 500.0
     },
     {
-      "id": "t18",
+      "id": "e6dd0ee5-1ef5-4548-b4f4-423a8a303357",
       "date": "07/07",
       "name": "Haleh Rouzbeh",
-      "closer": "",
+      "closer": "Alex",
       "processor": "whop",
-      "amount": 2500
+      "amount": 2500.0
     },
     {
-      "id": "t19",
+      "id": "ae2b6b06-db45-4dfd-8231-2f13af7204a2",
       "date": "07/07",
       "name": "Spencer III",
-      "closer": "",
+      "closer": "Izaac",
       "processor": "whop",
-      "amount": 6000
+      "amount": 6000.0
     },
     {
-      "id": "t20",
+      "id": "38e0cf4f-c629-4220-96d0-8631df5ad532",
       "date": "07/07",
       "name": "Catherine Porter",
-      "closer": "",
+      "closer": "Josh",
       "processor": "whop",
-      "amount": 5000
+      "amount": 5000.0
     },
     {
-      "id": "t21",
+      "id": "9c6d0e52-2424-432d-a5be-4a30a6ddfde2",
       "date": "07/07",
       "name": "Cris Angulo",
-      "closer": "",
+      "closer": "Josh",
       "processor": "whop",
-      "amount": 5000
+      "amount": 5000.0
     },
     {
-      "id": "t22",
-      "date": "07/07",
-      "name": "Monique Cenatus",
-      "closer": "",
-      "processor": "whop",
-      "amount": 4500
-    },
-    {
-      "id": "t23",
+      "id": "0df27b5d-697e-48b5-a6da-3e38a4b0c2d2",
       "date": "08/07",
       "name": "Colette Bailey",
-      "closer": "",
+      "closer": "Alyssa",
       "processor": "whop",
-      "amount": 4500
+      "amount": 4500.0
     },
     {
-      "id": "t24",
+      "id": "3386d5d5-e5df-4489-8a84-9fd0aaf252a0",
+      "date": "07/07",
+      "name": "Monique Cenatus",
+      "closer": "Ken",
+      "processor": "whop",
+      "amount": 4500.0
+    },
+    {
+      "id": "11269545-571d-420e-afbf-05554e891cf9",
       "date": "08/07",
       "name": "Dale Fraser",
-      "closer": "",
+      "closer": "Alex",
       "processor": "whop",
-      "amount": 4000
+      "amount": 4000.0
     },
     {
-      "id": "t25",
+      "id": "6d065eeb-5c7a-43fa-8e79-1ced3dad3c97",
       "date": "09/07",
       "name": "Mason Park",
-      "closer": "",
+      "closer": "Josh",
       "processor": "whop",
-      "amount": 4500
+      "amount": 4500.0
     },
     {
-      "id": "t26",
+      "id": "5477bb6c-ab6e-4e34-9246-c7d6ba0136db",
       "date": "09/07",
       "name": "Broc Berman",
-      "closer": "",
+      "closer": "Izaac",
       "processor": "whop",
-      "amount": 5000
+      "amount": 5000.0
     },
     {
-      "id": "t27",
+      "id": "0fdc17c6-a482-4758-8e55-c1cf79a1c38c",
       "date": "10/07",
       "name": "Guilherme",
-      "closer": "",
+      "closer": "Josh",
       "processor": "whop",
-      "amount": 4500
+      "amount": 4500.0
     },
     {
-      "id": "t28",
+      "id": "dd1fbd5f-9aef-4a7d-862a-141a5e5562a3",
       "date": "10/07",
       "name": "Micaela Milano",
       "closer": "John",
       "processor": "whop",
-      "amount": 4500
+      "amount": 4500.0
     },
     {
-      "id": "t29",
+      "id": "416f980b-778d-48ea-ae9b-4b5277beeee1",
       "date": "10/07",
       "name": "Gabriel Chinea",
-      "closer": "",
+      "closer": "Izaac",
       "processor": "whop",
-      "amount": 4500
+      "amount": 4500.0
     },
     {
-      "id": "t30",
+      "id": "b33d813c-8100-467b-ad5b-13b4022323ef",
       "date": "11/07",
       "name": "Stuart Trembath",
-      "closer": "",
+      "closer": "Caleb",
       "processor": "whop",
-      "amount": 4000
+      "amount": 4000.0
     },
     {
-      "id": "t31",
+      "id": "49108d6d-562f-4303-8488-cf4b887377a1",
       "date": "11/07",
       "name": "Adam Hefnawy",
-      "closer": "",
+      "closer": "Izaac",
       "processor": "whop",
-      "amount": 4500
+      "amount": 4500.0
     },
     {
-      "id": "t32",
+      "id": "6f85c806-7574-4552-8f20-e3452f1788b1",
       "date": "12/07",
       "name": "Maryam Hana",
-      "closer": "",
+      "closer": "Caleb",
       "processor": "whop",
-      "amount": 3000
+      "amount": 3000.0
     },
     {
-      "id": "t33",
+      "id": "5c660df5-72ea-48a0-bc1a-9ca343905d5d",
       "date": "13/07",
-      "name": "Idmachiche BnB",
-      "closer": "",
+      "name": "Idmachiche Bnb",
+      "closer": "Ken",
       "processor": "whop",
-      "amount": 3000
+      "amount": 3000.0
     },
     {
-      "id": "t34",
+      "id": "39e06131-a492-4788-beea-e4e38d8201b6",
       "date": "13/07",
       "name": "Sean Payne",
-      "closer": "",
+      "closer": "Izaac",
       "processor": "whop",
-      "amount": 6000
+      "amount": 6000.0
     },
     {
-      "id": "t35",
+      "id": "0a63e3b0-2517-43d8-b877-93ba141614de",
       "date": "13/07",
       "name": "Thomas Ervik",
-      "closer": "",
+      "closer": "Izaac",
       "processor": "whop",
-      "amount": 4000
+      "amount": 4000.0
     },
     {
-      "id": "t36",
+      "id": "04dd9f46-821a-4909-a920-78205c37d6fc",
       "date": "13/07",
       "name": "Michael Sims",
-      "closer": "",
+      "closer": "Caden",
       "processor": "whop",
-      "amount": 2000
+      "amount": 2000.0
     },
     {
-      "id": "t37",
+      "id": "8ff4b633-72f6-4b8a-93cd-7fcfb277d97e",
       "date": "14/07",
       "name": "Dan Litov",
-      "closer": "",
+      "closer": "Josh",
       "processor": "whop",
-      "amount": 5000
+      "amount": 5000.0
     },
     {
-      "id": "t38",
+      "id": "b19fadf4-f9dd-4ad5-9284-bb2fa5c46218",
       "date": "14/07",
       "name": "Alicia Leal-Mireles",
-      "closer": "",
+      "closer": "Alex",
       "processor": "whop",
-      "amount": 500
+      "amount": 500.0
     },
     {
-      "id": "t39",
+      "id": "7912eec3-0dd0-410b-a373-7230625c8eb8",
       "date": "14/07",
       "name": "Justin Kissiar",
-      "closer": "",
+      "closer": "Josh",
       "processor": "fanbasis",
-      "amount": 3000
+      "amount": 3000.0
     },
     {
-      "id": "t40",
+      "id": "cc331186-bdc8-498b-a55a-a1e7276b1089",
       "date": "15/07",
       "name": "Delilah Garcia",
-      "closer": "",
+      "closer": "Josh",
       "processor": "whop",
-      "amount": 3000
+      "amount": 3000.0
     },
     {
-      "id": "t41",
+      "id": "80832eda-76d8-4794-a23f-493d1c181d33",
+      "date": "15/07",
+      "name": "Mona Lopez",
+      "closer": "Caden",
+      "processor": "whop",
+      "amount": 5000.0
+    },
+    {
+      "id": "5952f80b-e463-400c-96b8-570004fbf8a4",
       "date": "16/07",
-      "name": "Leroy Walwyn",
-      "closer": "",
+      "name": "Leroy Leroy",
+      "closer": "Alyssa",
       "processor": "whop",
-      "amount": 3000
+      "amount": 3000.0
     },
     {
-      "id": "t42",
+      "id": "e1253c82-3e67-43e9-8f7a-0fba9ea05879",
       "date": "16/07",
       "name": "Emerson Kilgore",
       "closer": "Will",
       "processor": "fanbasis",
-      "amount": 4500
+      "amount": 4500.0
     },
     {
-      "id": "t43",
+      "id": "5cf39a5b-1e9f-4bb7-b771-092eeb3d1db4",
       "date": "16/07",
-      "name": "Michael Sims (2)",
-      "closer": "",
+      "name": "Michael Sims",
+      "closer": "Caden",
       "processor": "whop",
-      "amount": 4000
+      "amount": 4000.0
     },
     {
-      "id": "t44",
+      "id": "9915d80d-c53b-4fe0-af7d-3575c3b2687c",
       "date": "16/07",
-      "name": "Alicia Leal-Mireles (2)",
-      "closer": "",
+      "name": "Alicia Leal-Mireles",
+      "closer": "Alex",
       "processor": "fanbasis",
-      "amount": 2000
+      "amount": 2000.0
     },
     {
-      "id": "t45",
+      "id": "2b735b25-9b5c-491f-9f5c-d88e6ac04d8b",
       "date": "17/07",
       "name": "Stacy Kalina",
-      "closer": "",
+      "closer": "Caden",
       "processor": "whop",
-      "amount": 500
+      "amount": 500.0
     },
     {
-      "id": "t46",
+      "id": "06cab6a0-5a2b-4fd6-a55e-96c285d3dc00",
       "date": "17/07",
       "name": "Aaron Carlson",
-      "closer": "",
+      "closer": "Caden",
       "processor": "whop",
-      "amount": 3000
+      "amount": 3000.0
     },
     {
-      "id": "t47",
+      "id": "ad330846-1ee2-48b1-a034-570ea43f1fa4",
       "date": "18/07",
       "name": "Tamara John",
-      "closer": "",
+      "closer": "Midou",
       "processor": "whop",
-      "amount": 3600
+      "amount": 3600.0
     },
     {
-      "id": "t48",
+      "id": "9bb15503-efc5-4557-a088-3e0181cc1cb5",
       "date": "20/07",
       "name": "Alejandrina Eduardo",
-      "closer": "",
+      "closer": "Ken",
       "processor": "whop",
-      "amount": 3000
+      "amount": 3000.0
+    },
+    {
+      "id": "d077bf14-3cd7-4692-8dae-d44af88249cc",
+      "date": "20/07",
+      "name": "Gavin Anderson",
+      "closer": "Alyssa",
+      "processor": "whop",
+      "amount": 3000.0
+    },
+    {
+      "id": "ab29ead9-dd26-4b4f-a0fe-502751e42960",
+      "date": "20/07",
+      "name": "Brandon Sutton",
+      "closer": "Alyssa",
+      "processor": "whop",
+      "amount": 3000.0
+    },
+    {
+      "id": "5eaf9cbe-506e-4006-bf69-9d6455c5597d",
+      "date": "20/07",
+      "name": "William Johnson",
+      "closer": "Caden",
+      "processor": "fanbasis",
+      "amount": 5000.0
+    },
+    {
+      "id": "058579b1-1a11-4ee1-84ec-2a5b63014845",
+      "date": "21/07",
+      "name": "Matthew White",
+      "closer": "Izaac",
+      "processor": "whop",
+      "amount": 3000.0
+    },
+    {
+      "id": "8cdacd30-746b-4443-9173-70d1f81a55e5",
+      "date": "22/07",
+      "name": "Chris McDonnell",
+      "closer": "Izaac",
+      "processor": "whop",
+      "amount": 6000.0
+    },
+    {
+      "id": "4b7089c9-9287-4e85-83bf-03e58f80d004",
+      "date": "22/07",
+      "name": "Stacey Skye",
+      "closer": "Izaac",
+      "processor": "whop",
+      "amount": 1500.0
+    },
+    {
+      "id": "138a94fa-d9d8-4e07-8aaf-282f57c41543",
+      "date": "23/07",
+      "name": "Tulasi Laghumavarapu",
+      "closer": "Alyssa",
+      "processor": "whop",
+      "amount": 3000.0
+    },
+    {
+      "id": "a0634b6f-760b-4ad4-8caa-1371dc3b314b",
+      "date": "23/07",
+      "name": "Alex Massey",
+      "closer": "Ken",
+      "processor": "whop",
+      "amount": 3000.0
+    },
+    {
+      "id": "3cc20fbd-d092-4e94-8f74-9cb22dde6c59",
+      "date": "23/07",
+      "name": "Sylvia Ssemambo",
+      "closer": "Ken",
+      "processor": "whop",
+      "amount": 2300.0
+    },
+    {
+      "id": "17689ea8-cdca-47ca-959a-17ad7f0b96b0",
+      "date": "23/07",
+      "name": "Richard Allen",
+      "closer": "Ken",
+      "processor": "whop",
+      "amount": 2400.0
+    },
+    {
+      "id": "4114d8fb-379c-4b99-ba02-9f52bf562ed9",
+      "date": "25/07",
+      "name": "Miguel Caro",
+      "closer": "Josh",
+      "processor": "whop",
+      "amount": 2500.0
+    },
+    {
+      "id": "fb15d9a8-3bbe-4df3-a0b6-c4bd448c867b",
+      "date": "25/07",
+      "name": "Miguel Caro",
+      "closer": "Josh",
+      "processor": "whop",
+      "amount": 2500.0
+    },
+    {
+      "id": "eff1ce3b-3287-41b2-a387-dce97f71721c",
+      "date": "25/07",
+      "name": "Corey Williams",
+      "closer": "Josh",
+      "processor": "whop",
+      "amount": 5000.0
+    },
+    {
+      "id": "44d73ece-e10b-43be-b331-93b3cd2d7a14",
+      "date": "25/07",
+      "name": "Mike Adams",
+      "closer": "Josh",
+      "processor": "whop",
+      "amount": 4500.0
+    },
+    {
+      "id": "43da69ed-e7da-46c2-97a9-ceadba5218c9",
+      "date": "25/07",
+      "name": "Gerald Onyekwe",
+      "closer": "Josh",
+      "processor": "whop",
+      "amount": 500.0
+    },
+    {
+      "id": "7ceb5c08-7192-4953-94a1-5d66183195fc",
+      "date": "26/07",
+      "name": "Marcos Yslas",
+      "closer": "Luke",
+      "processor": "whop",
+      "amount": 2000.0
+    },
+    {
+      "id": "d4ee630a-252f-4a86-bbd1-7b46a0e1e8c1",
+      "date": "27/07",
+      "name": "Sam Tobin",
+      "closer": "Izaac",
+      "processor": "whop",
+      "amount": 4500.0
+    },
+    {
+      "id": "bb99185f-c1a1-4e92-933b-abbe02d7db79",
+      "date": "27/07",
+      "name": "Marcos Yslas",
+      "closer": "Luke",
+      "processor": "whop",
+      "amount": 4000.0
+    },
+    {
+      "id": "34a7e369-cfa6-49f2-93ac-e670783a44a2",
+      "date": "28/07",
+      "name": "Thomas Kirkham",
+      "closer": "Josh",
+      "processor": "whop",
+      "amount": 2500.0
+    },
+    {
+      "id": "5d7ef50a-5280-4e92-a44a-c343806074cb",
+      "date": "28/07",
+      "name": "Thomas Kirkham",
+      "closer": "Josh",
+      "processor": "whop",
+      "amount": 2500.0
+    },
+    {
+      "id": "e2a387ee-b027-40ca-930d-c500e9366858",
+      "date": "28/07",
+      "name": "Kenny Caywood",
+      "closer": "Izaac",
+      "processor": "whop",
+      "amount": 4500.0
+    },
+    {
+      "id": "b2393f3c-6059-4ffa-81a8-a2212a8624ab",
+      "date": "28/07",
+      "name": "Bernadine Harris",
+      "closer": "Caden",
+      "processor": "fanbasis",
+      "amount": 500.0
+    },
+    {
+      "id": "89578dba-ac4b-440f-9f67-5113329fa2e3",
+      "date": "29/07",
+      "name": "Monica Cuevas-Contreras",
+      "closer": "Jang",
+      "processor": "whop",
+      "amount": 3000.0
+    },
+    {
+      "id": "81548827-0ed8-489f-975b-b75daeac74e5",
+      "date": "29/07",
+      "name": "Eric Fuller",
+      "closer": "Alyssa",
+      "processor": "whop",
+      "amount": 6000.0
+    },
+    {
+      "id": "ef3b50dd-3ebf-4f5a-a5cd-1eedc8181496",
+      "date": "29/07",
+      "name": "Romy Raju",
+      "closer": "Jang",
+      "processor": "whop",
+      "amount": 3000.0
+    },
+    {
+      "id": "3d9199cc-4390-4e04-b82c-3901325b901c",
+      "date": "30/07",
+      "name": "Michael Hilton",
+      "closer": "Ken",
+      "processor": "whop",
+      "amount": 3000.0
+    },
+    {
+      "id": "e3d6fce5-c773-4fbd-9344-ec308a186775",
+      "date": "27/07",
+      "name": "Hunter Sheehan",
+      "closer": "Izaac",
+      "processor": "whop",
+      "amount": 4500.0
+    },
+    {
+      "id": "90a312a6-7221-467d-acfc-76b0a05a6635",
+      "date": "31/07",
+      "name": "Joshua Wiscombe",
+      "closer": "Ken",
+      "processor": "whop",
+      "amount": 1000.0
+    },
+    {
+      "id": "e3e43c75-ec67-491c-bf95-e3c2a65199e8",
+      "date": "31/07",
+      "name": "Vipul Shah",
+      "closer": "Ken",
+      "processor": "fanbasis",
+      "amount": 4500.0
+    },
+    {
+      "id": "6fed7967-ef18-40d4-b829-738fb0ba7f36",
+      "date": "31/07",
+      "name": "Lucas Inacio",
+      "closer": "Caden",
+      "processor": "fanbasis",
+      "amount": 2500.0
+    },
+    {
+      "id": "9c838fc2-b0b2-4365-adb9-5df9dbc2d17a",
+      "date": "31/07",
+      "name": "Alejandra Ayoroa",
+      "closer": "Ken",
+      "processor": "whop",
+      "amount": 5000.0
     }
   ],
   "expenses": [
     {
-      "id": "e1",
+      "id": "9464fdba-3953-48de-9eaf-c09068647293",
       "label": "Sales Commissions",
       "items": []
     },
     {
-      "id": "e2",
+      "id": "8c87b09c-6faa-43d4-90ed-45627f879d6b",
       "label": "Setters",
       "items": []
     },
     {
-      "id": "e3",
+      "id": "5fe9d52d-9e55-451b-9839-ebe32fa1c884",
       "label": "Operations & Staff",
       "items": []
     },
     {
-      "id": "e4",
+      "id": "ed19a9c9-3393-47a8-a09d-c5c0290c6985",
       "label": "Software & Tools",
       "items": []
     },
     {
-      "id": "e5",
+      "id": "bd5ac7a1-9875-4a42-b0c8-64d07f8c0323",
       "label": "Marketing & Ads",
       "items": []
     },
     {
-      "id": "e6",
+      "id": "9e8ea7ae-74ca-43cd-af45-5757784c56b2",
       "label": "Processing Fees",
       "items": []
     },
     {
-      "id": "e7",
+      "id": "d3676df7-f173-45fa-90f6-b32ce1e35203",
       "label": "Refunds",
       "items": []
     }
