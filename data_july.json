@@ -1,0 +1,425 @@
+{
+  "transactions": [
+    {
+      "id": "t01",
+      "date": "01/07",
+      "name": "Susan Birney",
+      "closer": "",
+      "processor": "fanbasis",
+      "amount": 3000
+    },
+    {
+      "id": "t02",
+      "date": "01/07",
+      "name": "Amit Patel",
+      "closer": "",
+      "processor": "fanbasis",
+      "amount": 500
+    },
+    {
+      "id": "t03",
+      "date": "02/07",
+      "name": "Steven Markgraf",
+      "closer": "",
+      "processor": "whop",
+      "amount": 6000
+    },
+    {
+      "id": "t04",
+      "date": "02/07",
+      "name": "Jinal Patel",
+      "closer": "",
+      "processor": "whop",
+      "amount": 7500
+    },
+    {
+      "id": "t05",
+      "date": "02/07",
+      "name": "Timothy Rappaport",
+      "closer": "",
+      "processor": "whop",
+      "amount": 6000
+    },
+    {
+      "id": "t06",
+      "date": "02/07",
+      "name": "Reshma Kamath",
+      "closer": "",
+      "processor": "fanbasis",
+      "amount": 500
+    },
+    {
+      "id": "t07",
+      "date": "03/07",
+      "name": "Charnelle Noviello",
+      "closer": "",
+      "processor": "whop",
+      "amount": 4500
+    },
+    {
+      "id": "t08",
+      "date": "03/07",
+      "name": "Noel Mulet",
+      "closer": "",
+      "processor": "fanbasis",
+      "amount": 6000
+    },
+    {
+      "id": "t09",
+      "date": "03/07",
+      "name": "Reshma Kamath (2)",
+      "closer": "",
+      "processor": "fanbasis",
+      "amount": 2500
+    },
+    {
+      "id": "t10",
+      "date": "04/07",
+      "name": "Emil Huszar",
+      "closer": "",
+      "processor": "whop",
+      "amount": 4500
+    },
+    {
+      "id": "t11",
+      "date": "04/07",
+      "name": "Shiela Chee",
+      "closer": "",
+      "processor": "fanbasis",
+      "amount": 3000
+    },
+    {
+      "id": "t12",
+      "date": "04/07",
+      "name": "Chaney",
+      "closer": "",
+      "processor": "fanbasis",
+      "amount": 4500
+    },
+    {
+      "id": "t13",
+      "date": "06/07",
+      "name": "Sheila Chee (2)",
+      "closer": "",
+      "processor": "fanbasis",
+      "amount": 1500
+    },
+    {
+      "id": "t14",
+      "date": "07/07",
+      "name": "Maria Paletta-Shreve",
+      "closer": "",
+      "processor": "whop",
+      "amount": 4500
+    },
+    {
+      "id": "t15",
+      "date": "07/07",
+      "name": "Anthony Dedentro",
+      "closer": "Izaac",
+      "processor": "whop",
+      "amount": 3500
+    },
+    {
+      "id": "t16",
+      "date": "07/07",
+      "name": "Anthony Dedentro (2)",
+      "closer": "Izaac",
+      "processor": "whop",
+      "amount": 1000
+    },
+    {
+      "id": "t17",
+      "date": "07/07",
+      "name": "Nicole Ali",
+      "closer": "",
+      "processor": "whop",
+      "amount": 500
+    },
+    {
+      "id": "t18",
+      "date": "07/07",
+      "name": "Haleh Rouzbeh",
+      "closer": "",
+      "processor": "whop",
+      "amount": 2500
+    },
+    {
+      "id": "t19",
+      "date": "07/07",
+      "name": "Spencer III",
+      "closer": "",
+      "processor": "whop",
+      "amount": 6000
+    },
+    {
+      "id": "t20",
+      "date": "07/07",
+      "name": "Catherine Porter",
+      "closer": "",
+      "processor": "whop",
+      "amount": 5000
+    },
+    {
+      "id": "t21",
+      "date": "07/07",
+      "name": "Cris Angulo",
+      "closer": "",
+      "processor": "whop",
+      "amount": 5000
+    },
+    {
+      "id": "t22",
+      "date": "07/07",
+      "name": "Monique Cenatus",
+      "closer": "",
+      "processor": "whop",
+      "amount": 4500
+    },
+    {
+      "id": "t23",
+      "date": "08/07",
+      "name": "Colette Bailey",
+      "closer": "",
+      "processor": "whop",
+      "amount": 4500
+    },
+    {
+      "id": "t24",
+      "date": "08/07",
+      "name": "Dale Fraser",
+      "closer": "",
+      "processor": "whop",
+      "amount": 4000
+    },
+    {
+      "id": "t25",
+      "date": "09/07",
+      "name": "Mason Park",
+      "closer": "",
+      "processor": "whop",
+      "amount": 4500
+    },
+    {
+      "id": "t26",
+      "date": "09/07",
+      "name": "Broc Berman",
+      "closer": "",
+      "processor": "whop",
+      "amount": 5000
+    },
+    {
+      "id": "t27",
+      "date": "10/07",
+      "name": "Guilherme",
+      "closer": "",
+      "processor": "whop",
+      "amount": 4500
+    },
+    {
+      "id": "t28",
+      "date": "10/07",
+      "name": "Micaela Milano",
+      "closer": "John",
+      "processor": "whop",
+      "amount": 4500
+    },
+    {
+      "id": "t29",
+      "date": "10/07",
+      "name": "Gabriel Chinea",
+      "closer": "",
+      "processor": "whop",
+      "amount": 4500
+    },
+    {
+      "id": "t30",
+      "date": "11/07",
+      "name": "Stuart Trembath",
+      "closer": "",
+      "processor": "whop",
+      "amount": 4000
+    },
+    {
+      "id": "t31",
+      "date": "11/07",
+      "name": "Adam Hefnawy",
+      "closer": "",
+      "processor": "whop",
+      "amount": 4500
+    },
+    {
+      "id": "t32",
+      "date": "12/07",
+      "name": "Maryam Hana",
+      "closer": "",
+      "processor": "whop",
+      "amount": 3000
+    },
+    {
+      "id": "t33",
+      "date": "13/07",
+      "name": "Idmachiche BnB",
+      "closer": "",
+      "processor": "whop",
+      "amount": 3000
+    },
+    {
+      "id": "t34",
+      "date": "13/07",
+      "name": "Sean Payne",
+      "closer": "",
+      "processor": "whop",
+      "amount": 6000
+    },
+    {
+      "id": "t35",
+      "date": "13/07",
+      "name": "Thomas Ervik",
+      "closer": "",
+      "processor": "whop",
+      "amount": 4000
+    },
+    {
+      "id": "t36",
+      "date": "13/07",
+      "name": "Michael Sims",
+      "closer": "",
+      "processor": "whop",
+      "amount": 2000
+    },
+    {
+      "id": "t37",
+      "date": "14/07",
+      "name": "Dan Litov",
+      "closer": "",
+      "processor": "whop",
+      "amount": 5000
+    },
+    {
+      "id": "t38",
+      "date": "14/07",
+      "name": "Alicia Leal-Mireles",
+      "closer": "",
+      "processor": "whop",
+      "amount": 500
+    },
+    {
+      "id": "t39",
+      "date": "14/07",
+      "name": "Justin Kissiar",
+      "closer": "",
+      "processor": "fanbasis",
+      "amount": 3000
+    },
+    {
+      "id": "t40",
+      "date": "15/07",
+      "name": "Delilah Garcia",
+      "closer": "",
+      "processor": "whop",
+      "amount": 3000
+    },
+    {
+      "id": "t41",
+      "date": "16/07",
+      "name": "Leroy Walwyn",
+      "closer": "",
+      "processor": "whop",
+      "amount": 3000
+    },
+    {
+      "id": "t42",
+      "date": "16/07",
+      "name": "Emerson Kilgore",
+      "closer": "Will",
+      "processor": "fanbasis",
+      "amount": 4500
+    },
+    {
+      "id": "t43",
+      "date": "16/07",
+      "name": "Michael Sims (2)",
+      "closer": "",
+      "processor": "whop",
+      "amount": 4000
+    },
+    {
+      "id": "t44",
+      "date": "16/07",
+      "name": "Alicia Leal-Mireles (2)",
+      "closer": "",
+      "processor": "fanbasis",
+      "amount": 2000
+    },
+    {
+      "id": "t45",
+      "date": "17/07",
+      "name": "Stacy Kalina",
+      "closer": "",
+      "processor": "whop",
+      "amount": 500
+    },
+    {
+      "id": "t46",
+      "date": "17/07",
+      "name": "Aaron Carlson",
+      "closer": "",
+      "processor": "whop",
+      "amount": 3000
+    },
+    {
+      "id": "t47",
+      "date": "18/07",
+      "name": "Tamara John",
+      "closer": "",
+      "processor": "whop",
+      "amount": 3600
+    },
+    {
+      "id": "t48",
+      "date": "20/07",
+      "name": "Alejandrina Eduardo",
+      "closer": "",
+      "processor": "whop",
+      "amount": 3000
+    }
+  ],
+  "expenses": [
+    {
+      "id": "e1",
+      "label": "Sales Commissions",
+      "items": []
+    },
+    {
+      "id": "e2",
+      "label": "Setters",
+      "items": []
+    },
+    {
+      "id": "e3",
+      "label": "Operations & Staff",
+      "items": []
+    },
+    {
+      "id": "e4",
+      "label": "Software & Tools",
+      "items": []
+    },
+    {
+      "id": "e5",
+      "label": "Marketing & Ads",
+      "items": []
+    },
+    {
+      "id": "e6",
+      "label": "Processing Fees",
+      "items": []
+    },
+    {
+      "id": "e7",
+      "label": "Refunds",
+      "items": []
+    }
+  ]
+}
