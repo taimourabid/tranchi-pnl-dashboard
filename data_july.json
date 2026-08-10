@@ -715,6 +715,21 @@
           "id": "4ee30e22-5c70-4a70-a9bc-b831428d781f",
           "name": "Jayden",
           "amount": 1500
+        },
+        {
+          "id": "410d3220-6c8f-410a-b653-9a3549288e2a",
+          "name": "Sebastian",
+          "amount": 1125
+        },
+        {
+          "id": "85e62d30-8c9d-4238-a24d-183effbcc7f6",
+          "name": "Ivy",
+          "amount": 2000
+        },
+        {
+          "id": "9ded0ec6-ecf0-4cea-8dfd-e1e1172cae7b",
+          "name": "George",
+          "amount": 900
         }
       ]
     },
@@ -767,6 +782,11 @@
           "id": "3193fad9-d399-420d-aeee-1fc3c29a3401",
           "name": "Testimonials",
           "amount": 259
+        },
+        {
+          "id": "533d9a2e-5b0b-4aae-a6d5-177e8d58c6aa",
+          "name": "Google Reviews",
+          "amount": 75
         }
       ]
     },
