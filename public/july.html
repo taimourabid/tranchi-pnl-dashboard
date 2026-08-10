@@ -205,7 +205,7 @@ function rKPI(d){
   document.getElementById('kpi-grid').innerHTML=`
     <div class="kpi ka"><div class="klbl">Gross Revenue</div><div class="kval">$${f(d.gross)}</div><div class="ksub">${state.transactions.length} transactions</div></div>
     <div class="kpi"><div class="klbl">Total Sales</div><div class="kval">${state.transactions.length}</div><div class="ksub">${d.closers.length} closers</div></div>
-    <div class="kpi"><div class="klbl">Avg Deal Size</div></div>
+    <div class="kpi"><div class="klbl">Avg Deal Size</div><div class="kval">$${f(d.avg)}</div></div>
     <div class="kpi"><div class="klbl">Whop</div><div class="kval">$${f(d.whop)}</div><div class="ksub">${state.transactions.filter(t=>t.processor==='whop').length} txns</div></div>
     <div class="kpi"><div class="klbl">Fanbasis</div><div class="kval">$${f(d.fan)}</div><div class="ksub">${state.transactions.filter(t=>t.processor==='fanbasis').length} txns</div></div>
     <div class="kpi kr"><div class="klbl">Total Expenses</div><div class="kval">$${f(d.exp)}</div><div class="ksub">${state.expenses.length} categories</div></div>
