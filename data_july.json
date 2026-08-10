@@ -772,7 +772,138 @@
     {
       "id": "ed19a9c9-3393-47a8-a09d-c5c0290c6985",
       "label": "Software & Tools",
-      "items": []
+      "items": [
+        {
+          "id": "24fb2261-16f7-41c9-962b-b86c905f0811",
+          "name": "Sendblue",
+          "amount": 1300.0
+        },
+        {
+          "id": "d77a424c-2398-4c0b-9917-ffe5888e5bb5",
+          "name": "GHL",
+          "amount": 2284.83
+        },
+        {
+          "id": "7ecaf420-5548-465d-8289-45a724fb5693",
+          "name": "Activecampaign",
+          "amount": 525.0
+        },
+        {
+          "id": "bb85d101-8cc1-4e0a-9877-4f595214aaa2",
+          "name": "Zapier",
+          "amount": 1564.53
+        },
+        {
+          "id": "e1a0f4ba-d535-42d4-aa74-c4638c4f714c",
+          "name": "Manus",
+          "amount": 658.23
+        },
+        {
+          "id": "5dc7201f-24a4-4596-ba1f-c87f56f126ad",
+          "name": "QuickBooks",
+          "amount": 378.64
+        },
+        {
+          "id": "c954c3f3-6306-42a8-95ab-c3f3bccc937d",
+          "name": "Google Workspace",
+          "amount": 564.67
+        },
+        {
+          "id": "037a556b-1fd5-4a43-80bc-1b9e92e35b01",
+          "name": "Slack",
+          "amount": 227.5
+        },
+        {
+          "id": "7bca0cf8-bbc1-463f-8869-659e68ee6593",
+          "name": "Zoom",
+          "amount": 205.57
+        },
+        {
+          "id": "ac7d2703-576f-4cd1-97a6-bd6c860c5af7",
+          "name": "Fathom",
+          "amount": 217.3
+        },
+        {
+          "id": "e523f702-1700-4d1e-a9fa-1454eb0aa675",
+          "name": "Docusign",
+          "amount": 186.58
+        },
+        {
+          "id": "40427af8-5583-41f3-a068-e1fe138b9e84",
+          "name": "Wistia",
+          "amount": 107.91
+        },
+        {
+          "id": "288861f1-83af-4fdb-8ad6-44a5d28da177",
+          "name": "Typeform",
+          "amount": 99.0
+        },
+        {
+          "id": "d8664a46-13d9-47b2-9ca1-0e3dbafd30f9",
+          "name": "Render",
+          "amount": 68.8
+        },
+        {
+          "id": "faaea93e-eccf-4ffa-8975-7e92b96b6693",
+          "name": "Webflow",
+          "amount": 67.0
+        },
+        {
+          "id": "891734c4-985b-400a-844e-937efcd48218",
+          "name": "Vidalytics",
+          "amount": 24.0
+        },
+        {
+          "id": "947dfa54-15b1-48c3-9652-95957f6566ef",
+          "name": "Make",
+          "amount": 18.8
+        },
+        {
+          "id": "c617995a-3bab-4ef9-8368-4e3a3b7aa172",
+          "name": "Dialer.io",
+          "amount": 1997.0
+        },
+        {
+          "id": "7ed6800d-c518-462e-8e51-d5f2cd8c944e",
+          "name": "Rankera",
+          "amount": 250.0
+        },
+        {
+          "id": "d6bb36e1-43f2-4562-9755-1347e13a95a2",
+          "name": "Twilio",
+          "amount": 64.0
+        },
+        {
+          "id": "b7e28524-6977-4183-a0ae-d827ea42a54d",
+          "name": "Blooio",
+          "amount": 1663.0
+        },
+        {
+          "id": "9056b9a1-f03a-4c96-a32c-b1f1b1c1352e",
+          "name": "Webinarjam",
+          "amount": 104.0
+        },
+        {
+          "id": "4894dd36-9968-4a48-93b8-f82dcf0316b0",
+          "name": "Manychat",
+          "amount": 77.0
+        },
+        {
+          "id": "cc06cdf6-73ab-4477-bea5-17dbc0dc4049",
+          "name": "Gamma",
+          "amount": 20.0
+        },
+        {
+          "id": "3f6a3de4-2855-4175-9c2a-189c0a98af59",
+          "name": "GoDaddy",
+          "amount": 176.0
+        },
+        {
+          "id": "712d7c0f-0780-4c46-9595-b448ac391b01",
+          "name": "AWS",
+          "amount": 78.98
+        }
+      ]
     },
     {
       "id": "bd5ac7a1-9875-4a42-b0c8-64d07f8c0323",
@@ -787,13 +918,34 @@
           "id": "533d9a2e-5b0b-4aae-a6d5-177e8d58c6aa",
           "name": "Google Reviews",
           "amount": 75
+        },
+        {
+          "id": "1b8941f9-61c2-436b-b1c8-cf53ccdc5355",
+          "name": "Facebook Ads",
+          "amount": 4240.0
+        },
+        {
+          "id": "3c699e25-1baf-4388-9e92-75bbf55c7bd2",
+          "name": "Tom (Organic Content Creator)",
+          "amount": 6000.0
         }
       ]
     },
     {
       "id": "9e8ea7ae-74ca-43cd-af45-5757784c56b2",
       "label": "Processing Fees",
-      "items": []
+      "items": [
+        {
+          "id": "7c1f66f9-399a-4021-956f-7038e41c9784",
+          "name": "Whop 2.7% + $0.30/txn on 64 txns ($236,400)",
+          "amount": 6402.0
+        },
+        {
+          "id": "d218cd83-d6f4-478d-b2fd-78aa982957b0",
+          "name": "Fanbasis 2.7% flat on $43,500",
+          "amount": 1174.5
+        }
+      ]
     },
     {
       "id": "d3676df7-f173-45fa-90f6-b32ce1e35203",
