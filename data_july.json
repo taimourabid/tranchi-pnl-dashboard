@@ -707,16 +707,6 @@
           "amount": 3000
         },
         {
-          "id": "b432f5c9-2cad-4192-b512-4ee4dcdd2b51",
-          "name": "Max",
-          "amount": 2000
-        },
-        {
-          "id": "4ee30e22-5c70-4a70-a9bc-b831428d781f",
-          "name": "Jayden",
-          "amount": 1500
-        },
-        {
           "id": "410d3220-6c8f-410a-b653-9a3549288e2a",
           "name": "Sebastian",
           "amount": 1125
@@ -766,6 +756,16 @@
           "id": "6f3574ed-d18e-4300-9764-fc2d5911ecf4",
           "name": "AG",
           "amount": 200
+        },
+        {
+          "id": "b432f5c9-2cad-4192-b512-4ee4dcdd2b51",
+          "name": "Max",
+          "amount": 2000
+        },
+        {
+          "id": "4ee30e22-5c70-4a70-a9bc-b831428d781f",
+          "name": "Jayden",
+          "amount": 1500
         }
       ]
     },
