@@ -629,7 +629,68 @@
     {
       "id": "9464fdba-3953-48de-9eaf-c09068647293",
       "label": "Sales Commissions",
-      "items": []
+      "items": [
+        {
+          "id": "8f8727a8-4125-41bf-b0c8-a9f8bafe5ad9",
+          "name": "Alex",
+          "amount": 2900
+        },
+        {
+          "id": "e6238491-777a-46f8-b20c-42375ad9a12f",
+          "name": "Alyssa",
+          "amount": 3150
+        },
+        {
+          "id": "bf738b88-e5d9-48cb-a374-22870966d634",
+          "name": "Caden",
+          "amount": 2300
+        },
+        {
+          "id": "d8b47a25-4604-4b31-81e6-f0a4cc417db6",
+          "name": "Caleb",
+          "amount": 1440
+        },
+        {
+          "id": "43b1eb0a-3391-4c6a-80d2-c4aa6821def0",
+          "name": "Izaac",
+          "amount": 7290
+        },
+        {
+          "id": "7870e644-b786-446a-a5d6-224ac68a6516",
+          "name": "Jang",
+          "amount": 600
+        },
+        {
+          "id": "31bc0a6d-7d2e-4e91-8692-8eca4028ee8b",
+          "name": "John",
+          "amount": 450
+        },
+        {
+          "id": "2657d99b-17b4-4150-b066-34c384a52dc6",
+          "name": "Josh",
+          "amount": 18065
+        },
+        {
+          "id": "d92202a9-6041-452b-b474-a31e1f388801",
+          "name": "Ken",
+          "amount": 3170
+        },
+        {
+          "id": "5f0e8e97-da84-46b2-b439-05ae39011bf5",
+          "name": "Luke",
+          "amount": 640
+        },
+        {
+          "id": "e670b39d-ffdd-4500-84c6-662de5d15417",
+          "name": "Midou",
+          "amount": 750
+        },
+        {
+          "id": "e97d7510-dfd6-483f-b46e-7630e5823d94",
+          "name": "Will",
+          "amount": 450
+        }
+      ]
     },
     {
       "id": "8c87b09c-6faa-43d4-90ed-45627f879d6b",
