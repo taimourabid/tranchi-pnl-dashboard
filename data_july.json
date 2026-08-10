@@ -928,6 +928,11 @@
           "id": "3c699e25-1baf-4388-9e92-75bbf55c7bd2",
           "name": "Tom (Organic Content Creator)",
           "amount": 6000.0
+        },
+        {
+          "id": "7e717ef7-b0fc-4ff6-afd6-685336c54892",
+          "name": "Shoutouts (Enzo)",
+          "amount": 5125
         }
       ]
     },
@@ -955,6 +960,27 @@
           "id": "b6a2e13e-15a2-4bc5-8648-506dea443241",
           "name": "Disputes / Refunds",
           "amount": 33000
+        }
+      ]
+    },
+    {
+      "id": "de48d62f-afdb-4a6f-8649-973e8bab9a0d",
+      "label": "Owner Draws",
+      "items": [
+        {
+          "id": "ae1c5a7c-6bf3-406c-9569-0d1bce3d7159",
+          "name": "Marc",
+          "amount": 48300
+        },
+        {
+          "id": "c56229a0-cc42-4698-9674-6fe90d7600f3",
+          "name": "Deeb",
+          "amount": 48300
+        },
+        {
+          "id": "49397d8f-c4dc-4b1b-8c29-89cec961d568",
+          "name": "Yazan",
+          "amount": 48300
         }
       ]
     }
