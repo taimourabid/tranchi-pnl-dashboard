@@ -22,7 +22,7 @@
       "name": "Steven Markgraf",
       "closer": "Caleb",
       "processor": "whop",
-      "amount": 6000.0
+      "amount": 5100
     },
     {
       "id": "77ecdda6-8d31-4b64-abaa-6f3bfc1fb676",
@@ -648,12 +648,12 @@
         {
           "id": "d8b47a25-4604-4b31-81e6-f0a4cc417db6",
           "name": "Caleb",
-          "amount": 1440
+          "amount": 1320
         },
         {
           "id": "43b1eb0a-3391-4c6a-80d2-c4aa6821def0",
           "name": "Izaac",
-          "amount": 7290
+          "amount": 9230.0
         },
         {
           "id": "7870e644-b786-446a-a5d6-224ac68a6516",

@@ -1,124 +1,742 @@
 {
   "transactions": [
-    { "id": "t01", "date": "02/06", "name": "Angela Falls",        "closer": "Alyssa", "processor": "whop",     "amount": 3000 },
-    { "id": "t02", "date": "02/06", "name": "Danie Paul",          "closer": "Noel",   "processor": "whop",     "amount": 2000 },
-    { "id": "t03", "date": "03/06", "name": "Josh Joiner",         "closer": "Josh",   "processor": "whop",     "amount": 1500 },
-    { "id": "t04", "date": "04/06", "name": "Veasna Sok",          "closer": "Josh",   "processor": "whop",     "amount": 2000 },
-    { "id": "t05", "date": "04/06", "name": "Robert Flowers",      "closer": "Alyssa", "processor": "whop",     "amount": 6000 },
-    { "id": "t06", "date": "04/06", "name": "Afsheen Masood",      "closer": "Josh",   "processor": "whop",     "amount": 6000 },
-    { "id": "t07", "date": "05/06", "name": "Austin Dixon",        "closer": "Alyssa", "processor": "whop",     "amount": 3000 },
-    { "id": "t08", "date": "05/06", "name": "Jared Holi",          "closer": "John",   "processor": "whop",     "amount": 6000 },
-    { "id": "t09", "date": "05/06", "name": "Someshwar Voma",      "closer": "Noel",   "processor": "whop",     "amount": 3000 },
-    { "id": "t10", "date": "05/06", "name": "Gary Bell",           "closer": "Caleb",  "processor": "whop",     "amount": 1000 },
-    { "id": "t11", "date": "06/06", "name": "Justin Strauss",      "closer": "Josh",   "processor": "whop",     "amount": 5000 },
-    { "id": "t12", "date": "06/06", "name": "David Gallo",         "closer": "Izaac",  "processor": "whop",     "amount": 5000 },
-    { "id": "t13", "date": "06/06", "name": "Rodrigo Marin",       "closer": "Caleb",  "processor": "whop",     "amount": 3000 },
-    { "id": "t14", "date": "06/06", "name": "Wanda Lanier",        "closer": "John",   "processor": "whop",     "amount": 3000 },
-    { "id": "t15", "date": "06/06", "name": "Gene Gene",           "closer": "Caleb",  "processor": "whop",     "amount": 6000 },
-    { "id": "t16", "date": "07/06", "name": "Disciplined LLC",     "closer": "Alex",   "processor": "whop",     "amount": 500  },
-    { "id": "t17", "date": "08/06", "name": "Fernando Fonseca",    "closer": "Izaac",  "processor": "whop",     "amount": 3000 },
-    { "id": "t18", "date": "08/06", "name": "Ivonne Tamayo",       "closer": "Izaac",  "processor": "whop",     "amount": 3000 },
-    { "id": "t19", "date": "08/06", "name": "Carla Fontaine",      "closer": "Noel",   "processor": "whop",     "amount": 500  },
-    { "id": "t20", "date": "08/06", "name": "Daniel Romero",       "closer": "Noel",   "processor": "whop",     "amount": 3000 },
-    { "id": "t21", "date": "09/06", "name": "Jean-Simon Bourque",  "closer": "Izaac",  "processor": "whop",     "amount": 6000 },
-    { "id": "t22", "date": "09/06", "name": "Gary Bell (2)",       "closer": "Caleb",  "processor": "whop",     "amount": 5000 },
-    { "id": "t23", "date": "09/06", "name": "Emerson Kilgore",     "closer": "Alex",   "processor": "whop",     "amount": 500  },
-    { "id": "t24", "date": "09/06", "name": "Ashley Walker",       "closer": "Alyssa", "processor": "fanbasis", "amount": 3000 },
-    { "id": "t25", "date": "10/06", "name": "Noemi Suarez",        "closer": "Noel",   "processor": "whop",     "amount": 6000 },
-    { "id": "t26", "date": "10/06", "name": "Younes Marzouki",     "closer": "Caleb",  "processor": "whop",     "amount": 500  },
-    { "id": "t27", "date": "12/06", "name": "Shawn Whitney",       "closer": "Josh",   "processor": "whop",     "amount": 5000 },
-    { "id": "t28", "date": "13/06", "name": "Luke Brehm",          "closer": "Izaac",  "processor": "whop",     "amount": 5000 },
-    { "id": "t29", "date": "14/06", "name": "Trevor Steffen",      "closer": "Alex",   "processor": "whop",     "amount": 3000 },
-    { "id": "t30", "date": "15/06", "name": "Saeit Kan",           "closer": "Izaac",  "processor": "whop",     "amount": 4000 },
-    { "id": "t31", "date": "16/06", "name": "Angelo Garcia",       "closer": "John",   "processor": "whop",     "amount": 3000 },
-    { "id": "t32", "date": "16/06", "name": "Stacey Skye",         "closer": "Izaac",  "processor": "whop",     "amount": 3000 },
-    { "id": "t33", "date": "16/06", "name": "William Spinetti",    "closer": "Alex",   "processor": "fanbasis", "amount": 1000 },
-    { "id": "t34", "date": "17/06", "name": "YaSin Aquil",         "closer": "Noel",   "processor": "whop",     "amount": 3000 },
-    { "id": "t35", "date": "16/06", "name": "Douglas Allen",       "closer": "Alex",   "processor": "whop",     "amount": 3600 },
-    { "id": "t36", "date": "16/06", "name": "George Tabora",       "closer": "Izaac",  "processor": "whop",     "amount": 3500 },
-    { "id": "t37", "date": "16/06", "name": "Courtney Bonin",      "closer": "Caleb",  "processor": "whop",     "amount": 3000 },
-    { "id": "t38", "date": "17/06", "name": "Bratislav Stojkovic", "closer": "Alyssa", "processor": "whop",     "amount": 3000 },
-    { "id": "t39", "date": "17/06", "name": "William Spinetti (2)","closer": "Alex",   "processor": "fanbasis", "amount": 5000 },
-    { "id": "t40", "date": "18/06", "name": "Maria Gonzalez",      "closer": "Alyssa", "processor": "whop",     "amount": 3000 },
-    { "id": "t41", "date": "18/06", "name": "Scott Zarecki",       "closer": "Alex",   "processor": "fanbasis", "amount": 6000 },
-    { "id": "t42", "date": "18/06", "name": "Paul Sortino",        "closer": "Alex",   "processor": "fanbasis", "amount": 4000 },
-    { "id": "t43", "date": "19/06", "name": "Dawan Rotella",       "closer": "Josh",   "processor": "fanbasis", "amount": 5000 },
-    { "id": "t44", "date": "20/06", "name": "Anthony Fernandez",   "closer": "Caleb",  "processor": "whop",     "amount": 3000 },
-    { "id": "t45", "date": "20/06", "name": "Andrew Gilbert",      "closer": "Josh",   "processor": "fanbasis", "amount": 3000 },
-    { "id": "t46", "date": "21/06", "name": "Jacob Lofton",        "closer": "Caleb",  "processor": "whop",     "amount": 3000 },
-    { "id": "t47", "date": "22/06", "name": "Edwin Binet",         "closer": "Josh",   "processor": "fanbasis", "amount": 3000 },
-    { "id": "t48", "date": "23/06", "name": "Cathleen Mason",      "closer": "Izaac",  "processor": "fanbasis", "amount": 5000 },
-    { "id": "t49", "date": "23/06", "name": "Phillip Graser",      "closer": "Izaac",  "processor": "fanbasis", "amount": 5000 },
-    { "id": "t50", "date": "23/06", "name": "Alice Kim",           "closer": "Josh",   "processor": "fanbasis", "amount": 5000 },
-    { "id": "t51", "date": "23/06", "name": "Alexandria Zieba",    "closer": "Alyssa", "processor": "fanbasis", "amount": 6000 },
-    { "id": "t52", "date": "22/06", "name": "Eric Wolters",        "closer": "Izaac",  "processor": "whop",     "amount": 5000 },
-    { "id": "t53", "date": "26/06", "name": "Kylie Goldsmith",     "closer": "Josh",   "processor": "fanbasis", "amount": 6000 },
-    { "id": "t54", "date": "27/06", "name": "Stuart Trembath",     "closer": "Caleb",  "processor": "whop",     "amount": 2000 },
-    { "id": "t55", "date": "27/06", "name": "Carla Fontaine (2)",  "closer": "Noel",   "processor": "whop",     "amount": 5500 },
-    { "id": "t56", "date": "28/06", "name": "Will Campbell",       "closer": "Will",   "processor": "whop",     "amount": 5000 },
-    { "id": "t57", "date": "28/06", "name": "Walker Thompson",     "closer": "Izaac",  "processor": "fanbasis", "amount": 3000 },
-    { "id": "t58", "date": "29/06", "name": "Anthony Lombardi",    "closer": "Alyssa", "processor": "fanbasis", "amount": 6000 }
+    {
+      "id": "t01",
+      "date": "02/06",
+      "name": "Angela Falls",
+      "closer": "Alyssa",
+      "processor": "whop",
+      "amount": 3000
+    },
+    {
+      "id": "t02",
+      "date": "02/06",
+      "name": "Danie Paul",
+      "closer": "Noel",
+      "processor": "whop",
+      "amount": 2000
+    },
+    {
+      "id": "t03",
+      "date": "03/06",
+      "name": "Josh Joiner",
+      "closer": "Josh",
+      "processor": "whop",
+      "amount": 1500
+    },
+    {
+      "id": "t04",
+      "date": "04/06",
+      "name": "Veasna Sok",
+      "closer": "Josh",
+      "processor": "whop",
+      "amount": 2000
+    },
+    {
+      "id": "t05",
+      "date": "04/06",
+      "name": "Robert Flowers",
+      "closer": "Alyssa",
+      "processor": "whop",
+      "amount": 6000
+    },
+    {
+      "id": "t06",
+      "date": "04/06",
+      "name": "Afsheen Masood",
+      "closer": "Josh",
+      "processor": "whop",
+      "amount": 6000
+    },
+    {
+      "id": "t07",
+      "date": "05/06",
+      "name": "Austin Dixon",
+      "closer": "Alyssa",
+      "processor": "whop",
+      "amount": 3000
+    },
+    {
+      "id": "t08",
+      "date": "05/06",
+      "name": "Jared Holi",
+      "closer": "John",
+      "processor": "whop",
+      "amount": 6000
+    },
+    {
+      "id": "t09",
+      "date": "05/06",
+      "name": "Someshwar Voma",
+      "closer": "Noel",
+      "processor": "whop",
+      "amount": 3000
+    },
+    {
+      "id": "t10",
+      "date": "05/06",
+      "name": "Gary Bell",
+      "closer": "Caleb",
+      "processor": "whop",
+      "amount": 1000
+    },
+    {
+      "id": "t11",
+      "date": "06/06",
+      "name": "Justin Strauss",
+      "closer": "Josh",
+      "processor": "whop",
+      "amount": 5000
+    },
+    {
+      "id": "t12",
+      "date": "06/06",
+      "name": "David Gallo",
+      "closer": "Izaac",
+      "processor": "whop",
+      "amount": 5000
+    },
+    {
+      "id": "t13",
+      "date": "06/06",
+      "name": "Rodrigo Marin",
+      "closer": "Caleb",
+      "processor": "whop",
+      "amount": 3000
+    },
+    {
+      "id": "t14",
+      "date": "06/06",
+      "name": "Wanda Lanier",
+      "closer": "John",
+      "processor": "whop",
+      "amount": 3000
+    },
+    {
+      "id": "t15",
+      "date": "06/06",
+      "name": "Gene Gene",
+      "closer": "Caleb",
+      "processor": "whop",
+      "amount": 6000
+    },
+    {
+      "id": "t16",
+      "date": "07/06",
+      "name": "Disciplined LLC",
+      "closer": "Alex",
+      "processor": "whop",
+      "amount": 500
+    },
+    {
+      "id": "t17",
+      "date": "08/06",
+      "name": "Fernando Fonseca",
+      "closer": "Izaac",
+      "processor": "whop",
+      "amount": 3000
+    },
+    {
+      "id": "t18",
+      "date": "08/06",
+      "name": "Ivonne Tamayo",
+      "closer": "Izaac",
+      "processor": "whop",
+      "amount": 3000
+    },
+    {
+      "id": "t19",
+      "date": "08/06",
+      "name": "Carla Fontaine",
+      "closer": "Noel",
+      "processor": "whop",
+      "amount": 500
+    },
+    {
+      "id": "t20",
+      "date": "08/06",
+      "name": "Daniel Romero",
+      "closer": "Noel",
+      "processor": "whop",
+      "amount": 3000
+    },
+    {
+      "id": "t21",
+      "date": "09/06",
+      "name": "Jean-Simon Bourque",
+      "closer": "Izaac",
+      "processor": "whop",
+      "amount": 6000
+    },
+    {
+      "id": "t22",
+      "date": "09/06",
+      "name": "Gary Bell (2)",
+      "closer": "Caleb",
+      "processor": "whop",
+      "amount": 5000
+    },
+    {
+      "id": "t23",
+      "date": "09/06",
+      "name": "Emerson Kilgore",
+      "closer": "Alex",
+      "processor": "whop",
+      "amount": 500
+    },
+    {
+      "id": "t24",
+      "date": "09/06",
+      "name": "Ashley Walker",
+      "closer": "Alyssa",
+      "processor": "fanbasis",
+      "amount": 3000
+    },
+    {
+      "id": "t25",
+      "date": "10/06",
+      "name": "Noemi Suarez",
+      "closer": "Noel",
+      "processor": "whop",
+      "amount": 6000
+    },
+    {
+      "id": "t26",
+      "date": "10/06",
+      "name": "Younes Marzouki",
+      "closer": "Caleb",
+      "processor": "whop",
+      "amount": 500
+    },
+    {
+      "id": "t27",
+      "date": "12/06",
+      "name": "Shawn Whitney",
+      "closer": "Josh",
+      "processor": "whop",
+      "amount": 5000
+    },
+    {
+      "id": "t28",
+      "date": "13/06",
+      "name": "Luke Brehm",
+      "closer": "Izaac",
+      "processor": "whop",
+      "amount": 5000
+    },
+    {
+      "id": "t29",
+      "date": "14/06",
+      "name": "Trevor Steffen",
+      "closer": "Alex",
+      "processor": "whop",
+      "amount": 3000
+    },
+    {
+      "id": "t30",
+      "date": "15/06",
+      "name": "Saeit Kan",
+      "closer": "Izaac",
+      "processor": "whop",
+      "amount": 4000
+    },
+    {
+      "id": "t31",
+      "date": "16/06",
+      "name": "Angelo Garcia",
+      "closer": "John",
+      "processor": "whop",
+      "amount": 3000
+    },
+    {
+      "id": "t32",
+      "date": "16/06",
+      "name": "Stacey Skye",
+      "closer": "Izaac",
+      "processor": "whop",
+      "amount": 3000
+    },
+    {
+      "id": "t33",
+      "date": "16/06",
+      "name": "William Spinetti",
+      "closer": "Alex",
+      "processor": "fanbasis",
+      "amount": 1000
+    },
+    {
+      "id": "t34",
+      "date": "17/06",
+      "name": "YaSin Aquil",
+      "closer": "Noel",
+      "processor": "whop",
+      "amount": 3000
+    },
+    {
+      "id": "t35",
+      "date": "16/06",
+      "name": "Douglas Allen",
+      "closer": "Alex",
+      "processor": "whop",
+      "amount": 3060
+    },
+    {
+      "id": "t36",
+      "date": "16/06",
+      "name": "George Tabora",
+      "closer": "Izaac",
+      "processor": "whop",
+      "amount": 3500
+    },
+    {
+      "id": "t37",
+      "date": "16/06",
+      "name": "Courtney Bonin",
+      "closer": "Caleb",
+      "processor": "whop",
+      "amount": 3000
+    },
+    {
+      "id": "t38",
+      "date": "17/06",
+      "name": "Bratislav Stojkovic",
+      "closer": "Alyssa",
+      "processor": "whop",
+      "amount": 3000
+    },
+    {
+      "id": "t39",
+      "date": "17/06",
+      "name": "William Spinetti (2)",
+      "closer": "Alex",
+      "processor": "fanbasis",
+      "amount": 5000
+    },
+    {
+      "id": "t40",
+      "date": "18/06",
+      "name": "Maria Gonzalez",
+      "closer": "Alyssa",
+      "processor": "whop",
+      "amount": 3000
+    },
+    {
+      "id": "t41",
+      "date": "18/06",
+      "name": "Scott Zarecki",
+      "closer": "Alex",
+      "processor": "fanbasis",
+      "amount": 6000
+    },
+    {
+      "id": "t42",
+      "date": "18/06",
+      "name": "Paul Sortino",
+      "closer": "Alex",
+      "processor": "fanbasis",
+      "amount": 4000
+    },
+    {
+      "id": "t43",
+      "date": "19/06",
+      "name": "Dawan Rotella",
+      "closer": "Josh",
+      "processor": "fanbasis",
+      "amount": 5000
+    },
+    {
+      "id": "t44",
+      "date": "20/06",
+      "name": "Anthony Fernandez",
+      "closer": "Caleb",
+      "processor": "whop",
+      "amount": 3000
+    },
+    {
+      "id": "t45",
+      "date": "20/06",
+      "name": "Andrew Gilbert",
+      "closer": "Josh",
+      "processor": "fanbasis",
+      "amount": 3000
+    },
+    {
+      "id": "t46",
+      "date": "21/06",
+      "name": "Jacob Lofton",
+      "closer": "Caleb",
+      "processor": "whop",
+      "amount": 3000
+    },
+    {
+      "id": "t47",
+      "date": "22/06",
+      "name": "Edwin Binet",
+      "closer": "Josh",
+      "processor": "fanbasis",
+      "amount": 3000
+    },
+    {
+      "id": "t48",
+      "date": "23/06",
+      "name": "Cathleen Mason",
+      "closer": "Izaac",
+      "processor": "fanbasis",
+      "amount": 5000
+    },
+    {
+      "id": "t49",
+      "date": "23/06",
+      "name": "Phillip Graser",
+      "closer": "Izaac",
+      "processor": "fanbasis",
+      "amount": 5000
+    },
+    {
+      "id": "t50",
+      "date": "23/06",
+      "name": "Alice Kim",
+      "closer": "Josh",
+      "processor": "fanbasis",
+      "amount": 5000
+    },
+    {
+      "id": "t51",
+      "date": "23/06",
+      "name": "Alexandria Zieba",
+      "closer": "Alyssa",
+      "processor": "fanbasis",
+      "amount": 6000
+    },
+    {
+      "id": "t52",
+      "date": "22/06",
+      "name": "Eric Wolters",
+      "closer": "Izaac",
+      "processor": "whop",
+      "amount": 5000
+    },
+    {
+      "id": "t53",
+      "date": "26/06",
+      "name": "Kylie Goldsmith",
+      "closer": "Josh",
+      "processor": "fanbasis",
+      "amount": 6000
+    },
+    {
+      "id": "t54",
+      "date": "27/06",
+      "name": "Stuart Trembath",
+      "closer": "Caleb",
+      "processor": "whop",
+      "amount": 2000
+    },
+    {
+      "id": "t55",
+      "date": "27/06",
+      "name": "Carla Fontaine (2)",
+      "closer": "Noel",
+      "processor": "whop",
+      "amount": 5500
+    },
+    {
+      "id": "t56",
+      "date": "28/06",
+      "name": "Will Campbell",
+      "closer": "Will",
+      "processor": "whop",
+      "amount": 5000
+    },
+    {
+      "id": "t57",
+      "date": "28/06",
+      "name": "Walker Thompson",
+      "closer": "Izaac",
+      "processor": "fanbasis",
+      "amount": 3000
+    },
+    {
+      "id": "t58",
+      "date": "29/06",
+      "name": "Anthony Lombardi",
+      "closer": "Alyssa",
+      "processor": "fanbasis",
+      "amount": 6000
+    }
   ],
   "expenses": [
-    { "id": "e1", "label": "Sales Commissions", "items": [
-      { "id": "e1i1", "name": "Josh",   "amount": 13810 },
-      { "id": "e1i2", "name": "Izaac",  "amount": 5310  },
-      { "id": "e1i3", "name": "Alyssa", "amount": 3300  },
-      { "id": "e1i4", "name": "Caleb",  "amount": 2846  },
-      { "id": "e1i5", "name": "Alex",   "amount": 2580  },
-      { "id": "e1i6", "name": "Noel",   "amount": 2300  },
-      { "id": "e1i7", "name": "John",   "amount": 1260  },
-      { "id": "e1i8", "name": "Will",   "amount": 500   }
-    ]},
-    { "id": "e2", "label": "Setters", "items": [
-      { "id": "e2i1", "name": "Makayla (text + onboarding)", "amount": 3177.14 },
-      { "id": "e2i2", "name": "Raj",     "amount": 2480    },
-      { "id": "e2i3", "name": "Ivy",     "amount": 1671.42 },
-      { "id": "e2i4", "name": "Deepak",  "amount": 1546.66 },
-      { "id": "e2i5", "name": "Kyle",    "amount": 1022.50 },
-      { "id": "e2i6", "name": "Louisa",  "amount": 562.50  },
-      { "id": "e2i7", "name": "Flora",   "amount": 562.50  },
-      { "id": "e2i8", "name": "Seb",     "amount": 100     }
-    ]},
-    { "id": "e3", "label": "Operations & Staff", "items": [
-      { "id": "e3i1", "name": "Taimour (Backend/Dev/Ops)", "amount": 3500 },
-      { "id": "e3i2", "name": "Brandy (Credit Repair)",    "amount": 3000 },
-      { "id": "e3i3", "name": "Ahmed (SEO)",               "amount": 1000 },
-      { "id": "e3i4", "name": "Pamela (Tracking)",         "amount": 700  },
-      { "id": "e3i5", "name": "Shehryar (Video Editor)",   "amount": 325  },
-      { "id": "e3i6", "name": "AG",                        "amount": 300  }
-    ]},
-    { "id": "e4", "label": "Software & Tools", "items": [
-      { "id": "e4i1",  "name": "Sendblue",         "amount": 1300    },
-      { "id": "e4i2",  "name": "GHL",              "amount": 707.91  },
-      { "id": "e4i3",  "name": "Activecampaign",   "amount": 525     },
-      { "id": "e4i4",  "name": "Zapier",           "amount": 598.50  },
-      { "id": "e4i5",  "name": "Manus",            "amount": 593.90  },
-      { "id": "e4i6",  "name": "QuickBooks",       "amount": 378.64  },
-      { "id": "e4i7",  "name": "Google Workspace", "amount": 420.56  },
-      { "id": "e4i8",  "name": "Slack",            "amount": 227.50  },
-      { "id": "e4i9",  "name": "Zoom",             "amount": 169.29  },
-      { "id": "e4i10", "name": "Fathom",           "amount": 138.28  },
-      { "id": "e4i11", "name": "Docusign",         "amount": 186.58  },
-      { "id": "e4i12", "name": "Wistia",           "amount": 107.91  },
-      { "id": "e4i13", "name": "Typeform",         "amount": 99      },
-      { "id": "e4i14", "name": "Render",           "amount": 68.80   },
-      { "id": "e4i15", "name": "Webflow",          "amount": 67      },
-      { "id": "e4i16", "name": "Vidalytics",       "amount": 24      },
-      { "id": "e4i17", "name": "Make",             "amount": 18.80   }
-    ]},
-    { "id": "e5", "label": "Marketing & Ads", "items": [
-      { "id": "e5i1", "name": "Tom (Organic Content Creator)",               "amount": 6000    },
-      { "id": "e5i2", "name": "Ads cost for closer and content creators hiring", "amount": 2689.44 }
-    ]},
-    { "id": "e6", "label": "Processing Fees", "items": [
-      { "id": "e6i1", "name": "Standard 2.7% on $205,500",                        "amount": 5548.50 },
-      { "id": "e6i2", "name": "BNP 15% on $9,600 (Gene Gene + Douglas Allen)", "amount": 1440    }
-    ]},
-    { "id": "e7", "label": "Refunds", "items": [
-      { "id": "e7i1", "name": "Zachary Kliot (Alyssa)", "amount": 3000 },
-      { "id": "e7i2", "name": "Josh Joiner / Shane",    "amount": 1500 },
-      { "id": "e7i3", "name": "James Podojil (Alex)",   "amount": 500  }
-    ]}
+    {
+      "id": "e1",
+      "label": "Sales Commissions",
+      "items": [
+        {
+          "id": "e1i1",
+          "name": "Josh",
+          "amount": 13810
+        },
+        {
+          "id": "e1i2",
+          "name": "Izaac",
+          "amount": 5310
+        },
+        {
+          "id": "e1i3",
+          "name": "Alyssa",
+          "amount": 3300
+        },
+        {
+          "id": "e1i4",
+          "name": "Caleb",
+          "amount": 2846
+        },
+        {
+          "id": "e1i5",
+          "name": "Alex",
+          "amount": 2520
+        },
+        {
+          "id": "e1i6",
+          "name": "Noel",
+          "amount": 2300
+        },
+        {
+          "id": "e1i7",
+          "name": "John",
+          "amount": 1260
+        },
+        {
+          "id": "e1i8",
+          "name": "Will",
+          "amount": 500
+        }
+      ]
+    },
+    {
+      "id": "e2",
+      "label": "Setters",
+      "items": [
+        {
+          "id": "e2i1",
+          "name": "Makayla (text + onboarding)",
+          "amount": 3177.14
+        },
+        {
+          "id": "e2i2",
+          "name": "Raj",
+          "amount": 2480
+        },
+        {
+          "id": "e2i3",
+          "name": "Ivy",
+          "amount": 1671.42
+        },
+        {
+          "id": "e2i4",
+          "name": "Deepak",
+          "amount": 1546.66
+        },
+        {
+          "id": "e2i5",
+          "name": "Kyle",
+          "amount": 1022.5
+        },
+        {
+          "id": "e2i6",
+          "name": "Louisa",
+          "amount": 562.5
+        },
+        {
+          "id": "e2i7",
+          "name": "Flora",
+          "amount": 562.5
+        },
+        {
+          "id": "e2i8",
+          "name": "Seb",
+          "amount": 100
+        }
+      ]
+    },
+    {
+      "id": "e3",
+      "label": "Operations & Staff",
+      "items": [
+        {
+          "id": "e3i1",
+          "name": "Taimour (Backend/Dev/Ops)",
+          "amount": 3500
+        },
+        {
+          "id": "e3i2",
+          "name": "Brandy (Credit Repair)",
+          "amount": 3000
+        },
+        {
+          "id": "e3i3",
+          "name": "Ahmed (SEO)",
+          "amount": 1000
+        },
+        {
+          "id": "e3i4",
+          "name": "Pamela (Tracking)",
+          "amount": 700
+        },
+        {
+          "id": "e3i5",
+          "name": "Shehryar (Video Editor)",
+          "amount": 325
+        },
+        {
+          "id": "e3i6",
+          "name": "AG",
+          "amount": 300
+        }
+      ]
+    },
+    {
+      "id": "e4",
+      "label": "Software & Tools",
+      "items": [
+        {
+          "id": "e4i1",
+          "name": "Sendblue",
+          "amount": 1300
+        },
+        {
+          "id": "e4i2",
+          "name": "GHL",
+          "amount": 707.91
+        },
+        {
+          "id": "e4i3",
+          "name": "Activecampaign",
+          "amount": 525
+        },
+        {
+          "id": "e4i4",
+          "name": "Zapier",
+          "amount": 598.5
+        },
+        {
+          "id": "e4i5",
+          "name": "Manus",
+          "amount": 593.9
+        },
+        {
+          "id": "e4i6",
+          "name": "QuickBooks",
+          "amount": 378.64
+        },
+        {
+          "id": "e4i7",
+          "name": "Google Workspace",
+          "amount": 420.56
+        },
+        {
+          "id": "e4i8",
+          "name": "Slack",
+          "amount": 227.5
+        },
+        {
+          "id": "e4i9",
+          "name": "Zoom",
+          "amount": 169.29
+        },
+        {
+          "id": "e4i10",
+          "name": "Fathom",
+          "amount": 138.28
+        },
+        {
+          "id": "e4i11",
+          "name": "Docusign",
+          "amount": 186.58
+        },
+        {
+          "id": "e4i12",
+          "name": "Wistia",
+          "amount": 107.91
+        },
+        {
+          "id": "e4i13",
+          "name": "Typeform",
+          "amount": 99
+        },
+        {
+          "id": "e4i14",
+          "name": "Render",
+          "amount": 68.8
+        },
+        {
+          "id": "e4i15",
+          "name": "Webflow",
+          "amount": 67
+        },
+        {
+          "id": "e4i16",
+          "name": "Vidalytics",
+          "amount": 24
+        },
+        {
+          "id": "e4i17",
+          "name": "Make",
+          "amount": 18.8
+        }
+      ]
+    },
+    {
+      "id": "e5",
+      "label": "Marketing & Ads",
+      "items": [
+        {
+          "id": "e5i1",
+          "name": "Tom (Organic Content Creator)",
+          "amount": 6000
+        },
+        {
+          "id": "e5i2",
+          "name": "Ads cost for closer and content creators hiring",
+          "amount": 2689.44
+        }
+      ]
+    },
+    {
+      "id": "e6",
+      "label": "Processing Fees",
+      "items": [
+        {
+          "id": "e6i1",
+          "name": "Standard 2.7% on $205,500",
+          "amount": 5548.5
+        },
+        {
+          "id": "e6i2",
+          "name": "BNP 15% on $9,600 (Gene Gene + Douglas Allen)",
+          "amount": 1440
+        }
+      ]
+    },
+    {
+      "id": "e7",
+      "label": "Refunds",
+      "items": [
+        {
+          "id": "e7i1",
+          "name": "Zachary Kliot (Alyssa)",
+          "amount": 3000
+        },
+        {
+          "id": "e7i2",
+          "name": "Josh Joiner / Shane",
+          "amount": 1500
+        },
+        {
+          "id": "e7i3",
+          "name": "James Podojil (Alex)",
+          "amount": 500
+        }
+      ]
+    }
   ]
 }
