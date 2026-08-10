@@ -695,12 +695,64 @@
     {
       "id": "8c87b09c-6faa-43d4-90ed-45627f879d6b",
       "label": "Setters",
-      "items": []
+      "items": [
+        {
+          "id": "1cfb97b2-b95b-4d65-8f88-4a23603429a9",
+          "name": "Raj",
+          "amount": 1550
+        },
+        {
+          "id": "eda94319-772a-4261-893c-5826f0d6fb40",
+          "name": "Makayla",
+          "amount": 3000
+        },
+        {
+          "id": "b432f5c9-2cad-4192-b512-4ee4dcdd2b51",
+          "name": "Max",
+          "amount": 2000
+        },
+        {
+          "id": "4ee30e22-5c70-4a70-a9bc-b831428d781f",
+          "name": "Jayden",
+          "amount": 1500
+        }
+      ]
     },
     {
       "id": "5fe9d52d-9e55-451b-9839-ebe32fa1c884",
       "label": "Operations & Staff",
-      "items": []
+      "items": [
+        {
+          "id": "6e8627bd-704f-4121-8acf-56f80b8fe980",
+          "name": "Taimour (Backend/Dev/Ops)",
+          "amount": 3500
+        },
+        {
+          "id": "44a36739-504b-4e31-af41-eac54348c876",
+          "name": "Brandy (Credit Repair)",
+          "amount": 3000
+        },
+        {
+          "id": "7f682235-5895-4500-abb0-32e3402ae1b6",
+          "name": "Ahmed (SEO)",
+          "amount": 400
+        },
+        {
+          "id": "b9d8c9d6-52c9-453f-909f-33eeee5ce475",
+          "name": "Pamela (Tracking)",
+          "amount": 700
+        },
+        {
+          "id": "1fa73d7e-d400-49a9-bb26-3cfc850bd039",
+          "name": "Shaheryar (Video Editor)",
+          "amount": 370
+        },
+        {
+          "id": "6f3574ed-d18e-4300-9764-fc2d5911ecf4",
+          "name": "AG",
+          "amount": 200
+        }
+      ]
     },
     {
       "id": "ed19a9c9-3393-47a8-a09d-c5c0290c6985",
@@ -710,7 +762,13 @@
     {
       "id": "bd5ac7a1-9875-4a42-b0c8-64d07f8c0323",
       "label": "Marketing & Ads",
-      "items": []
+      "items": [
+        {
+          "id": "3193fad9-d399-420d-aeee-1fc3c29a3401",
+          "name": "Testimonials",
+          "amount": 259
+        }
+      ]
     },
     {
       "id": "9e8ea7ae-74ca-43cd-af45-5757784c56b2",
