@@ -653,7 +653,7 @@
         {
           "id": "43b1eb0a-3391-4c6a-80d2-c4aa6821def0",
           "name": "Izaac",
-          "amount": 9230.0
+          "amount": 8280.0
         },
         {
           "id": "7870e644-b786-446a-a5d6-224ac68a6516",
@@ -950,7 +950,13 @@
     {
       "id": "d3676df7-f173-45fa-90f6-b32ce1e35203",
       "label": "Refunds",
-      "items": []
+      "items": [
+        {
+          "id": "b6a2e13e-15a2-4bc5-8648-506dea443241",
+          "name": "Disputes / Refunds",
+          "amount": 33000
+        }
+      ]
     }
   ]
 }
