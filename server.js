@@ -16,6 +16,9 @@ function readJuly()       { return JSON.parse(fs.readFileSync(DATA_JULY_PATH, 'u
 function writeJuly(d)     { fs.writeFileSync(DATA_JULY_PATH, JSON.stringify(d, null, 2)); }
 function uid()            { return crypto.randomUUID(); }
 
+// Overview
+app.get('/overview', (req, res) => res.sendFile(path.join(__dirname, 'public', 'overview.html')));
+
 // July dashboard
 app.get('/july', (req, res) => res.sendFile(path.join(__dirname, 'public', 'july.html')));
 
