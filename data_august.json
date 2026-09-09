@@ -146,6 +146,20 @@
       ]
     },
     {
+      "id": "aug-exp-0008-4000-8000-000000000008",
+      "label": "Refunds",
+      "items": [
+        { "id": "aug-item-111-4000-8000-000000000111", "name": "Dispute / Refund 1", "amount": 6000 },
+        { "id": "aug-item-112-4000-8000-000000000112", "name": "Dispute / Refund 2", "amount": 2500 },
+        { "id": "aug-item-113-4000-8000-000000000113", "name": "Dispute / Refund 3", "amount": 3000 },
+        { "id": "aug-item-114-4000-8000-000000000114", "name": "Dispute / Refund 4", "amount": 6000 },
+        { "id": "aug-item-115-4000-8000-000000000115", "name": "Dispute / Refund 5", "amount": 2000 },
+        { "id": "aug-item-116-4000-8000-000000000116", "name": "Dispute / Refund 6", "amount": 3000 },
+        { "id": "aug-item-117-4000-8000-000000000117", "name": "Dispute / Refund 7", "amount": 3000 },
+        { "id": "aug-item-118-4000-8000-000000000118", "name": "Dispute / Refund 8", "amount": 3000 }
+      ]
+    },
+    {
       "id": "aug-exp-0004-4000-8000-000000000004",
       "label": "Owner Draws",
       "items": [
