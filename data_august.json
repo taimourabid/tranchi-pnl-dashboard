@@ -134,6 +134,7 @@
       "id": "aug-exp-0007-4000-8000-000000000007",
       "label": "Marketing & Ads",
       "items": [
+        { "id": "aug-item-100-4000-8000-000000000100", "name": "Tom (Organic Content Creator)", "amount": 6000 },
         { "id": "aug-item-101-4000-8000-000000000101", "name": "Shoutouts / Marketing", "amount": 5125 },
         { "id": "aug-item-102-4000-8000-000000000102", "name": "Testimonials",          "amount": 154  }
       ]
