@@ -118,7 +118,8 @@
     <span class="month-bar-label">Month</span>
     <button class="mbtn on" data-key="june">June 2026</button>
     <button class="mbtn"    data-key="july">July 2026</button>
-    <span class="month-hint">Select one or both to compare</span>
+    <button class="mbtn"    data-key="august">August 2026</button>
+    <span class="month-hint">Select one or two to compare</span>
   </div>
   <div id="content"></div>
 </div>
@@ -128,8 +129,9 @@ const CC=[C.red,C.orange,C.purple,C.blue,C.teal,C.green,C.gold,C.goldlt];
 const LC=[C.goldlt,C.gold,C.green,C.teal,C.blue,C.purple,C.orange,C.red];
 
 const MONTHS = {
-  june: { label:'June 2026', short:'Jun', url:'/api/data',      color:C.gold,  colorlt:C.goldlt },
-  july: { label:'July 2026', short:'Jul', url:'/july/api/data', color:C.blue,  colorlt:'#89c4f4' },
+  june:   { label:'June 2026',   short:'Jun', url:'/api/data',        color:C.gold, colorlt:C.goldlt },
+  july:   { label:'July 2026',   short:'Jul', url:'/july/api/data',   color:C.blue, colorlt:'#89c4f4' },
+  august: { label:'August 2026', short:'Aug', url:'/august/api/data', color:C.teal, colorlt:'#7dd4c8' },
 };
 
 let allData = {};
@@ -376,6 +378,10 @@ document.querySelectorAll('.mbtn').forEach(btn => {
       selected = selected.filter(s => s !== key);
       btn.classList.remove('on');
     } else {
+      if (selected.length >= 2) {
+        const removed = selected.shift();
+        document.querySelector(`.mbtn[data-key="${removed}"]`).classList.remove('on');
+      }
       selected.push(key);
       btn.classList.add('on');
     }

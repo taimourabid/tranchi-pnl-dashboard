@@ -6,6 +6,7 @@ const crypto  = require('crypto');
 const app       = express();
 const DATA_PATH      = path.join(__dirname, 'data.json');
 const DATA_JULY_PATH = path.join(__dirname, 'data_july.json');
+const DATA_AUG_PATH  = path.join(__dirname, 'data_august.json');
 
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
@@ -14,10 +15,66 @@ function readData()       { return JSON.parse(fs.readFileSync(DATA_PATH, 'utf-8'
 function writeData(d)     { fs.writeFileSync(DATA_PATH, JSON.stringify(d, null, 2)); }
 function readJuly()       { return JSON.parse(fs.readFileSync(DATA_JULY_PATH, 'utf-8')); }
 function writeJuly(d)     { fs.writeFileSync(DATA_JULY_PATH, JSON.stringify(d, null, 2)); }
+function readAug()        { return JSON.parse(fs.readFileSync(DATA_AUG_PATH, 'utf-8')); }
+function writeAug(d)      { fs.writeFileSync(DATA_AUG_PATH, JSON.stringify(d, null, 2)); }
 function uid()            { return crypto.randomUUID(); }
 
 // Overview
 app.get('/overview', (req, res) => res.sendFile(path.join(__dirname, 'public', 'overview.html')));
+
+// August dashboard
+app.get('/august', (req, res) => res.sendFile(path.join(__dirname, 'public', 'august.html')));
+
+app.get('/august/api/data', (req, res) => res.json(readAug()));
+
+app.post('/august/api/transactions', (req, res) => {
+  const data = readAug();
+  const txn  = { id: uid(), ...req.body, amount: parseFloat(req.body.amount) };
+  data.transactions.push(txn);
+  writeAug(data);
+  res.json(txn);
+});
+
+app.delete('/august/api/transactions/:id', (req, res) => {
+  const data = readAug();
+  data.transactions = data.transactions.filter(t => t.id !== req.params.id);
+  writeAug(data);
+  res.json({ ok: true });
+});
+
+app.post('/august/api/expenses', (req, res) => {
+  const data = readAug();
+  const cat  = { id: uid(), label: req.body.label, items: [] };
+  data.expenses.push(cat);
+  writeAug(data);
+  res.json(cat);
+});
+
+app.delete('/august/api/expenses/:id', (req, res) => {
+  const data = readAug();
+  data.expenses = data.expenses.filter(e => e.id !== req.params.id);
+  writeAug(data);
+  res.json({ ok: true });
+});
+
+app.post('/august/api/expenses/:catId/items', (req, res) => {
+  const data = readAug();
+  const cat  = data.expenses.find(e => e.id === req.params.catId);
+  if (!cat) return res.status(404).json({ error: 'Not found' });
+  const item = { id: uid(), name: req.body.name, amount: parseFloat(req.body.amount) };
+  cat.items.push(item);
+  writeAug(data);
+  res.json(item);
+});
+
+app.delete('/august/api/expenses/:catId/items/:itemId', (req, res) => {
+  const data = readAug();
+  const cat  = data.expenses.find(e => e.id === req.params.catId);
+  if (!cat) return res.status(404).json({ error: 'Not found' });
+  cat.items = cat.items.filter(i => i.id !== req.params.itemId);
+  writeAug(data);
+  res.json({ ok: true });
+});
 
 // July dashboard
 app.get('/july', (req, res) => res.sendFile(path.join(__dirname, 'public', 'july.html')));
