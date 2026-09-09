@@ -90,6 +90,54 @@
       ]
     },
     {
+      "id": "aug-exp-0006-4000-8000-000000000006",
+      "label": "Software & Tools",
+      "items": [
+        { "id": "aug-item-061-4000-8000-000000000061", "name": "Sendblue",          "amount": 1300    },
+        { "id": "aug-item-062-4000-8000-000000000062", "name": "GHL",               "amount": 2040.26 },
+        { "id": "aug-item-063-4000-8000-000000000063", "name": "Activecampaign",    "amount": 525     },
+        { "id": "aug-item-064-4000-8000-000000000064", "name": "Zapier",            "amount": 1051.33 },
+        { "id": "aug-item-065-4000-8000-000000000065", "name": "Manus",             "amount": 443.82  },
+        { "id": "aug-item-066-4000-8000-000000000066", "name": "QuickBooks",        "amount": 437.91  },
+        { "id": "aug-item-067-4000-8000-000000000067", "name": "Google Workspace",  "amount": 658     },
+        { "id": "aug-item-068-4000-8000-000000000068", "name": "Slack",             "amount": 259.41  },
+        { "id": "aug-item-069-4000-8000-000000000069", "name": "Zoom",              "amount": 253.24  },
+        { "id": "aug-item-070-4000-8000-000000000070", "name": "Fathom",            "amount": 276.30  },
+        { "id": "aug-item-071-4000-8000-000000000071", "name": "Docusign",          "amount": 186.58  },
+        { "id": "aug-item-072-4000-8000-000000000072", "name": "Wistia",            "amount": 107.91  },
+        { "id": "aug-item-073-4000-8000-000000000073", "name": "Typeform",          "amount": 129     },
+        { "id": "aug-item-074-4000-8000-000000000074", "name": "Render",            "amount": 68.80   },
+        { "id": "aug-item-075-4000-8000-000000000075", "name": "Webflow",           "amount": 137     },
+        { "id": "aug-item-076-4000-8000-000000000076", "name": "Vidalytics",        "amount": 24      },
+        { "id": "aug-item-077-4000-8000-000000000077", "name": "Make",              "amount": 18.80   },
+        { "id": "aug-item-078-4000-8000-000000000078", "name": "Dialer.io",         "amount": 1335    },
+        { "id": "aug-item-079-4000-8000-000000000079", "name": "Rankera",           "amount": 250     },
+        { "id": "aug-item-080-4000-8000-000000000080", "name": "Blooio",            "amount": 1607.62 },
+        { "id": "aug-item-081-4000-8000-000000000081", "name": "Webinarjam",        "amount": 104     },
+        { "id": "aug-item-082-4000-8000-000000000082", "name": "Manychat",          "amount": 452     },
+        { "id": "aug-item-083-4000-8000-000000000083", "name": "Gamma",             "amount": 20      },
+        { "id": "aug-item-084-4000-8000-000000000084", "name": "GoDaddy",           "amount": 176     },
+        { "id": "aug-item-085-4000-8000-000000000085", "name": "AWS",               "amount": 78.98   },
+        { "id": "aug-item-086-4000-8000-000000000086", "name": "Anthropic",         "amount": 362.85  },
+        { "id": "aug-item-087-4000-8000-000000000087", "name": "Addevent",          "amount": 36      },
+        { "id": "aug-item-088-4000-8000-000000000088", "name": "OpenAI",            "amount": 54.88   },
+        { "id": "aug-item-089-4000-8000-000000000089", "name": "Elevenlabs",        "amount": 6.59    },
+        { "id": "aug-item-090-4000-8000-000000000090", "name": "Calendly",          "amount": 131.70  },
+        { "id": "aug-item-091-4000-8000-000000000091", "name": "Roezan SMS",        "amount": 50      },
+        { "id": "aug-item-092-4000-8000-000000000092", "name": "Dev Hiring Posts",  "amount": 69      },
+        { "id": "aug-item-093-4000-8000-000000000093", "name": "Vettted",           "amount": 1500    },
+        { "id": "aug-item-094-4000-8000-000000000094", "name": "Smartlead",         "amount": 94      }
+      ]
+    },
+    {
+      "id": "aug-exp-0007-4000-8000-000000000007",
+      "label": "Marketing & Ads",
+      "items": [
+        { "id": "aug-item-101-4000-8000-000000000101", "name": "Shoutouts / Marketing", "amount": 5125 },
+        { "id": "aug-item-102-4000-8000-000000000102", "name": "Testimonials",          "amount": 154  }
+      ]
+    },
+    {
       "id": "aug-exp-0005-4000-8000-000000000005",
       "label": "Processing Fees",
       "items": [
