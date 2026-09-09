@@ -103,6 +103,7 @@
     .cmp-pnl td:not(:first-child) { text-align:right; font-weight:700; }
     .cmp-pnl tr.tot td { font-weight:800; font-size:14px; padding-top:12px; border-top:2px solid var(--border); border-bottom:none; }
 
+    .tog-wrap{display:flex;align-items:center;gap:8px;}.tog-lbl{font-size:11px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:var(--muted);}.tog{width:42px;height:24px;background:var(--surface2);border:1px solid var(--border);border-radius:12px;cursor:pointer;position:relative;transition:background .2s,border-color .2s;padding:0;flex-shrink:0;}.tog.on{background:rgba(196,149,53,.25);border-color:var(--accent);}.tog-k{position:absolute;top:4px;left:4px;width:14px;height:14px;border-radius:50%;background:var(--muted);transition:all .2s;pointer-events:none;}.tog.on .tog-k{left:22px;background:var(--accentlt);}
     @media(max-width:960px){ .g21,.g11,.g3,.cmp-lb-wrap{grid-template-columns:1fr;} .container{padding:16px;} }
   </style>
 </head>
@@ -111,6 +112,7 @@
   <div class="logo">Tranchi <span>AI</span></div>
   <div class="hdr-right">
     <div class="badge">Overview · All Months</div>
+    <div class="tog-wrap"><span class="tog-lbl">Owner Draws</span><button class="tog" id="draws-tog" onclick="toggleDraws()"><span class="tog-k"></span></button></div>
   </div>
 </header>
 <div class="container">
@@ -135,6 +137,7 @@ const MONTHS = {
 };
 
 let allData = {};
+let showDraws = false;
 let selected = ['june'];
 let charts = {};
 
@@ -143,10 +146,11 @@ function fd(n) { return n%1===0 ? n.toLocaleString() : n.toLocaleString(undefine
 
 function der(d, key) {
   const pfx = MONTHS[key].short;
+  const expenses = showDraws ? d.expenses : d.expenses.filter(c=>c.label!=='Owner Draws');
   const gross = d.transactions.reduce((s,t)=>s+t.amount,0);
   const whop  = d.transactions.filter(t=>t.processor==='whop').reduce((s,t)=>s+t.amount,0);
   const fan   = d.transactions.filter(t=>t.processor==='fanbasis').reduce((s,t)=>s+t.amount,0);
-  const exp   = d.expenses.reduce((s,c)=>s+c.items.reduce((ss,i)=>ss+i.amount,0),0);
+  const exp   = expenses.reduce((s,c)=>s+c.items.reduce((ss,i)=>ss+i.amount,0),0);
   const net   = gross - exp;
   const margin = gross>0 ? ((net/gross)*100).toFixed(2) : '0.00';
   const avg   = d.transactions.length>0 ? Math.round(gross/d.transactions.length) : 0;
@@ -157,7 +161,7 @@ function der(d, key) {
   d.transactions.forEach(t=>{const day=parseInt(t.date.split('/')[0]);if(day<=7)wd[`${pfx} 1-7`]+=t.amount;else if(day<=14)wd[`${pfx} 8-14`]+=t.amount;else if(day<=21)wd[`${pfx} 15-21`]+=t.amount;else wd[`${pfx} 22+`]+=t.amount;});
   const dm = {};
   d.transactions.forEach(t=>{const day=t.date.split('/')[0];dm[day]=(dm[day]||0)+t.amount;});
-  return {gross,whop,fan,exp,net,margin,avg,closers,wd,dm,txnCount:d.transactions.length,expenses:d.expenses,transactions:d.transactions};
+  return {gross,whop,fan,exp,net,margin,avg,closers,wd,dm,txnCount:d.transactions.length,expenses,transactions:d.transactions};
 }
 
 function destroyCharts() { Object.values(charts).forEach(c=>{try{c.destroy();}catch(e){}}); charts={}; }
@@ -364,6 +368,7 @@ function renderComparison() {
   charts.c = new Chart(document.getElementById('cChart'),{type:'bar',data:{labels:topClosers,datasets:[{label:ma.label,data:cA,backgroundColor:ma.color,borderRadius:5},{label:mb.label,data:cB,backgroundColor:mb.color,borderRadius:5}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:'bottom',labels:{color:C.tick,padding:14,font:{size:12}}},tooltip:{callbacks:{label:c=>' $'+c.raw.toLocaleString()}}},scales:{x:{grid:{display:false},ticks:tk},y:{grid:gr,ticks:{...tk,...yf}}}}});
 }
 
+function toggleDraws(){showDraws=!showDraws;document.getElementById('draws-tog').classList.toggle('on',showDraws);render();}
 function render() {
   destroyCharts();
   if (selected.length === 1) renderSingle(selected[0]);
