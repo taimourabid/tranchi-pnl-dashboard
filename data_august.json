@@ -126,7 +126,8 @@
         { "id": "aug-item-091-4000-8000-000000000091", "name": "Roezan SMS",        "amount": 50      },
         { "id": "aug-item-092-4000-8000-000000000092", "name": "Dev Hiring Posts",  "amount": 69      },
         { "id": "aug-item-093-4000-8000-000000000093", "name": "Vettted",           "amount": 1500    },
-        { "id": "aug-item-094-4000-8000-000000000094", "name": "Smartlead",         "amount": 94      }
+        { "id": "aug-item-094-4000-8000-000000000094", "name": "Smartlead",         "amount": 94      },
+        { "id": "aug-item-095-4000-8000-000000000095", "name": "Circle.so",         "amount": 248     }
       ]
     },
     {
