@@ -90,6 +90,14 @@
       ]
     },
     {
+      "id": "aug-exp-0005-4000-8000-000000000005",
+      "label": "Processing Fees",
+      "items": [
+        { "id": "aug-item-051-4000-8000-000000000051", "name": "Whop 2.7% + $0.30/txn on 33 txns ($142,100)",  "amount": 3846.60 },
+        { "id": "aug-item-052-4000-8000-000000000052", "name": "Fanbasis 2.7% flat on $59,500",                "amount": 1606.50 }
+      ]
+    },
+    {
       "id": "aug-exp-0004-4000-8000-000000000004",
       "label": "Owner Draws",
       "items": [
