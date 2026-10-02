@@ -7,6 +7,7 @@ const app       = express();
 const DATA_PATH      = path.join(__dirname, 'data.json');
 const DATA_JULY_PATH = path.join(__dirname, 'data_july.json');
 const DATA_AUG_PATH  = path.join(__dirname, 'data_august.json');
+const DATA_SEP_CLOSERS_PATH = path.join(__dirname, 'data_september_closers.json');
 
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
@@ -18,6 +19,10 @@ function writeJuly(d)     { fs.writeFileSync(DATA_JULY_PATH, JSON.stringify(d, n
 function readAug()        { return JSON.parse(fs.readFileSync(DATA_AUG_PATH, 'utf-8')); }
 function writeAug(d)      { fs.writeFileSync(DATA_AUG_PATH, JSON.stringify(d, null, 2)); }
 function uid()            { return crypto.randomUUID(); }
+
+// September Closers dashboard
+app.get('/september-closers', (req, res) => res.sendFile(path.join(__dirname, 'public', 'september-closers.html')));
+app.get('/september-closers/api/data', (req, res) => res.json(JSON.parse(fs.readFileSync(DATA_SEP_CLOSERS_PATH, 'utf-8'))));
 
 // Overview
 app.get('/overview', (req, res) => res.sendFile(path.join(__dirname, 'public', 'overview.html')));
