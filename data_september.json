@@ -1349,6 +1349,31 @@
           "id": "sep-comm-016",
           "name": "Ken",
           "amount": 200.0
+        },
+        {
+          "id": "sep-bonus-001",
+          "name": "Alyssa \u2014 bonus",
+          "amount": 1790.46
+        },
+        {
+          "id": "sep-bonus-002",
+          "name": "Cade \u2014 bonus",
+          "amount": 500
+        },
+        {
+          "id": "sep-bonus-003",
+          "name": "Peter \u2014 bonus",
+          "amount": 2328
+        },
+        {
+          "id": "sep-bonus-004",
+          "name": "Amir \u2014 bonus",
+          "amount": 1000
+        },
+        {
+          "id": "sep-bonus-005",
+          "name": "Avery \u2014 bonus",
+          "amount": 500
         }
       ]
     },
