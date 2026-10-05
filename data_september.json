@@ -1622,6 +1622,11 @@
           "id": "sep-sw-add-007",
           "name": "Vidalytics",
           "amount": 24.0
+        },
+        {
+          "id": "sep-sw-ghl",
+          "name": "GHL",
+          "amount": 2039.21
         }
       ]
     },
