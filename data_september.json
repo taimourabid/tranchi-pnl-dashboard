@@ -1380,7 +1380,63 @@
     {
       "id": "sep-exp-002",
       "label": "Operations & Staff",
-      "items": []
+      "items": [
+        {
+          "id": "sep-ops-001",
+          "name": "Taimour (Backend/Dev/Ops)",
+          "amount": 3500
+        },
+        {
+          "id": "sep-ops-002",
+          "name": "Brandy (Credit Repair)",
+          "amount": 1000
+        },
+        {
+          "id": "sep-ops-003",
+          "name": "Ahmed (SEO+Google Ads)",
+          "amount": 700
+        },
+        {
+          "id": "sep-ops-004",
+          "name": "Pamela (Tracking)",
+          "amount": 775
+        },
+        {
+          "id": "sep-ops-005",
+          "name": "AG",
+          "amount": 694
+        },
+        {
+          "id": "sep-ops-006",
+          "name": "Max",
+          "amount": 3750
+        },
+        {
+          "id": "sep-ops-007",
+          "name": "Raj",
+          "amount": 1800
+        },
+        {
+          "id": "sep-ops-008",
+          "name": "Makayla (Operations)",
+          "amount": 3000
+        },
+        {
+          "id": "sep-ops-009",
+          "name": "Sebastian",
+          "amount": 1000
+        },
+        {
+          "id": "sep-ops-010",
+          "name": "Scott Kelly (Ops/Webinar/Media)",
+          "amount": 6960
+        },
+        {
+          "id": "sep-ops-011",
+          "name": "Pedro (Operations)",
+          "amount": 1000
+        }
+      ]
     },
     {
       "id": "sep-exp-003",
@@ -1395,7 +1451,23 @@
     {
       "id": "sep-exp-005",
       "label": "Marketing & Ads",
-      "items": []
+      "items": [
+        {
+          "id": "sep-mkt-001",
+          "name": "FB Adspend",
+          "amount": 30507
+        },
+        {
+          "id": "sep-mkt-002",
+          "name": "Google Ads",
+          "amount": 460
+        },
+        {
+          "id": "sep-mkt-003",
+          "name": "UGC Creators",
+          "amount": 11000
+        }
+      ]
     },
     {
       "id": "sep-exp-006",
