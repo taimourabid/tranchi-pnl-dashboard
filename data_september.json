@@ -1832,31 +1832,6 @@
           "amount": 5000.0
         },
         {
-          "id": "sep-ref-022",
-          "name": "Quincy Smith",
-          "amount": 4850
-        },
-        {
-          "id": "sep-ref-023",
-          "name": "Dani Trapani",
-          "amount": 581
-        },
-        {
-          "id": "sep-ref-024",
-          "name": "Dani Trapani",
-          "amount": 1348
-        },
-        {
-          "id": "sep-ref-025",
-          "name": "Dani Trapani",
-          "amount": 1940
-        },
-        {
-          "id": "sep-ref-026",
-          "name": "John Ortega",
-          "amount": 4850
-        },
-        {
           "id": "sep-ref-027",
           "name": "Nel Harrison",
           "amount": 26
@@ -1881,6 +1856,52 @@
           "id": "sep-draw-003",
           "name": "Yazan Ghezlan",
           "amount": 66600
+        }
+      ]
+    },
+    {
+      "id": "sep-exp-009",
+      "label": "7-Day Window Refunds",
+      "items": [
+        {
+          "id": "sep-7day-001",
+          "name": "John Ortega",
+          "amount": 4850.0
+        },
+        {
+          "id": "sep-7day-002",
+          "name": "Dani Trapani",
+          "amount": 581.0
+        },
+        {
+          "id": "sep-7day-003",
+          "name": "Dani Trapani",
+          "amount": 1348.0
+        },
+        {
+          "id": "sep-7day-004",
+          "name": "Dani Trapani",
+          "amount": 1940.0
+        },
+        {
+          "id": "sep-7day-005",
+          "name": "Quincy Smith",
+          "amount": 4850.0
+        },
+        {
+          "id": "sep-7day-006",
+          "name": "Robert Talarek",
+          "amount": 3000.0
+        },
+        {
+          "id": "sep-7day-007",
+          "name": "Robert Talarek",
+          "amount": 3000.0
+        },
+        {
+          "id": "sep-7day-008",
+          "name": "ASIF KHAN",
+          "amount": 3600.0
         }
       ]
     }
