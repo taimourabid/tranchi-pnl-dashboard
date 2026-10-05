@@ -1412,19 +1412,9 @@
           "amount": 3750
         },
         {
-          "id": "sep-ops-007",
-          "name": "Raj",
-          "amount": 1800
-        },
-        {
           "id": "sep-ops-008",
           "name": "Makayla (Operations)",
           "amount": 3000
-        },
-        {
-          "id": "sep-ops-009",
-          "name": "Sebastian",
-          "amount": 1000
         },
         {
           "id": "sep-ops-010",
@@ -1441,7 +1431,18 @@
     {
       "id": "sep-exp-003",
       "label": "Setters",
-      "items": []
+      "items": [
+        {
+          "id": "sep-set-001",
+          "name": "Raj",
+          "amount": 1800
+        },
+        {
+          "id": "sep-set-002",
+          "name": "Sebastian",
+          "amount": 1000
+        }
+      ]
     },
     {
       "id": "sep-exp-004",
