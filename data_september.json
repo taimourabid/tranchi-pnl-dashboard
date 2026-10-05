@@ -1675,7 +1675,23 @@
     {
       "id": "sep-exp-008",
       "label": "Owner Draws",
-      "items": []
+      "items": [
+        {
+          "id": "sep-draw-001",
+          "name": "Marc Munoz",
+          "amount": 66600
+        },
+        {
+          "id": "sep-draw-002",
+          "name": "Deeb Ghezlan",
+          "amount": 66600
+        },
+        {
+          "id": "sep-draw-003",
+          "name": "Yazan Ghezlan",
+          "amount": 66600
+        }
+      ]
     }
   ]
 }
