@@ -1725,7 +1725,143 @@
     {
       "id": "sep-exp-007",
       "label": "Refunds",
-      "items": []
+      "items": [
+        {
+          "id": "sep-ref-001",
+          "name": "Daniel Romero (dispute)",
+          "amount": 3000.0
+        },
+        {
+          "id": "sep-ref-002",
+          "name": "Tim Rap (dispute)",
+          "amount": 6000.0
+        },
+        {
+          "id": "sep-ref-003",
+          "name": "Kingdom Creations (refund)",
+          "amount": 3000.0
+        },
+        {
+          "id": "sep-ref-004",
+          "name": "T. Seeley (refund)",
+          "amount": 500.0
+        },
+        {
+          "id": "sep-ref-005",
+          "name": "Charles Smith (refund)",
+          "amount": 6000.0
+        },
+        {
+          "id": "sep-ref-006",
+          "name": "Sandra Lindsey (dispute)",
+          "amount": 3500.0
+        },
+        {
+          "id": "sep-ref-007",
+          "name": "Alex massey (refund)",
+          "amount": 3000.0
+        },
+        {
+          "id": "sep-ref-008",
+          "name": "Sylvia Ssemambo (dispute)",
+          "amount": 2300.0
+        },
+        {
+          "id": "sep-ref-009",
+          "name": "Terrence Calhoun (refund)",
+          "amount": 500.0
+        },
+        {
+          "id": "sep-ref-010",
+          "name": "Brandon sutton (refund)",
+          "amount": 3000.0
+        },
+        {
+          "id": "sep-ref-011",
+          "name": "Olive Alexander (refund)",
+          "amount": 3500.0
+        },
+        {
+          "id": "sep-ref-012",
+          "name": "Mary V (refund)",
+          "amount": 500.0
+        },
+        {
+          "id": "sep-ref-013",
+          "name": "Pierce Herr (refund)",
+          "amount": 5000.0
+        },
+        {
+          "id": "sep-ref-014",
+          "name": "Jesse Hopcus (refund)",
+          "amount": 3500.0
+        },
+        {
+          "id": "sep-ref-015",
+          "name": "Miria Santos Lima (dispute)",
+          "amount": 2000.0
+        },
+        {
+          "id": "sep-ref-016",
+          "name": "Samden Group (refund)",
+          "amount": 2000.0
+        },
+        {
+          "id": "sep-ref-017",
+          "name": "Samden Group (refund)",
+          "amount": 3000.0
+        },
+        {
+          "id": "sep-ref-018",
+          "name": "Five Star Staff (refund)",
+          "amount": 4500.0
+        },
+        {
+          "id": "sep-ref-019",
+          "name": "Anthony De Dentro (refund)",
+          "amount": 3500.0
+        },
+        {
+          "id": "sep-ref-020",
+          "name": "Anthony De Dentro (refund)",
+          "amount": 1000.0
+        },
+        {
+          "id": "sep-ref-021",
+          "name": "Cris Angulo (dispute)",
+          "amount": 5000.0
+        },
+        {
+          "id": "sep-ref-022",
+          "name": "Quincy Smith",
+          "amount": 4850
+        },
+        {
+          "id": "sep-ref-023",
+          "name": "Dani Trapani",
+          "amount": 581
+        },
+        {
+          "id": "sep-ref-024",
+          "name": "Dani Trapani",
+          "amount": 1348
+        },
+        {
+          "id": "sep-ref-025",
+          "name": "Dani Trapani",
+          "amount": 1940
+        },
+        {
+          "id": "sep-ref-026",
+          "name": "John Ortega",
+          "amount": 4850
+        },
+        {
+          "id": "sep-ref-027",
+          "name": "Nel Harrison",
+          "amount": 26
+        }
+      ]
     },
     {
       "id": "sep-exp-008",
