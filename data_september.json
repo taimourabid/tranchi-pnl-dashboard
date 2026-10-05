@@ -1,0 +1,1310 @@
+{
+  "transactions": [
+    {
+      "id": "sep-txn-0001",
+      "date": "01/09",
+      "name": "Marcelo Gaboardi",
+      "closer": "Cade",
+      "processor": "fanbasis",
+      "amount": 2500.0
+    },
+    {
+      "id": "sep-txn-0002",
+      "date": "01/09",
+      "name": "Thomas Thomas",
+      "closer": "Cade",
+      "processor": "whop",
+      "amount": 6000.0
+    },
+    {
+      "id": "sep-txn-0003",
+      "date": "02/09",
+      "name": "Robert Chhuth",
+      "closer": "Lee",
+      "processor": "fanbasis",
+      "amount": 1000.0
+    },
+    {
+      "id": "sep-txn-0004",
+      "date": "02/09",
+      "name": "Robert Chhuth",
+      "closer": "Lee",
+      "processor": "fanbasis",
+      "amount": 3500.0
+    },
+    {
+      "id": "sep-txn-0005",
+      "date": "02/09",
+      "name": "Robert Chhuth",
+      "closer": "Lee",
+      "processor": "fanbasis",
+      "amount": 500.0
+    },
+    {
+      "id": "sep-txn-0006",
+      "date": "02/09",
+      "name": "Kyle Brunsmann",
+      "closer": "Cade",
+      "processor": "fanbasis",
+      "amount": 2500.0
+    },
+    {
+      "id": "sep-txn-0007",
+      "date": "02/09",
+      "name": "Derek Ni",
+      "closer": "Avery",
+      "processor": "fanbasis",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0008",
+      "date": "03/09",
+      "name": "Charles Derusha",
+      "closer": "Caden",
+      "processor": "whop",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0009",
+      "date": "03/09",
+      "name": "Alejandro Ramirez",
+      "closer": "Cade",
+      "processor": "fanbasis",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0010",
+      "date": "03/09",
+      "name": "Joshua Gauthier",
+      "closer": "Cade",
+      "processor": "fanbasis",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0011",
+      "date": "03/09",
+      "name": "Bruno Vieira",
+      "closer": "Cade",
+      "processor": "fanbasis",
+      "amount": 6000.0
+    },
+    {
+      "id": "sep-txn-0012",
+      "date": "04/09",
+      "name": "ZIVOTA MIHAJLOVIC",
+      "closer": "Amir",
+      "processor": "whop",
+      "amount": 500.0
+    },
+    {
+      "id": "sep-txn-0013",
+      "date": "04/09",
+      "name": "don't remember the name",
+      "closer": "Amir",
+      "processor": "paypal",
+      "amount": 500.0
+    },
+    {
+      "id": "sep-txn-0014",
+      "date": "04/09",
+      "name": "Royce Barrera",
+      "closer": "Alyssa",
+      "processor": "fanbasis",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0015",
+      "date": "04/09",
+      "name": "JOSHUA WISCOMBE",
+      "closer": "Ken",
+      "processor": "whop",
+      "amount": 2000.0
+    },
+    {
+      "id": "sep-txn-0016",
+      "date": "05/09",
+      "name": "Bryan Deloney",
+      "closer": "Avery",
+      "processor": "fanbasis",
+      "amount": 4000.0
+    },
+    {
+      "id": "sep-txn-0017",
+      "date": "06/09",
+      "name": "Jacqueline Martinez",
+      "closer": "Caden",
+      "processor": "whop",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0018",
+      "date": "07/09",
+      "name": "Michael Hofer",
+      "closer": "Caden",
+      "processor": "whop",
+      "amount": 7000.0
+    },
+    {
+      "id": "sep-txn-0019",
+      "date": "08/09",
+      "name": "Jonathan Burch",
+      "closer": "Luke",
+      "processor": "whop",
+      "amount": 10000.0
+    },
+    {
+      "id": "sep-txn-0020",
+      "date": "09/09",
+      "name": "Firdous Chandiwala",
+      "closer": "Caden",
+      "processor": "fanbasis",
+      "amount": 500.0
+    },
+    {
+      "id": "sep-txn-0021",
+      "date": "09/09",
+      "name": "Todd Horsfall",
+      "closer": "Alyssa",
+      "processor": "fanbasis",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0022",
+      "date": "09/09",
+      "name": "Lance Youngblood",
+      "closer": "Alyssa",
+      "processor": "whop",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0023",
+      "date": "10/09",
+      "name": "CARLITA RANDALL",
+      "closer": "Amir",
+      "processor": "whop",
+      "amount": 6000.0
+    },
+    {
+      "id": "sep-txn-0024",
+      "date": "10/09",
+      "name": "Karla Arceo",
+      "closer": "Amir",
+      "processor": "whop",
+      "amount": 2000.0
+    },
+    {
+      "id": "sep-txn-0025",
+      "date": "10/09",
+      "name": "salomon rodriguez",
+      "closer": "Peter",
+      "processor": "whop",
+      "amount": 2500.0
+    },
+    {
+      "id": "sep-txn-0026",
+      "date": "10/09",
+      "name": "salomon rodriguez",
+      "closer": "Peter",
+      "processor": "whop",
+      "amount": 2500.0
+    },
+    {
+      "id": "sep-txn-0027",
+      "date": "10/09",
+      "name": "Daniel Ferguson",
+      "closer": "Alyssa",
+      "processor": "whop",
+      "amount": 4000.0
+    },
+    {
+      "id": "sep-txn-0028",
+      "date": "10/09",
+      "name": "ZIV MIHAJOVIC",
+      "closer": "Amir",
+      "processor": "whop",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0029",
+      "date": "10/09",
+      "name": "MALIKA DOLATY",
+      "closer": "Amir",
+      "processor": "whop",
+      "amount": 500.0
+    },
+    {
+      "id": "sep-txn-0030",
+      "date": "10/09",
+      "name": "Honapa Bee",
+      "closer": "Deeb",
+      "processor": "fanbasis",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0031",
+      "date": "10/09",
+      "name": "Jesse Hopcus",
+      "closer": "Peter",
+      "processor": "whop",
+      "amount": 3500.0
+    },
+    {
+      "id": "sep-txn-0032",
+      "date": "10/09",
+      "name": "Jason Lancaster",
+      "closer": "Avery",
+      "processor": "fanbasis",
+      "amount": 4500.0
+    },
+    {
+      "id": "sep-txn-0033",
+      "date": "10/09",
+      "name": "GP Theriot",
+      "closer": "Lee",
+      "processor": "fanbasis",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0034",
+      "date": "10/09",
+      "name": "Nichole Simmon",
+      "closer": "Deeb",
+      "processor": "whop",
+      "amount": 1000.0
+    },
+    {
+      "id": "sep-txn-0035",
+      "date": "10/09",
+      "name": "NICHOLE SIMMON",
+      "closer": "Deeb",
+      "processor": "whop",
+      "amount": 1000.0
+    },
+    {
+      "id": "sep-txn-0036",
+      "date": "10/09",
+      "name": "Patrick Lamar",
+      "closer": "Caden",
+      "processor": "fanbasis",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0037",
+      "date": "10/09",
+      "name": "Dylan Sullivan",
+      "closer": "Alyssa",
+      "processor": "fanbasis",
+      "amount": 4500.0
+    },
+    {
+      "id": "sep-txn-0038",
+      "date": "10/09",
+      "name": "Leslie Parker",
+      "closer": "Cade",
+      "processor": "whop",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0039",
+      "date": "11/09",
+      "name": "Nelson Rojas",
+      "closer": "Jang",
+      "processor": "fanbasis",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0040",
+      "date": "10/09",
+      "name": "Mackenzie Wesson",
+      "closer": "Amira",
+      "processor": "whop",
+      "amount": 6000.0
+    },
+    {
+      "id": "sep-txn-0041",
+      "date": "11/09",
+      "name": "Ephraim McCleary",
+      "closer": "Alyssa",
+      "processor": "whop",
+      "amount": 2803.0
+    },
+    {
+      "id": "sep-txn-0042",
+      "date": "11/09",
+      "name": "Anthony Nelson",
+      "closer": "Lee",
+      "processor": "fanbasis",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0043",
+      "date": "11/09",
+      "name": "Anthony Nelson",
+      "closer": "Lee",
+      "processor": "fanbasis",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0044",
+      "date": "12/09",
+      "name": "Omar Dewan",
+      "closer": "Amir",
+      "processor": "whop",
+      "amount": 2500.0
+    },
+    {
+      "id": "sep-txn-0045",
+      "date": "12/09",
+      "name": "M Amin",
+      "closer": "Caden",
+      "processor": "whop",
+      "amount": 500.0
+    },
+    {
+      "id": "sep-txn-0046",
+      "date": "12/09",
+      "name": "William Morris",
+      "closer": "Peter",
+      "processor": "whop",
+      "amount": 500.0
+    },
+    {
+      "id": "sep-txn-0047",
+      "date": "12/09",
+      "name": "Karen Taylor",
+      "closer": "Lee",
+      "processor": "whop",
+      "amount": 4000.0
+    },
+    {
+      "id": "sep-txn-0048",
+      "date": "12/09",
+      "name": "Rebekah Taylor",
+      "closer": "Peter",
+      "processor": "whop",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0049",
+      "date": "13/09",
+      "name": "David Weber",
+      "closer": "Peter",
+      "processor": "whop",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0050",
+      "date": "13/09",
+      "name": "cullen cramsey",
+      "closer": "Peter",
+      "processor": "whop",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0051",
+      "date": "13/09",
+      "name": "Wealth LLC",
+      "closer": "Amira",
+      "processor": "whop",
+      "amount": 500.0
+    },
+    {
+      "id": "sep-txn-0052",
+      "date": "13/09",
+      "name": "Emmanuel Berchie",
+      "closer": "Amir",
+      "processor": "whop",
+      "amount": 500.0
+    },
+    {
+      "id": "sep-txn-0053",
+      "date": "13/09",
+      "name": "Barton Louie",
+      "closer": "Avery",
+      "processor": "fanbasis",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0054",
+      "date": "13/09",
+      "name": "Charles Smith",
+      "closer": "Amira",
+      "processor": "whop",
+      "amount": 6000.0
+    },
+    {
+      "id": "sep-txn-0055",
+      "date": "13/09",
+      "name": "Mary Velazquez",
+      "closer": "Amira",
+      "processor": "whop",
+      "amount": 500.0
+    },
+    {
+      "id": "sep-txn-0056",
+      "date": "13/09",
+      "name": "Olive Alexander",
+      "closer": "Peter",
+      "processor": "whop",
+      "amount": 3500.0
+    },
+    {
+      "id": "sep-txn-0057",
+      "date": "13/09",
+      "name": "Carmen Collins",
+      "closer": "Amir",
+      "processor": "whop",
+      "amount": 500.0
+    },
+    {
+      "id": "sep-txn-0058",
+      "date": "13/09",
+      "name": "Stephen Greten",
+      "closer": "Harry",
+      "processor": "fanbasis",
+      "amount": 6000.0
+    },
+    {
+      "id": "sep-txn-0059",
+      "date": "14/09",
+      "name": "Jose Cuartas",
+      "closer": "Peter",
+      "processor": "whop",
+      "amount": 500.0
+    },
+    {
+      "id": "sep-txn-0060",
+      "date": "14/09",
+      "name": "Rico Maury",
+      "closer": "Lee",
+      "processor": "fanbasis",
+      "amount": 4000.0
+    },
+    {
+      "id": "sep-txn-0061",
+      "date": "14/09",
+      "name": "Rico Maury",
+      "closer": "Lee",
+      "processor": "fanbasis",
+      "amount": 2000.0
+    },
+    {
+      "id": "sep-txn-0062",
+      "date": "14/09",
+      "name": "Virginia Townsend",
+      "closer": "Cade",
+      "processor": "whop",
+      "amount": 4000.0
+    },
+    {
+      "id": "sep-txn-0063",
+      "date": "14/09",
+      "name": "Muhammad Khan",
+      "closer": "Amir",
+      "processor": "whop",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0064",
+      "date": "14/09",
+      "name": "Carmen Collins",
+      "closer": "Amir",
+      "processor": "whop",
+      "amount": 2500.0
+    },
+    {
+      "id": "sep-txn-0065",
+      "date": "14/09",
+      "name": "Anton Hagans",
+      "closer": "Avery",
+      "processor": "fanbasis",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0066",
+      "date": "14/09",
+      "name": "Anton Hagans",
+      "closer": "Avery",
+      "processor": "fanbasis",
+      "amount": 1500.0
+    },
+    {
+      "id": "sep-txn-0067",
+      "date": "14/09",
+      "name": "Clinton Bobo",
+      "closer": "Peter",
+      "processor": "fanbasis",
+      "amount": 3500.0
+    },
+    {
+      "id": "sep-txn-0068",
+      "date": "14/09",
+      "name": "Gabriel Leija",
+      "closer": "Jang",
+      "processor": "whop",
+      "amount": 3600.0
+    },
+    {
+      "id": "sep-txn-0069",
+      "date": "15/09",
+      "name": "William Morris",
+      "closer": "Peter",
+      "processor": "fanbasis",
+      "amount": 4500.0
+    },
+    {
+      "id": "sep-txn-0070",
+      "date": "15/09",
+      "name": "Omar Dewan",
+      "closer": "Amir",
+      "processor": "whop",
+      "amount": 500.0
+    },
+    {
+      "id": "sep-txn-0071",
+      "date": "15/09",
+      "name": "Dean Balton",
+      "closer": "Alyssa",
+      "processor": "fanbasis",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0072",
+      "date": "15/09",
+      "name": "Timothy Scales",
+      "closer": "Harry",
+      "processor": "whop",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0073",
+      "date": "15/09",
+      "name": "Landon Wise",
+      "closer": "Avery",
+      "processor": "fanbasis",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0074",
+      "date": "16/09",
+      "name": "Kenneth Gibson",
+      "closer": "Peter",
+      "processor": "fanbasis",
+      "amount": 5500.0
+    },
+    {
+      "id": "sep-txn-0075",
+      "date": "16/09",
+      "name": "Karla Arceo",
+      "closer": "Amir",
+      "processor": "whop",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0076",
+      "date": "16/09",
+      "name": "Abel Ramirez",
+      "closer": "Amir",
+      "processor": "fanbasis",
+      "amount": 2000.0
+    },
+    {
+      "id": "sep-txn-0077",
+      "date": "16/09",
+      "name": "Michael Chiever",
+      "closer": "Caden",
+      "processor": "fanbasis",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0078",
+      "date": "16/09",
+      "name": "Kimella Chapman",
+      "closer": "Alyssa",
+      "processor": "fanbasis",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0079",
+      "date": "16/09",
+      "name": "Colin Faux",
+      "closer": "Amir",
+      "processor": "fanbasis",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0080",
+      "date": "16/09",
+      "name": "Jason Kuczmarski",
+      "closer": "Alyssa",
+      "processor": "fanbasis",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0081",
+      "date": "16/09",
+      "name": "Kasey Alton",
+      "closer": "Amir",
+      "processor": "whop",
+      "amount": 3600.0
+    },
+    {
+      "id": "sep-txn-0082",
+      "date": "17/09",
+      "name": "Stephen Garten",
+      "closer": "Harry",
+      "processor": "fanbasis",
+      "amount": 6000.0
+    },
+    {
+      "id": "sep-txn-0083",
+      "date": "17/09",
+      "name": "Sandra Sandoval",
+      "closer": "Lee",
+      "processor": "fanbasis",
+      "amount": 1000.0
+    },
+    {
+      "id": "sep-txn-0084",
+      "date": "17/09",
+      "name": "Terrence Hicks",
+      "closer": "Tate",
+      "processor": "fanbasis",
+      "amount": 250.0
+    },
+    {
+      "id": "sep-txn-0085",
+      "date": "17/09",
+      "name": "Alejandro Moreno",
+      "closer": "Cade",
+      "processor": "whop",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0086",
+      "date": "17/09",
+      "name": "Inez Lawson",
+      "closer": "Cade",
+      "processor": "fanbasis",
+      "amount": 2500.0
+    },
+    {
+      "id": "sep-txn-0087",
+      "date": "17/09",
+      "name": "Ronald Crocker",
+      "closer": "Avery",
+      "processor": "whop",
+      "amount": 3600.0
+    },
+    {
+      "id": "sep-txn-0088",
+      "date": "18/09",
+      "name": "Geoffrey Diaz",
+      "closer": "Avery",
+      "processor": "fanbasis",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0089",
+      "date": "18/09",
+      "name": "Marcus Allen",
+      "closer": "Caden",
+      "processor": "whop",
+      "amount": 3500.0
+    },
+    {
+      "id": "sep-txn-0090",
+      "date": "18/09",
+      "name": "Wyatt Orr",
+      "closer": "Lee",
+      "processor": "fanbasis",
+      "amount": 6000.0
+    },
+    {
+      "id": "sep-txn-0091",
+      "date": "18/09",
+      "name": "Timothy Wilkerson",
+      "closer": "Tate",
+      "processor": "fanbasis",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0092",
+      "date": "18/09",
+      "name": "Jon Day",
+      "closer": "Tate",
+      "processor": "fanbasis",
+      "amount": 1500.0
+    },
+    {
+      "id": "sep-txn-0093",
+      "date": "18/09",
+      "name": "John Ortega",
+      "closer": "Deeb",
+      "processor": "fanbasis",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0094",
+      "date": "18/09",
+      "name": "PRAHADEESWARAN DHARMALINGAM",
+      "closer": "Alyssa",
+      "processor": "fanbasis",
+      "amount": 2500.0
+    },
+    {
+      "id": "sep-txn-0095",
+      "date": "18/09",
+      "name": "PRAHADEESWARAN DHARMALINGAM",
+      "closer": "Alyssa",
+      "processor": "fanbasis",
+      "amount": 2500.0
+    },
+    {
+      "id": "sep-txn-0096",
+      "date": "18/09",
+      "name": "Marjorie Swingle",
+      "closer": "Amira",
+      "processor": "fanbasis",
+      "amount": 500.0
+    },
+    {
+      "id": "sep-txn-0097",
+      "date": "18/09",
+      "name": "Matthew Paxton",
+      "closer": "Alyssa",
+      "processor": "fanbasis",
+      "amount": 6000.0
+    },
+    {
+      "id": "sep-txn-0098",
+      "date": "18/09",
+      "name": "John McCloud",
+      "closer": "Alyssa",
+      "processor": "fanbasis",
+      "amount": 5500.0
+    },
+    {
+      "id": "sep-txn-0099",
+      "date": "18/09",
+      "name": "Julio Alba",
+      "closer": "Peter",
+      "processor": "whop",
+      "amount": 5500.0
+    },
+    {
+      "id": "sep-txn-0100",
+      "date": "18/09",
+      "name": "Mary V",
+      "closer": "Amira",
+      "processor": "whop",
+      "amount": 5500.0
+    },
+    {
+      "id": "sep-txn-0101",
+      "date": "19/09",
+      "name": "Vitalii Buzulan",
+      "closer": "Harry",
+      "processor": "fanbasis",
+      "amount": 500.0
+    },
+    {
+      "id": "sep-txn-0102",
+      "date": "19/09",
+      "name": "Marjorie Swingle",
+      "closer": "Amira",
+      "processor": "whop",
+      "amount": 2500.0
+    },
+    {
+      "id": "sep-txn-0103",
+      "date": "19/09",
+      "name": "Austin Pembertin",
+      "closer": "Amira",
+      "processor": "fanbasis",
+      "amount": 500.0
+    },
+    {
+      "id": "sep-txn-0104",
+      "date": "19/09",
+      "name": "David Fansler",
+      "closer": "Tate",
+      "processor": "fanbasis",
+      "amount": 250.0
+    },
+    {
+      "id": "sep-txn-0105",
+      "date": "19/09",
+      "name": "Matthew O'Brien",
+      "closer": "Caden",
+      "processor": "whop",
+      "amount": 3600.0
+    },
+    {
+      "id": "sep-txn-0106",
+      "date": "20/09",
+      "name": "Bryan Aromaye",
+      "closer": "Avery",
+      "processor": "fanbasis",
+      "amount": 2000.0
+    },
+    {
+      "id": "sep-txn-0107",
+      "date": "20/09",
+      "name": "Bryan Aromaye",
+      "closer": "Avery",
+      "processor": "fanbasis",
+      "amount": 500.0
+    },
+    {
+      "id": "sep-txn-0108",
+      "date": "20/09",
+      "name": "Danny Sanchez III",
+      "closer": "Caden",
+      "processor": "fanbasis",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0109",
+      "date": "21/09",
+      "name": "Landon Wise",
+      "closer": "Avery",
+      "processor": "fanbasis",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0110",
+      "date": "21/09",
+      "name": "Danielle Delaveaga",
+      "closer": "Alyssa",
+      "processor": "fanbasis",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0111",
+      "date": "21/09",
+      "name": "Austin Pemberton",
+      "closer": "Amira",
+      "processor": "whop",
+      "amount": 1250.0
+    },
+    {
+      "id": "sep-txn-0112",
+      "date": "21/09",
+      "name": "Austin Pemberton",
+      "closer": "Amira",
+      "processor": "whop",
+      "amount": 1250.0
+    },
+    {
+      "id": "sep-txn-0113",
+      "date": "21/09",
+      "name": "Alexander Jahelka",
+      "closer": "Peter",
+      "processor": "fanbasis",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0114",
+      "date": "21/09",
+      "name": "Bryan Aromaye",
+      "closer": "Avery",
+      "processor": "fanbasis",
+      "amount": 2500.0
+    },
+    {
+      "id": "sep-txn-0115",
+      "date": "21/09",
+      "name": "Firdous Chandiwala",
+      "closer": "Caden",
+      "processor": "fanbasis",
+      "amount": 2500.0
+    },
+    {
+      "id": "sep-txn-0116",
+      "date": "22/09",
+      "name": "Jimmy Lin",
+      "closer": "Peter",
+      "processor": "fanbasis",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0117",
+      "date": "23/09",
+      "name": "George de la Cour",
+      "closer": "Amir",
+      "processor": "fanbasis",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0118",
+      "date": "23/09",
+      "name": "Hamit Abdoulkarim",
+      "closer": "Tate",
+      "processor": "whop",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0119",
+      "date": "23/09",
+      "name": "Omar Dewan",
+      "closer": "Amir",
+      "processor": "whop",
+      "amount": 2000.0
+    },
+    {
+      "id": "sep-txn-0120",
+      "date": "23/09",
+      "name": "Jackie Campbell",
+      "closer": "Amira",
+      "processor": "fanbasis",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0121",
+      "date": "23/09",
+      "name": "Thomas Santerfeit",
+      "closer": "Caden",
+      "processor": "fanbasis",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0122",
+      "date": "23/09",
+      "name": "Shon Boswell",
+      "closer": "Amir",
+      "processor": "fanbasis",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0123",
+      "date": "24/09",
+      "name": "Oluseyi Omolayo",
+      "closer": "Caleb",
+      "processor": "whop",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0124",
+      "date": "23/09",
+      "name": "Tray Branch",
+      "closer": "Tate",
+      "processor": "whop",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0125",
+      "date": "24/09",
+      "name": "Juliana Limones",
+      "closer": "Peter",
+      "processor": "fanbasis",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0126",
+      "date": "24/09",
+      "name": "Bobby Grossi",
+      "closer": "Avery",
+      "processor": "whop",
+      "amount": 6000.0
+    },
+    {
+      "id": "sep-txn-0127",
+      "date": "24/09",
+      "name": "Cyan Misencik",
+      "closer": "Alyssa",
+      "processor": "fanbasis",
+      "amount": 6000.0
+    },
+    {
+      "id": "sep-txn-0128",
+      "date": "24/09",
+      "name": "Sandra Sandoval",
+      "closer": "Lee",
+      "processor": "fanbasis",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0129",
+      "date": "24/09",
+      "name": "Angie McDonald",
+      "closer": "Amira",
+      "processor": "whop",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0130",
+      "date": "25/09",
+      "name": "George Larsen",
+      "closer": "Caleb",
+      "processor": "fanbasis",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0131",
+      "date": "25/09",
+      "name": "Eliana S",
+      "closer": "Harry",
+      "processor": "fanbasis",
+      "amount": 4500.0
+    },
+    {
+      "id": "sep-txn-0132",
+      "date": "25/09",
+      "name": "Tera Vedder",
+      "closer": "Peter",
+      "processor": "fanbasis",
+      "amount": 5500.0
+    },
+    {
+      "id": "sep-txn-0133",
+      "date": "25/09",
+      "name": "Matt Walker",
+      "closer": "Lee",
+      "processor": "fanbasis",
+      "amount": 4000.0
+    },
+    {
+      "id": "sep-txn-0134",
+      "date": "25/09",
+      "name": "Matt Walker",
+      "closer": "Lee",
+      "processor": "fanbasis",
+      "amount": 2000.0
+    },
+    {
+      "id": "sep-txn-0135",
+      "date": "25/09",
+      "name": "Michael Mccann",
+      "closer": "Tate",
+      "processor": "fanbasis",
+      "amount": 250.0
+    },
+    {
+      "id": "sep-txn-0136",
+      "date": "25/09",
+      "name": "Jon Day",
+      "closer": "Tate",
+      "processor": "fanbasis",
+      "amount": 1500.0
+    },
+    {
+      "id": "sep-txn-0137",
+      "date": "25/09",
+      "name": "Peter Ventouris",
+      "closer": "Peter",
+      "processor": "whop",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0138",
+      "date": "26/09",
+      "name": "Kaylin Lightfoot",
+      "closer": "Tate",
+      "processor": "whop",
+      "amount": 6000.0
+    },
+    {
+      "id": "sep-txn-0139",
+      "date": "27/09",
+      "name": "Andy Slabaugh",
+      "closer": "Amir",
+      "processor": "whop",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0140",
+      "date": "27/09",
+      "name": "Ismail Aweis",
+      "closer": "Amira",
+      "processor": "whop",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0141",
+      "date": "28/09",
+      "name": "james riley",
+      "closer": "Harry",
+      "processor": "fanbasis",
+      "amount": 5500.0
+    },
+    {
+      "id": "sep-txn-0142",
+      "date": "28/09",
+      "name": "Zachary Tullock",
+      "closer": "Lee",
+      "processor": "fanbasis",
+      "amount": 6000.0
+    },
+    {
+      "id": "sep-txn-0143",
+      "date": "28/09",
+      "name": "James Neuvieme",
+      "closer": "Cade",
+      "processor": "fanbasis",
+      "amount": 6000.0
+    },
+    {
+      "id": "sep-txn-0144",
+      "date": "28/09",
+      "name": "Robert Talarek",
+      "closer": "Amir",
+      "processor": "whop",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0145",
+      "date": "28/09",
+      "name": "Robert Talarek",
+      "closer": "Amir",
+      "processor": "whop",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0146",
+      "date": "29/09",
+      "name": "joshua chico",
+      "closer": "Caden",
+      "processor": "fanbasis",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0147",
+      "date": "29/09",
+      "name": "John Taylor",
+      "closer": "Amir",
+      "processor": "fanbasis",
+      "amount": 4000.0
+    },
+    {
+      "id": "sep-txn-0148",
+      "date": "29/09",
+      "name": "Jonathan Lascelles",
+      "closer": "Peter",
+      "processor": "whop",
+      "amount": 5500.0
+    },
+    {
+      "id": "sep-txn-0149",
+      "date": "30/09",
+      "name": "Patricia Gilroy",
+      "closer": "Alyssa",
+      "processor": "whop",
+      "amount": 5400.0
+    },
+    {
+      "id": "sep-txn-0150",
+      "date": "30/09",
+      "name": "Marion Mendelsohn",
+      "closer": "Taha",
+      "processor": "whop",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0151",
+      "date": "30/09",
+      "name": "Tony Velasquez",
+      "closer": "Amira",
+      "processor": "fanbasis",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0152",
+      "date": "30/09",
+      "name": "Claudia Giovannoni",
+      "closer": "Taha",
+      "processor": "fanbasis",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0153",
+      "date": "30/09",
+      "name": "Jay Bentley",
+      "closer": "Tate",
+      "processor": "whop",
+      "amount": 5000.0
+    },
+    {
+      "id": "sep-txn-0154",
+      "date": "30/09",
+      "name": "Jennifer Tarbell",
+      "closer": "Tate",
+      "processor": "whop",
+      "amount": 3000.0
+    },
+    {
+      "id": "sep-txn-0155",
+      "date": "30/09",
+      "name": "Onyedika Agbazue",
+      "closer": "Lee",
+      "processor": "whop",
+      "amount": 4000.0
+    },
+    {
+      "id": "sep-txn-0156",
+      "date": "19/09",
+      "name": "Dani Trapani",
+      "closer": "Peter",
+      "processor": "fanbasis",
+      "amount": 4000.0
+    },
+    {
+      "id": "sep-txn-0157",
+      "date": "27/09",
+      "name": "ASIF KHAN",
+      "closer": "Avery",
+      "processor": "whop",
+      "amount": 3600.0
+    },
+    {
+      "id": "sep-txn-0158",
+      "date": "24/09",
+      "name": "Quincy Smith",
+      "closer": "Alyssa",
+      "processor": "fanbasis",
+      "amount": 5000.0
+    }
+  ],
+  "expenses": [
+    {
+      "id": "sep-exp-001",
+      "label": "Sales Commissions",
+      "items": []
+    },
+    {
+      "id": "sep-exp-002",
+      "label": "Operations & Staff",
+      "items": []
+    },
+    {
+      "id": "sep-exp-003",
+      "label": "Setters",
+      "items": []
+    },
+    {
+      "id": "sep-exp-004",
+      "label": "Software & Tools",
+      "items": []
+    },
+    {
+      "id": "sep-exp-005",
+      "label": "Marketing & Ads",
+      "items": []
+    },
+    {
+      "id": "sep-exp-006",
+      "label": "Processing Fees",
+      "items": []
+    },
+    {
+      "id": "sep-exp-007",
+      "label": "Refunds",
+      "items": []
+    },
+    {
+      "id": "sep-exp-008",
+      "label": "Owner Draws",
+      "items": []
+    }
+  ]
+}

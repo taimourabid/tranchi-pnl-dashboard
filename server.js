@@ -20,6 +20,63 @@ function readAug()        { return JSON.parse(fs.readFileSync(DATA_AUG_PATH, 'ut
 function writeAug(d)      { fs.writeFileSync(DATA_AUG_PATH, JSON.stringify(d, null, 2)); }
 function uid()            { return crypto.randomUUID(); }
 
+// September P&L dashboard
+app.get('/september', (req, res) => res.sendFile(path.join(__dirname, 'public', 'september.html')));
+
+app.get('/september/api/data', (req, res) => {
+  const d = JSON.parse(fs.readFileSync(path.join(__dirname, 'data_september.json'), 'utf-8'));
+  res.json(d);
+});
+
+app.post('/september/api/transactions', (req, res) => {
+  const raw = JSON.parse(fs.readFileSync(path.join(__dirname, 'data_september.json'), 'utf-8'));
+  const txn = { id: uid(), ...req.body, amount: parseFloat(req.body.amount) };
+  raw.transactions.push(txn);
+  fs.writeFileSync(path.join(__dirname, 'data_september.json'), JSON.stringify(raw, null, 2));
+  res.json(txn);
+});
+
+app.delete('/september/api/transactions/:id', (req, res) => {
+  const raw = JSON.parse(fs.readFileSync(path.join(__dirname, 'data_september.json'), 'utf-8'));
+  raw.transactions = raw.transactions.filter(t => t.id !== req.params.id);
+  fs.writeFileSync(path.join(__dirname, 'data_september.json'), JSON.stringify(raw, null, 2));
+  res.json({ ok: true });
+});
+
+app.post('/september/api/expenses', (req, res) => {
+  const raw = JSON.parse(fs.readFileSync(path.join(__dirname, 'data_september.json'), 'utf-8'));
+  const cat = { id: uid(), label: req.body.label, items: [] };
+  raw.expenses.push(cat);
+  fs.writeFileSync(path.join(__dirname, 'data_september.json'), JSON.stringify(raw, null, 2));
+  res.json(cat);
+});
+
+app.delete('/september/api/expenses/:id', (req, res) => {
+  const raw = JSON.parse(fs.readFileSync(path.join(__dirname, 'data_september.json'), 'utf-8'));
+  raw.expenses = raw.expenses.filter(e => e.id !== req.params.id);
+  fs.writeFileSync(path.join(__dirname, 'data_september.json'), JSON.stringify(raw, null, 2));
+  res.json({ ok: true });
+});
+
+app.post('/september/api/expenses/:catId/items', (req, res) => {
+  const raw = JSON.parse(fs.readFileSync(path.join(__dirname, 'data_september.json'), 'utf-8'));
+  const cat = raw.expenses.find(e => e.id === req.params.catId);
+  if (!cat) return res.status(404).json({ error: 'Not found' });
+  const item = { id: uid(), name: req.body.name, amount: parseFloat(req.body.amount) };
+  cat.items.push(item);
+  fs.writeFileSync(path.join(__dirname, 'data_september.json'), JSON.stringify(raw, null, 2));
+  res.json(item);
+});
+
+app.delete('/september/api/expenses/:catId/items/:itemId', (req, res) => {
+  const raw = JSON.parse(fs.readFileSync(path.join(__dirname, 'data_september.json'), 'utf-8'));
+  const cat = raw.expenses.find(e => e.id === req.params.catId);
+  if (!cat) return res.status(404).json({ error: 'Not found' });
+  cat.items = cat.items.filter(i => i.id !== req.params.itemId);
+  fs.writeFileSync(path.join(__dirname, 'data_september.json'), JSON.stringify(raw, null, 2));
+  res.json({ ok: true });
+});
+
 // September Closers dashboard
 app.get('/september-closers', (req, res) => res.sendFile(path.join(__dirname, 'public', 'september-closers.html')));
 app.get('/september-closers/api/data', (req, res) => res.json(JSON.parse(fs.readFileSync(DATA_SEP_CLOSERS_PATH, 'utf-8'))));
