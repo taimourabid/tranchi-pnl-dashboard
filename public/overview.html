@@ -121,6 +121,7 @@
     <button class="mbtn on" data-key="june">June 2026</button>
     <button class="mbtn"    data-key="july">July 2026</button>
     <button class="mbtn"    data-key="august">August 2026</button>
+    <button class="mbtn"    data-key="september">September 2026</button>
     <span class="month-hint">Select one or two to compare</span>
   </div>
   <div id="content"></div>
@@ -133,7 +134,8 @@ const LC=[C.goldlt,C.gold,C.green,C.teal,C.blue,C.purple,C.orange,C.red];
 const MONTHS = {
   june:   { label:'June 2026',   short:'Jun', url:'/api/data',        color:C.gold, colorlt:C.goldlt },
   july:   { label:'July 2026',   short:'Jul', url:'/july/api/data',   color:C.blue, colorlt:'#89c4f4' },
-  august: { label:'August 2026', short:'Aug', url:'/august/api/data', color:C.teal, colorlt:'#7dd4c8' },
+  august:    { label:'August 2026',    short:'Aug', url:'/august/api/data',    color:C.teal,   colorlt:'#7dd4c8' },
+  september: { label:'September 2026', short:'Sep', url:'/september/api/data', color:C.purple, colorlt:'#c89df4' },
 };
 
 let allData = {};
