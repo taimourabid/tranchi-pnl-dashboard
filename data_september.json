@@ -1835,6 +1835,11 @@
           "id": "sep-ref-027",
           "name": "Nel Harrison",
           "amount": 26
+        },
+        {
+          "id": "sep-ref-028",
+          "name": "Fanbasis old account balance",
+          "amount": 3600
         }
       ]
     },
