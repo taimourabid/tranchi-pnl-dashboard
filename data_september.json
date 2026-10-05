@@ -1419,7 +1419,7 @@
         {
           "id": "sep-ops-010",
           "name": "Scott Kelly (Ops/Webinar/Media)",
-          "amount": 6960
+          "amount": 9960
         },
         {
           "id": "sep-ops-011",
@@ -1577,6 +1577,51 @@
           "id": "sep-sw-024",
           "name": "ElevenLabs",
           "amount": 25.26
+        },
+        {
+          "id": "sep-sw-025",
+          "name": "Google Workspace",
+          "amount": 838.32
+        },
+        {
+          "id": "sep-sw-026",
+          "name": "Fathom",
+          "amount": 572.9
+        },
+        {
+          "id": "sep-sw-add-001",
+          "name": "Zapier",
+          "amount": 1051.33
+        },
+        {
+          "id": "sep-sw-add-002",
+          "name": "Activecampaign",
+          "amount": 525.0
+        },
+        {
+          "id": "sep-sw-add-003",
+          "name": "QuickBooks",
+          "amount": 437.91
+        },
+        {
+          "id": "sep-sw-add-004",
+          "name": "Rankera",
+          "amount": 250.0
+        },
+        {
+          "id": "sep-sw-add-005",
+          "name": "Wistia",
+          "amount": 107.91
+        },
+        {
+          "id": "sep-sw-add-006",
+          "name": "Circle.so",
+          "amount": 248.0
+        },
+        {
+          "id": "sep-sw-add-007",
+          "name": "Vidalytics",
+          "amount": 24.0
         }
       ]
     },
@@ -1628,6 +1673,11 @@
           "id": "sep-mkt-add-006",
           "name": "SMTP Marketing",
           "amount": 36.75
+        },
+        {
+          "id": "sep-mkt-tom-001",
+          "name": "Tom (Organic Content Creator)",
+          "amount": 6000.0
         }
       ]
     },
