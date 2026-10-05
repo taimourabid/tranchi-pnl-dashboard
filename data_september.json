@@ -1269,7 +1269,88 @@
     {
       "id": "sep-exp-001",
       "label": "Sales Commissions",
-      "items": []
+      "items": [
+        {
+          "id": "sep-comm-001",
+          "name": "Peter",
+          "amount": 7446.0
+        },
+        {
+          "id": "sep-comm-002",
+          "name": "Alyssa",
+          "amount": 6952.3
+        },
+        {
+          "id": "sep-comm-003",
+          "name": "Amir",
+          "amount": 5816.0
+        },
+        {
+          "id": "sep-comm-004",
+          "name": "Lee",
+          "amount": 5104.0
+        },
+        {
+          "id": "sep-comm-005",
+          "name": "Avery",
+          "amount": 4890.0
+        },
+        {
+          "id": "sep-comm-006",
+          "name": "Cade",
+          "amount": 4550.0
+        },
+        {
+          "id": "sep-comm-007",
+          "name": "Caden",
+          "amount": 4145.6
+        },
+        {
+          "id": "sep-comm-008",
+          "name": "Amira",
+          "amount": 3718.0
+        },
+        {
+          "id": "sep-comm-009",
+          "name": "Tate",
+          "amount": 2896.0
+        },
+        {
+          "id": "sep-comm-010",
+          "name": "Harry",
+          "amount": 2780.0
+        },
+        {
+          "id": "sep-comm-011",
+          "name": "Deeb",
+          "amount": 1200.0
+        },
+        {
+          "id": "sep-comm-012",
+          "name": "Luke",
+          "amount": 1000.0
+        },
+        {
+          "id": "sep-comm-013",
+          "name": "Jang",
+          "amount": 788.0
+        },
+        {
+          "id": "sep-comm-014",
+          "name": "Caleb",
+          "amount": 740.0
+        },
+        {
+          "id": "sep-comm-015",
+          "name": "Taha",
+          "amount": 600.0
+        },
+        {
+          "id": "sep-comm-016",
+          "name": "Ken",
+          "amount": 200.0
+        }
+      ]
     },
     {
       "id": "sep-exp-002",
