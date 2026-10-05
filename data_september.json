@@ -1425,6 +1425,16 @@
           "id": "sep-ops-011",
           "name": "Pedro (Operations)",
           "amount": 1000
+        },
+        {
+          "id": "sep-ops-add-001",
+          "name": "T-Mobile",
+          "amount": 165.85
+        },
+        {
+          "id": "sep-ops-add-002",
+          "name": "Payroll",
+          "amount": 6775.0
         }
       ]
     },
@@ -1447,7 +1457,128 @@
     {
       "id": "sep-exp-004",
       "label": "Software & Tools",
-      "items": []
+      "items": [
+        {
+          "id": "sep-sw-001",
+          "name": "Anthropic (Claude AI)",
+          "amount": 1484.4
+        },
+        {
+          "id": "sep-sw-002",
+          "name": "Dialer.io",
+          "amount": 1135.0
+        },
+        {
+          "id": "sep-sw-003",
+          "name": "Upwork",
+          "amount": 1064.99
+        },
+        {
+          "id": "sep-sw-004",
+          "name": "Manus AI",
+          "amount": 810.6
+        },
+        {
+          "id": "sep-sw-005",
+          "name": "Twilio",
+          "amount": 321.49
+        },
+        {
+          "id": "sep-sw-006",
+          "name": "Zoom",
+          "amount": 312.3
+        },
+        {
+          "id": "sep-sw-007",
+          "name": "OpenAI",
+          "amount": 270.22
+        },
+        {
+          "id": "sep-sw-008",
+          "name": "Slack",
+          "amount": 268.72
+        },
+        {
+          "id": "sep-sw-009",
+          "name": "DocuSign",
+          "amount": 186.58
+        },
+        {
+          "id": "sep-sw-010",
+          "name": "Calendly",
+          "amount": 153.65
+        },
+        {
+          "id": "sep-sw-011",
+          "name": "Typeform",
+          "amount": 129.0
+        },
+        {
+          "id": "sep-sw-012",
+          "name": "Webinarjam",
+          "amount": 103.95
+        },
+        {
+          "id": "sep-sw-013",
+          "name": "Maps.com",
+          "amount": 99.0
+        },
+        {
+          "id": "sep-sw-014",
+          "name": "GoDaddy",
+          "amount": 95.07
+        },
+        {
+          "id": "sep-sw-015",
+          "name": "ManyChat",
+          "amount": 95.0
+        },
+        {
+          "id": "sep-sw-016",
+          "name": "Smartlead",
+          "amount": 94.0
+        },
+        {
+          "id": "sep-sw-017",
+          "name": "AWS",
+          "amount": 74.64
+        },
+        {
+          "id": "sep-sw-018",
+          "name": "OnlineJobs.ph",
+          "amount": 69.0
+        },
+        {
+          "id": "sep-sw-019",
+          "name": "Render",
+          "amount": 65.57
+        },
+        {
+          "id": "sep-sw-020",
+          "name": "Deepseek",
+          "amount": 53.0
+        },
+        {
+          "id": "sep-sw-021",
+          "name": "Addevent",
+          "amount": 36.0
+        },
+        {
+          "id": "sep-sw-022",
+          "name": "Gamma",
+          "amount": 20.0
+        },
+        {
+          "id": "sep-sw-023",
+          "name": "Make.com",
+          "amount": 19.76
+        },
+        {
+          "id": "sep-sw-024",
+          "name": "ElevenLabs",
+          "amount": 25.26
+        }
+      ]
     },
     {
       "id": "sep-exp-005",
@@ -1467,6 +1598,36 @@
           "id": "sep-mkt-003",
           "name": "UGC Creators",
           "amount": 11000
+        },
+        {
+          "id": "sep-mkt-add-001",
+          "name": "Blooio (iMessage)",
+          "amount": 2441.74
+        },
+        {
+          "id": "sep-mkt-add-002",
+          "name": "Sendblue (SMS)",
+          "amount": 1300.0
+        },
+        {
+          "id": "sep-mkt-add-003",
+          "name": "Roezan SMS",
+          "amount": 1150.0
+        },
+        {
+          "id": "sep-mkt-add-004",
+          "name": "Webflow",
+          "amount": 136.09
+        },
+        {
+          "id": "sep-mkt-add-005",
+          "name": "Canva",
+          "amount": 30.19
+        },
+        {
+          "id": "sep-mkt-add-006",
+          "name": "SMTP Marketing",
+          "amount": 36.75
         }
       ]
     },
@@ -1498,6 +1659,11 @@
           "id": "sep-fee-005",
           "name": "Fanbasis std (2.7%+$0.30)",
           "amount": 8038.05
+        },
+        {
+          "id": "sep-prc-add-001",
+          "name": "Gateway (merchant fees)",
+          "amount": 38.0
         }
       ]
     },
