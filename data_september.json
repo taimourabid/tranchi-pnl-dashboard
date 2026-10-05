@@ -1294,7 +1294,33 @@
     {
       "id": "sep-exp-006",
       "label": "Processing Fees",
-      "items": []
+      "items": [
+        {
+          "id": "sep-fee-001",
+          "name": "Claritypay (20%)",
+          "amount": 18660.0
+        },
+        {
+          "id": "sep-fee-002",
+          "name": "Splitit (15%)",
+          "amount": 7950.0
+        },
+        {
+          "id": "sep-fee-003",
+          "name": "Klarna (15%)",
+          "amount": 975.0
+        },
+        {
+          "id": "sep-fee-004",
+          "name": "Whop standard (2.7%)",
+          "amount": 2521.88
+        },
+        {
+          "id": "sep-fee-005",
+          "name": "Fanbasis std (2.7%+$0.30)",
+          "amount": 8038.05
+        }
+      ]
     },
     {
       "id": "sep-exp-007",
