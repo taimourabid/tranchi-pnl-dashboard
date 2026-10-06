@@ -1683,6 +1683,11 @@
           "id": "sep-mkt-tom-001",
           "name": "Tom (Organic Content Creator)",
           "amount": 6000.0
+        },
+        {
+          "id": "sep-mkt-enzo",
+          "name": "Enzo (Shoutouts)",
+          "amount": 3500
         }
       ]
     },
