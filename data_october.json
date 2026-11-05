@@ -2053,6 +2053,11 @@
           "id": "oct-ops-007",
           "name": "Mark Joshua",
           "amount": 450
+        },
+        {
+          "id": "oct-ops-008",
+          "name": "High Ticket Sales Academy",
+          "amount": 2000.0
         }
       ]
     },
@@ -2064,6 +2069,26 @@
           "id": "oct-mkt-001",
           "name": "YouTube Comments",
           "amount": 150
+        },
+        {
+          "id": "oct-mkt-002",
+          "name": "Tom (Organic Content)",
+          "amount": 3000.0
+        },
+        {
+          "id": "oct-mkt-003",
+          "name": "Facebook Ad Spend",
+          "amount": 9362.0
+        },
+        {
+          "id": "oct-mkt-004",
+          "name": "Scott Kelly (Marketing)",
+          "amount": 3000.0
+        },
+        {
+          "id": "oct-mkt-005",
+          "name": "Enzo (Shoutouts)",
+          "amount": 3500.0
         }
       ]
     },
@@ -2075,6 +2100,193 @@
           "id": "oct-set-001",
           "name": "Raj",
           "amount": 1830
+        }
+      ]
+    },
+    {
+      "id": "oct-exp-008",
+      "label": "Software & Tools",
+      "items": [
+        {
+          "id": "oct-sw-001",
+          "name": "Manus AI",
+          "amount": 5440.0
+        },
+        {
+          "id": "oct-sw-002",
+          "name": "Blooio (iMessage)",
+          "amount": 2391.0
+        },
+        {
+          "id": "oct-sw-003",
+          "name": "HighLevel",
+          "amount": 1807.0
+        },
+        {
+          "id": "oct-sw-004",
+          "name": "Sendblue",
+          "amount": 1300.0
+        },
+        {
+          "id": "oct-sw-005",
+          "name": "Twilio",
+          "amount": 930.77
+        },
+        {
+          "id": "oct-sw-006",
+          "name": "Fathom Video",
+          "amount": 770.44
+        },
+        {
+          "id": "oct-sw-007",
+          "name": "QuickBooks",
+          "amount": 557.54
+        },
+        {
+          "id": "oct-sw-008",
+          "name": "Moonshot",
+          "amount": 500.0
+        },
+        {
+          "id": "oct-sw-009",
+          "name": "Anthropic",
+          "amount": 487.1
+        },
+        {
+          "id": "oct-sw-010",
+          "name": "Zoom",
+          "amount": 447.92
+        },
+        {
+          "id": "oct-sw-011",
+          "name": "Viktor",
+          "amount": 400.0
+        },
+        {
+          "id": "oct-sw-012",
+          "name": "OpenAI",
+          "amount": 392.02
+        },
+        {
+          "id": "oct-sw-013",
+          "name": "Amazon",
+          "amount": 381.68
+        },
+        {
+          "id": "oct-sw-014",
+          "name": "Slack",
+          "amount": 315.28
+        },
+        {
+          "id": "oct-sw-015",
+          "name": "Autoblogging AI",
+          "amount": 250.0
+        },
+        {
+          "id": "oct-sw-016",
+          "name": "GoDaddy",
+          "amount": 237.43
+        },
+        {
+          "id": "oct-sw-017",
+          "name": "Typeform",
+          "amount": 189.0
+        },
+        {
+          "id": "oct-sw-018",
+          "name": "Manychat",
+          "amount": 153.7
+        },
+        {
+          "id": "oct-sw-019",
+          "name": "Calendly",
+          "amount": 153.65
+        },
+        {
+          "id": "oct-sw-020",
+          "name": "Webflow",
+          "amount": 136.09
+        },
+        {
+          "id": "oct-sw-021",
+          "name": "WebinarJam",
+          "amount": 103.95
+        },
+        {
+          "id": "oct-sw-022",
+          "name": "Maps.com",
+          "amount": 99.0
+        },
+        {
+          "id": "oct-sw-023",
+          "name": "Smartlead",
+          "amount": 94.0
+        },
+        {
+          "id": "oct-sw-024",
+          "name": "OnlineJobs.ph",
+          "amount": 69.0
+        },
+        {
+          "id": "oct-sw-025",
+          "name": "Addevent",
+          "amount": 36.0
+        },
+        {
+          "id": "oct-sw-026",
+          "name": "BeenVerified",
+          "amount": 32.89
+        },
+        {
+          "id": "oct-sw-027",
+          "name": "GitHub",
+          "amount": 26.34
+        },
+        {
+          "id": "oct-sw-028",
+          "name": "ElevenLabs",
+          "amount": 24.15
+        },
+        {
+          "id": "oct-sw-029",
+          "name": "Gamma",
+          "amount": 20.0
+        },
+        {
+          "id": "oct-sw-030",
+          "name": "Make.com",
+          "amount": 19.76
+        },
+        {
+          "id": "oct-sw-031",
+          "name": "Google",
+          "amount": 17.74
+        },
+        {
+          "id": "oct-sw-032",
+          "name": "Canva",
+          "amount": 15.21
+        },
+        {
+          "id": "oct-sw-033",
+          "name": "Whop AI",
+          "amount": 10.98
+        }
+      ]
+    },
+    {
+      "id": "oct-exp-009",
+      "label": "Others",
+      "items": [
+        {
+          "id": "oct-oth-001",
+          "name": "Munoz LLC (Mortgage)",
+          "amount": 3000.0
+        },
+        {
+          "id": "oct-oth-002",
+          "name": "Hyber",
+          "amount": 2080.0
         }
       ]
     }
