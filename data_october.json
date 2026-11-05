@@ -1967,6 +1967,53 @@
           "amount": 700.0
         }
       ]
+    },
+    {
+      "id": "oct-exp-003",
+      "label": "Bonuses",
+      "items": [
+        {
+          "id": "oct-bon-001",
+          "name": "Harry",
+          "amount": 500
+        }
+      ]
+    },
+    {
+      "id": "oct-exp-004",
+      "label": "Referral Bonuses",
+      "items": [
+        {
+          "id": "oct-ref-001",
+          "name": "Taha (2 closers)",
+          "amount": 1000
+        },
+        {
+          "id": "oct-ref-002",
+          "name": "Peter (1 closer)",
+          "amount": 500
+        },
+        {
+          "id": "oct-ref-003",
+          "name": "Harry (1 closer)",
+          "amount": 500
+        },
+        {
+          "id": "oct-ref-004",
+          "name": "Michael (1 closer)",
+          "amount": 500
+        },
+        {
+          "id": "oct-ref-005",
+          "name": "Owen (1 closer)",
+          "amount": 500
+        },
+        {
+          "id": "oct-ref-006",
+          "name": "Alyssa (1 closer)",
+          "amount": 500
+        }
+      ]
     }
   ]
 }
