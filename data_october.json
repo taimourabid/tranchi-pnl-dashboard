@@ -2048,6 +2048,33 @@
           "id": "oct-ops-006",
           "name": "Pedro (Operations)",
           "amount": 2000
+        },
+        {
+          "id": "oct-ops-007",
+          "name": "Mark Joshua",
+          "amount": 450
+        }
+      ]
+    },
+    {
+      "id": "oct-exp-006",
+      "label": "Marketing & Ads",
+      "items": [
+        {
+          "id": "oct-mkt-001",
+          "name": "YouTube Comments",
+          "amount": 150
+        }
+      ]
+    },
+    {
+      "id": "oct-exp-007",
+      "label": "Setters",
+      "items": [
+        {
+          "id": "oct-set-001",
+          "name": "Raj",
+          "amount": 1830
         }
       ]
     }
