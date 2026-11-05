@@ -6,6 +6,7 @@
       "name": "Spencer Leclair",
       "closer": "Alexander",
       "processor": "fanbasis",
+      "method": "",
       "amount": 3000.0
     },
     {
@@ -14,6 +15,7 @@
       "name": "Mason Everett",
       "closer": "Peter",
       "processor": "fanbasis",
+      "method": "",
       "amount": 600.0
     },
     {
@@ -22,6 +24,7 @@
       "name": "Ann Hinkel",
       "closer": "Amira",
       "processor": "whop",
+      "method": "klarna",
       "amount": 6000.0
     },
     {
@@ -30,6 +33,7 @@
       "name": "JENNA LABRIOLA",
       "closer": "Cade",
       "processor": "whop",
+      "method": "splitit",
       "amount": 3000.0
     },
     {
@@ -38,6 +42,7 @@
       "name": "Patrick Fogarty",
       "closer": "Caleb",
       "processor": "fanbasis",
+      "method": "",
       "amount": 3500.0
     },
     {
@@ -46,6 +51,7 @@
       "name": "Albert IIi",
       "closer": "Caleb",
       "processor": "whop",
+      "method": "splitit",
       "amount": 3500.0
     },
     {
@@ -54,6 +60,7 @@
       "name": "Mason Everett",
       "closer": "Peter",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 3000.0
     },
     {
@@ -62,6 +69,7 @@
       "name": "Sharon Anderson",
       "closer": "Cade",
       "processor": "fanbasis",
+      "method": "",
       "amount": 3000.0
     },
     {
@@ -70,6 +78,7 @@
       "name": "Patriot LLC",
       "closer": "Amira",
       "processor": "whop",
+      "method": "splitit",
       "amount": 3600.0
     },
     {
@@ -78,6 +87,7 @@
       "name": "Skye Olsen",
       "closer": "Alyssa",
       "processor": "whop",
+      "method": "",
       "amount": 3000.0
     },
     {
@@ -86,6 +96,7 @@
       "name": "Mark Cozad",
       "closer": "Amira",
       "processor": "fanbasis",
+      "method": "",
       "amount": 6000.0
     },
     {
@@ -94,6 +105,7 @@
       "name": "Tara Costa",
       "closer": "Peter",
       "processor": "fanbasis",
+      "method": "",
       "amount": 5000.0
     },
     {
@@ -102,6 +114,7 @@
       "name": "Daniel Ahoubjm",
       "closer": "Lee",
       "processor": "fanbasis",
+      "method": "",
       "amount": 7500.0
     },
     {
@@ -110,6 +123,7 @@
       "name": "Jimmy Suaste",
       "closer": "Harry",
       "processor": "whop",
+      "method": "",
       "amount": 4900.0
     },
     {
@@ -118,6 +132,7 @@
       "name": "Stephen Nymberg",
       "closer": "Amir",
       "processor": "fanbasis",
+      "method": "",
       "amount": 3000.0
     },
     {
@@ -126,6 +141,7 @@
       "name": "Harold DeFazio",
       "closer": "Caleb",
       "processor": "whop",
+      "method": "klarna",
       "amount": 4000.0
     },
     {
@@ -134,6 +150,7 @@
       "name": "Damoyn Warren",
       "closer": "Tate",
       "processor": "whop",
+      "method": "",
       "amount": 500.0
     },
     {
@@ -142,6 +159,7 @@
       "name": "Michael Fasani",
       "closer": "Cade",
       "processor": "whop",
+      "method": "splitit",
       "amount": 5000.0
     },
     {
@@ -150,6 +168,7 @@
       "name": "Maxwell Browne",
       "closer": "Lee",
       "processor": "fanbasis",
+      "method": "",
       "amount": 3000.0
     },
     {
@@ -158,6 +177,7 @@
       "name": "Robert Allen",
       "closer": "Cade",
       "processor": "whop",
+      "method": "splitit",
       "amount": 6000.0
     },
     {
@@ -166,6 +186,7 @@
       "name": "Berek Rankin",
       "closer": "Taha",
       "processor": "fanbasis",
+      "method": "",
       "amount": 500.0
     },
     {
@@ -174,6 +195,7 @@
       "name": "Marisol Luna",
       "closer": "Lee",
       "processor": "fanbasis",
+      "method": "",
       "amount": 6000.0
     },
     {
@@ -182,6 +204,7 @@
       "name": "Cole Rafferty",
       "closer": "Alyssa",
       "processor": "fanbasis",
+      "method": "",
       "amount": 3000.0
     },
     {
@@ -190,6 +213,7 @@
       "name": "Bridget Loor",
       "closer": "Alexander",
       "processor": "fanbasis",
+      "method": "",
       "amount": 3000.0
     },
     {
@@ -198,6 +222,7 @@
       "name": "Charles Heydon",
       "closer": "Amira",
       "processor": "whop",
+      "method": "splitit",
       "amount": 6000.0
     },
     {
@@ -206,6 +231,7 @@
       "name": "Javis Calder-Williams",
       "closer": "Peter",
       "processor": "fanbasis",
+      "method": "",
       "amount": 500.0
     },
     {
@@ -214,6 +240,7 @@
       "name": "Rosalva Conrad",
       "closer": "Amir",
       "processor": "whop",
+      "method": "splitit",
       "amount": 4000.0
     },
     {
@@ -222,6 +249,7 @@
       "name": "Tom Boland",
       "closer": "Alyssa",
       "processor": "fanbasis",
+      "method": "",
       "amount": 6000.0
     },
     {
@@ -230,6 +258,7 @@
       "name": "Jonathan Mast",
       "closer": "Caden",
       "processor": "fanbasis",
+      "method": "",
       "amount": 4000.0
     },
     {
@@ -238,6 +267,7 @@
       "name": "Jobanny Vega Santana",
       "closer": "Michael",
       "processor": "fanbasis",
+      "method": "",
       "amount": 2000.0
     },
     {
@@ -246,6 +276,7 @@
       "name": "Rick spatola",
       "closer": "Tate",
       "processor": "whop",
+      "method": "",
       "amount": 4000.0
     },
     {
@@ -254,6 +285,7 @@
       "name": "Talilo Marfil-Tran",
       "closer": "Peter",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 7000.0
     },
     {
@@ -262,6 +294,7 @@
       "name": "Corey II",
       "closer": "Caleb",
       "processor": "whop",
+      "method": "splitit",
       "amount": 7000.0
     },
     {
@@ -270,6 +303,7 @@
       "name": "edward sullivan",
       "closer": "Cade",
       "processor": "fanbasis",
+      "method": "",
       "amount": 7000.0
     },
     {
@@ -278,6 +312,7 @@
       "name": "chukwudi obiadika",
       "closer": "Lee",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 4500.0
     },
     {
@@ -286,6 +321,7 @@
       "name": "Jeffrey Morris",
       "closer": "Harry",
       "processor": "fanbasis",
+      "method": "",
       "amount": 5000.0
     },
     {
@@ -294,6 +330,7 @@
       "name": "Trent Vance",
       "closer": "Lee",
       "processor": "fanbasis",
+      "method": "",
       "amount": 4000.0
     },
     {
@@ -302,6 +339,7 @@
       "name": "Jessica Jessica",
       "closer": "Max",
       "processor": "whop",
+      "method": "",
       "amount": 4000.0
     },
     {
@@ -310,6 +348,7 @@
       "name": "Jobanny Vega Santana",
       "closer": "Michael",
       "processor": "fanbasis",
+      "method": "",
       "amount": 6500.0
     },
     {
@@ -318,6 +357,7 @@
       "name": "Andrew Fernandez",
       "closer": "Taha",
       "processor": "fanbasis",
+      "method": "",
       "amount": 7000.0
     },
     {
@@ -326,6 +366,7 @@
       "name": "Benjamin Duckworth",
       "closer": "Cade",
       "processor": "whop",
+      "method": "splitit",
       "amount": 3000.0
     },
     {
@@ -334,6 +375,7 @@
       "name": "David Achterberg",
       "closer": "Amir",
       "processor": "fanbasis",
+      "method": "",
       "amount": 3000.0
     },
     {
@@ -342,6 +384,7 @@
       "name": "Tricia Richardson",
       "closer": "Amira",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 3000.0
     },
     {
@@ -350,6 +393,7 @@
       "name": "Brina Johnson",
       "closer": "Amir",
       "processor": "fanbasis",
+      "method": "",
       "amount": 3000.0
     },
     {
@@ -358,6 +402,7 @@
       "name": "Michael Bailey",
       "closer": "Peter",
       "processor": "fanbasis",
+      "method": "",
       "amount": 4000.0
     },
     {
@@ -366,6 +411,7 @@
       "name": "Damoyn Warren",
       "closer": "Tate",
       "processor": "whop",
+      "method": "",
       "amount": 500.0
     },
     {
@@ -374,6 +420,7 @@
       "name": "Daniel Hernandez",
       "closer": "Tate",
       "processor": "fanbasis",
+      "method": "",
       "amount": 250.0
     },
     {
@@ -382,6 +429,7 @@
       "name": "Landon franz",
       "closer": "Taha",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 2435.0
     },
     {
@@ -390,6 +438,7 @@
       "name": "Shawn McKenna",
       "closer": "Harry",
       "processor": "fanbasis",
+      "method": "",
       "amount": 5500.0
     },
     {
@@ -398,6 +447,7 @@
       "name": "Sabika Sheikh",
       "closer": "Taha",
       "processor": "whop",
+      "method": "splitit",
       "amount": 3500.0
     },
     {
@@ -406,6 +456,7 @@
       "name": "Paul cavanaugh",
       "closer": "Tate",
       "processor": "whop",
+      "method": "splitit",
       "amount": 4000.0
     },
     {
@@ -414,6 +465,7 @@
       "name": "Landon Franz",
       "closer": "Taha",
       "processor": "fanbasis",
+      "method": "",
       "amount": 600.0
     },
     {
@@ -422,6 +474,7 @@
       "name": "cheskel friedman",
       "closer": "Lee",
       "processor": "fanbasis",
+      "method": "",
       "amount": 7000.0
     },
     {
@@ -430,6 +483,7 @@
       "name": "Brandon Little",
       "closer": "Owen",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 7000.0
     },
     {
@@ -438,6 +492,7 @@
       "name": "Soniaa Bushnell",
       "closer": "Amira",
       "processor": "fanbasis",
+      "method": "",
       "amount": 2000.0
     },
     {
@@ -446,6 +501,7 @@
       "name": "Thi Nguyen",
       "closer": "Alyssa",
       "processor": "fanbasis",
+      "method": "",
       "amount": 3000.0
     },
     {
@@ -454,6 +510,7 @@
       "name": "Thi Nguyen",
       "closer": "Alyssa",
       "processor": "fanbasis",
+      "method": "",
       "amount": 500.0
     },
     {
@@ -462,6 +519,7 @@
       "name": "tiffany eng",
       "closer": "Peter",
       "processor": "fanbasis",
+      "method": "",
       "amount": 4000.0
     },
     {
@@ -470,6 +528,7 @@
       "name": "Elena Muro",
       "closer": "Peter",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 4000.0
     },
     {
@@ -478,6 +537,7 @@
       "name": "Abdulhakim Saiban",
       "closer": "Adam",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 7000.0
     },
     {
@@ -486,6 +546,7 @@
       "name": "Shawn Starkey",
       "closer": "Owen",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 4000.0
     },
     {
@@ -494,6 +555,7 @@
       "name": "Sonia Bushnell",
       "closer": "Amira",
       "processor": "fanbasis",
+      "method": "",
       "amount": 1000.0
     },
     {
@@ -502,6 +564,7 @@
       "name": "Sonia Bushnell",
       "closer": "Amira",
       "processor": "whop",
+      "method": "klarna",
       "amount": 1200.0
     },
     {
@@ -510,6 +573,7 @@
       "name": "Wyatt Keith",
       "closer": "Alyssa",
       "processor": "fanbasis",
+      "method": "",
       "amount": 3000.0
     },
     {
@@ -518,6 +582,7 @@
       "name": "Folefac Fofuelaka",
       "closer": "Peter",
       "processor": "fanbasis",
+      "method": "",
       "amount": 500.0
     },
     {
@@ -526,6 +591,7 @@
       "name": "Johnny Dehn",
       "closer": "Owen",
       "processor": "whop",
+      "method": "",
       "amount": 500.0
     },
     {
@@ -534,6 +600,7 @@
       "name": "David Prutch",
       "closer": "Peter",
       "processor": "fanbasis",
+      "method": "",
       "amount": 7000.0
     },
     {
@@ -542,6 +609,7 @@
       "name": "Sandra Brooks",
       "closer": "Tate",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 3000.0
     },
     {
@@ -550,6 +618,7 @@
       "name": "Graylon Prophet",
       "closer": "Amir",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 3500.0
     },
     {
@@ -558,6 +627,7 @@
       "name": "Josiana Santos",
       "closer": "Lee",
       "processor": "whop",
+      "method": "",
       "amount": 4000.0
     },
     {
@@ -566,6 +636,7 @@
       "name": "Abel Ramirez",
       "closer": "Amir",
       "processor": "fanbasis",
+      "method": "",
       "amount": 500.0
     },
     {
@@ -574,6 +645,7 @@
       "name": "Damoyn Warren",
       "closer": "Tate",
       "processor": "whop",
+      "method": "",
       "amount": 500.0
     },
     {
@@ -582,6 +654,7 @@
       "name": "Paul Thurman",
       "closer": "Max",
       "processor": "whop",
+      "method": "",
       "amount": 4000.0
     },
     {
@@ -590,6 +663,7 @@
       "name": "Jaylen Meyer",
       "closer": "Caden",
       "processor": "whop",
+      "method": "splitit",
       "amount": 3500.0
     },
     {
@@ -598,6 +672,7 @@
       "name": "Tony Baker",
       "closer": "Makayla",
       "processor": "fanbasis",
+      "method": "",
       "amount": 7000.0
     },
     {
@@ -606,6 +681,7 @@
       "name": "Israel cano",
       "closer": "Avery",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 3600.0
     },
     {
@@ -614,6 +690,7 @@
       "name": "Gregory Simmons",
       "closer": "Caleb",
       "processor": "fanbasis",
+      "method": "",
       "amount": 4000.0
     },
     {
@@ -622,6 +699,7 @@
       "name": "Patrick Morgan",
       "closer": "Alyssa",
       "processor": "fanbasis",
+      "method": "",
       "amount": 3000.0
     },
     {
@@ -630,6 +708,7 @@
       "name": "Erica Llerenas",
       "closer": "Owen",
       "processor": "whop",
+      "method": "",
       "amount": 7000.0
     },
     {
@@ -638,6 +717,7 @@
       "name": "Rajesh Deshpande",
       "closer": "Peter",
       "processor": "fanbasis",
+      "method": "",
       "amount": 3500.0
     },
     {
@@ -646,6 +726,7 @@
       "name": "Royce Prescott",
       "closer": "Caleb",
       "processor": "whop",
+      "method": "",
       "amount": 4000.0
     },
     {
@@ -654,6 +735,7 @@
       "name": "John Silva",
       "closer": "Max",
       "processor": "whop",
+      "method": "card",
       "amount": 7500.0
     },
     {
@@ -662,6 +744,7 @@
       "name": "Regina Maglio",
       "closer": "Tate",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 250.0
     },
     {
@@ -670,6 +753,7 @@
       "name": "Ronald Holmes",
       "closer": "Gavin",
       "processor": "whop",
+      "method": "card",
       "amount": 2000.0
     },
     {
@@ -678,6 +762,7 @@
       "name": "ARIA JALILI",
       "closer": "Peter",
       "processor": "whop",
+      "method": "splitit",
       "amount": 4000.0
     },
     {
@@ -686,6 +771,7 @@
       "name": "TERRY GEORGE",
       "closer": "Alexander",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 4000.0
     },
     {
@@ -694,6 +780,7 @@
       "name": "Devin Hila",
       "closer": "Taha",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 3000.0
     },
     {
@@ -702,6 +789,7 @@
       "name": "Cherraine Davis",
       "closer": "Peter",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 4500.0
     },
     {
@@ -710,6 +798,7 @@
       "name": "Walter Nunez",
       "closer": "Alyssa",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 4000.0
     },
     {
@@ -718,6 +807,7 @@
       "name": "Gamaliel Himely",
       "closer": "Ryan",
       "processor": "whop",
+      "method": "card",
       "amount": 3000.0
     },
     {
@@ -726,6 +816,7 @@
       "name": "Vaibhav Patel",
       "closer": "Alexandra",
       "processor": "whop",
+      "method": "splitit",
       "amount": 4000.0
     },
     {
@@ -734,6 +825,7 @@
       "name": "Ashley Jones",
       "closer": "Taha",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 500.0
     },
     {
@@ -742,6 +834,7 @@
       "name": "demitrius randolph",
       "closer": "Alyssa",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 3000.0
     },
     {
@@ -750,6 +843,7 @@
       "name": "Israel Heyi",
       "closer": "Peter",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 4500.0
     },
     {
@@ -758,6 +852,7 @@
       "name": "Joshua Gray",
       "closer": "Alexander",
       "processor": "fanbasis",
+      "method": "us_bank_account",
       "amount": 500.0
     },
     {
@@ -766,6 +861,7 @@
       "name": "Sean Karr",
       "closer": "Caden",
       "processor": "whop",
+      "method": "card",
       "amount": 5000.0
     },
     {
@@ -774,6 +870,7 @@
       "name": "Elizabeth Mowery",
       "closer": "Amir",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 3000.0
     },
     {
@@ -782,6 +879,7 @@
       "name": "Wyatt Brown",
       "closer": "Max",
       "processor": "whop",
+      "method": "klarna",
       "amount": 4000.0
     },
     {
@@ -790,6 +888,7 @@
       "name": "Jason Foster",
       "closer": "Alyssa",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 3000.0
     },
     {
@@ -798,6 +897,7 @@
       "name": "Douglass Lamy",
       "closer": "Harry",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 3000.0
     },
     {
@@ -806,6 +906,7 @@
       "name": "Douglass Lamy",
       "closer": "Harry",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 500.0
     },
     {
@@ -814,6 +915,7 @@
       "name": "Moua Xue",
       "closer": "Avery",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 4000.0
     },
     {
@@ -822,6 +924,7 @@
       "name": "Emyli Vazquez",
       "closer": "Alexandra",
       "processor": "whop",
+      "method": "card",
       "amount": 3500.0
     },
     {
@@ -830,6 +933,7 @@
       "name": "Emyli Vazquez",
       "closer": "Alexandra",
       "processor": "whop",
+      "method": "card",
       "amount": 500.0
     },
     {
@@ -838,6 +942,7 @@
       "name": "Don McCullers",
       "closer": "Michael",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 7000.0
     },
     {
@@ -846,6 +951,7 @@
       "name": "Jazmin Flores",
       "closer": "Michael",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 4000.0
     },
     {
@@ -854,6 +960,7 @@
       "name": "Serafin Juarez",
       "closer": "Taha",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 3000.0
     },
     {
@@ -862,6 +969,7 @@
       "name": "Abel Ramirez",
       "closer": "Amir",
       "processor": "fanbasis",
+      "method": "us_bank_account",
       "amount": 500.0
     },
     {
@@ -870,6 +978,7 @@
       "name": "Mark Zhuk",
       "closer": "Alyssa",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 5000.0
     },
     {
@@ -878,6 +987,7 @@
       "name": "Kevin Rouse",
       "closer": "Harry",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 3500.0
     },
     {
@@ -886,6 +996,7 @@
       "name": "Kurt Lee",
       "closer": "Gavin",
       "processor": "whop",
+      "method": "card",
       "amount": 4000.0
     },
     {
@@ -894,6 +1005,7 @@
       "name": "Anil Tamayswar",
       "closer": "Irena",
       "processor": "whop",
+      "method": "splitit",
       "amount": 4000.0
     },
     {
@@ -902,6 +1014,7 @@
       "name": "Robert Whitsell",
       "closer": "Irena",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 10000.0
     },
     {
@@ -910,6 +1023,7 @@
       "name": "Sharon Attardo",
       "closer": "Amaan",
       "processor": "whop",
+      "method": "card",
       "amount": 4000.0
     },
     {
@@ -918,6 +1032,7 @@
       "name": "Bruno Spairani",
       "closer": "Alexander",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 500.0
     },
     {
@@ -926,6 +1041,7 @@
       "name": "Amauris Hernandez",
       "closer": "Caden",
       "processor": "whop",
+      "method": "card",
       "amount": 5000.0
     },
     {
@@ -934,6 +1050,7 @@
       "name": "Jacob Kahle",
       "closer": "Amir",
       "processor": "whop",
+      "method": "splitit",
       "amount": 5000.0
     },
     {
@@ -942,6 +1059,7 @@
       "name": "Patricia Garcia",
       "closer": "Michael",
       "processor": "whop",
+      "method": "splitit",
       "amount": 5000.0
     },
     {
@@ -950,6 +1068,7 @@
       "name": "Cole Sternickle",
       "closer": "Ryan",
       "processor": "whop",
+      "method": "card",
       "amount": 6000.0
     },
     {
@@ -958,6 +1077,7 @@
       "name": "Kumba McCray",
       "closer": "George",
       "processor": "whop",
+      "method": "splitit",
       "amount": 5000.0
     },
     {
@@ -966,6 +1086,7 @@
       "name": "Bruno Spairani",
       "closer": "Alexander",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 3500.0
     },
     {
@@ -974,6 +1095,7 @@
       "name": "suraj kandel",
       "closer": "Taha",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 1000.0
     },
     {
@@ -982,6 +1104,7 @@
       "name": "Mukesh Patel",
       "closer": "Amaan",
       "processor": "whop",
+      "method": "paypal",
       "amount": 4000.0
     },
     {
@@ -990,6 +1113,7 @@
       "name": "Joshua Gray",
       "closer": "Alexander",
       "processor": "fanbasis",
+      "method": "us_bank_account",
       "amount": 3500.0
     },
     {
@@ -998,6 +1122,7 @@
       "name": "WILLIE CHOICE",
       "closer": "Michael",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 7000.0
     },
     {
@@ -1006,6 +1131,7 @@
       "name": "Christian Menges",
       "closer": "Michael",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 1000.0
     },
     {
@@ -1014,6 +1140,7 @@
       "name": "Christian Menges",
       "closer": "Michael",
       "processor": "fanbasis",
+      "method": "us_bank_account",
       "amount": 4000.0
     },
     {
@@ -1022,6 +1149,7 @@
       "name": "Angel Garced",
       "closer": "Owen",
       "processor": "whop",
+      "method": "splitit",
       "amount": 4000.0
     },
     {
@@ -1030,6 +1158,7 @@
       "name": "Asef Askar",
       "closer": "Caleb",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 4000.0
     },
     {
@@ -1038,6 +1167,7 @@
       "name": "William Jackson",
       "closer": "Taha",
       "processor": "whop",
+      "method": "paypal",
       "amount": 3000.0
     },
     {
@@ -1046,6 +1176,7 @@
       "name": "Jacob Flores",
       "closer": "Avery",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 4800.0
     },
     {
@@ -1054,6 +1185,7 @@
       "name": "YVETTE LEITH",
       "closer": "Michael",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 3000.0
     },
     {
@@ -1062,6 +1194,7 @@
       "name": "Harsh Agrawal",
       "closer": "Taha",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 5000.0
     },
     {
@@ -1070,6 +1203,7 @@
       "name": "Alelopez728@gmail.com Alelopez728@gmail.com",
       "closer": "Avery",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 4800.0
     },
     {
@@ -1078,6 +1212,7 @@
       "name": "Roal Jr",
       "closer": "Cade",
       "processor": "whop",
+      "method": "splitit",
       "amount": 4000.0
     },
     {
@@ -1086,6 +1221,7 @@
       "name": "Michelle Group",
       "closer": "Cade",
       "processor": "whop",
+      "method": "splitit",
       "amount": 4000.0
     },
     {
@@ -1094,6 +1230,7 @@
       "name": "Blas Reyes",
       "closer": "Max",
       "processor": "whop",
+      "method": "card",
       "amount": 500.0
     },
     {
@@ -1102,6 +1239,7 @@
       "name": "Damoyn Warren",
       "closer": "Alyssa",
       "processor": "whop",
+      "method": "card",
       "amount": 500.0
     },
     {
@@ -1110,6 +1248,7 @@
       "name": "Mayenie Sylla",
       "closer": "Alexander",
       "processor": "whop",
+      "method": "splitit",
       "amount": 4000.0
     },
     {
@@ -1118,6 +1257,7 @@
       "name": "Leon Eckardt",
       "closer": "Amira",
       "processor": "whop",
+      "method": "splitit",
       "amount": 4000.0
     },
     {
@@ -1126,6 +1266,7 @@
       "name": "Thomas Sneed",
       "closer": "Max",
       "processor": "whop",
+      "method": "card",
       "amount": 4000.0
     },
     {
@@ -1134,6 +1275,7 @@
       "name": "Emile Hayek",
       "closer": "Taha",
       "processor": "whop",
+      "method": "splitit",
       "amount": 3500.0
     },
     {
@@ -1142,6 +1284,7 @@
       "name": "Brandon Schanafelt",
       "closer": "Owen",
       "processor": "whop",
+      "method": "card",
       "amount": 4000.0
     },
     {
@@ -1150,6 +1293,7 @@
       "name": "Jay Wafer",
       "closer": "Amir",
       "processor": "whop",
+      "method": "card",
       "amount": 2800.0
     },
     {
@@ -1158,6 +1302,7 @@
       "name": "Jay Wafer",
       "closer": "Amir",
       "processor": "whop",
+      "method": "splitit",
       "amount": 500.0
     },
     {
@@ -1166,6 +1311,7 @@
       "name": "Leontai Mccaskill",
       "closer": "Peter",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 7000.0
     },
     {
@@ -1174,6 +1320,7 @@
       "name": "Mario Reyes",
       "closer": "Amira",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 4800.0
     },
     {
@@ -1182,6 +1329,7 @@
       "name": "Quinton Lewis",
       "closer": "Ryan",
       "processor": "whop",
+      "method": "splitit",
       "amount": 4000.0
     },
     {
@@ -1190,6 +1338,7 @@
       "name": "Michael Mccann",
       "closer": "Cade",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 2750.0
     },
     {
@@ -1198,6 +1347,7 @@
       "name": "Jay Davis",
       "closer": "Caden",
       "processor": "whop",
+      "method": "card",
       "amount": 1500.0
     },
     {
@@ -1206,6 +1356,7 @@
       "name": "Nehemiah Miller",
       "closer": "Irena",
       "processor": "whop",
+      "method": "card",
       "amount": 3000.0
     },
     {
@@ -1214,6 +1365,7 @@
       "name": "Jameelah El-Amin",
       "closer": "Alyssa",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 4000.0
     },
     {
@@ -1222,6 +1374,7 @@
       "name": "Kameca Reid",
       "closer": "Gavin",
       "processor": "whop",
+      "method": "card",
       "amount": 4000.0
     },
     {
@@ -1230,6 +1383,7 @@
       "name": "Katherine Archambault",
       "closer": "Lee",
       "processor": "whop",
+      "method": "card",
       "amount": 7000.0
     },
     {
@@ -1238,6 +1392,7 @@
       "name": "Benjamin Pierce",
       "closer": "George",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 4000.0
     },
     {
@@ -1246,6 +1401,7 @@
       "name": "Richard Hathcock",
       "closer": "Peter",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 2250.0
     },
     {
@@ -1254,6 +1410,7 @@
       "name": "Richard Hathcock",
       "closer": "Peter",
       "processor": "fanbasis",
+      "method": "us_bank_account",
       "amount": 2000.0
     },
     {
@@ -1262,6 +1419,7 @@
       "name": "Ardele Steele",
       "closer": "Harry",
       "processor": "whop",
+      "method": "splitit",
       "amount": 5500.0
     },
     {
@@ -1270,6 +1428,7 @@
       "name": "Patricia Hudson",
       "closer": "Peter",
       "processor": "whop",
+      "method": "card",
       "amount": 4000.0
     },
     {
@@ -1278,6 +1437,7 @@
       "name": "Prasan Pandite",
       "closer": "Lee",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 7000.0
     },
     {
@@ -1286,6 +1446,7 @@
       "name": "Robert Wright",
       "closer": "Harry",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 5500.0
     },
     {
@@ -1294,6 +1455,7 @@
       "name": "Altin Krchishta",
       "closer": "Cade",
       "processor": "whop",
+      "method": "splitit",
       "amount": 5000.0
     },
     {
@@ -1302,6 +1464,7 @@
       "name": "Minthra Moodley",
       "closer": "George",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 3000.0
     },
     {
@@ -1310,6 +1473,7 @@
       "name": "Mitchell Shepherd",
       "closer": "Gavin",
       "processor": "whop",
+      "method": "card",
       "amount": 2000.0
     },
     {
@@ -1318,6 +1482,7 @@
       "name": "Jorge Rojo",
       "closer": "Ryan",
       "processor": "whop",
+      "method": "splitit",
       "amount": 7500.0
     },
     {
@@ -1326,6 +1491,7 @@
       "name": "William Anderson",
       "closer": "Alexandra",
       "processor": "whop",
+      "method": "card",
       "amount": 4000.0
     },
     {
@@ -1334,6 +1500,7 @@
       "name": "Minthra Moodley",
       "closer": "George",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 1000.0
     },
     {
@@ -1342,6 +1509,7 @@
       "name": "Jeffrey Whitsett",
       "closer": "Avery",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 4000.0
     },
     {
@@ -1350,6 +1518,7 @@
       "name": "Evan Berry",
       "closer": "Ryan",
       "processor": "whop",
+      "method": "splitit",
       "amount": 7500.0
     },
     {
@@ -1358,6 +1527,7 @@
       "name": "Richard Yoncak",
       "closer": "Alexander",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 4000.0
     },
     {
@@ -1366,6 +1536,7 @@
       "name": "Jerry Hart",
       "closer": "Michael",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 10000.0
     },
     {
@@ -1374,6 +1545,7 @@
       "name": "Tony Gutierrez",
       "closer": "Harry",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 3500.0
     },
     {
@@ -1382,6 +1554,7 @@
       "name": "Danielle Simpson",
       "closer": "Alyssa",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 7000.0
     },
     {
@@ -1390,6 +1563,7 @@
       "name": "Pedro Pompeu",
       "closer": "George",
       "processor": "fanbasis",
+      "method": "us_bank_account",
       "amount": 5000.0
     },
     {
@@ -1398,6 +1572,7 @@
       "name": "Ryan Wieler",
       "closer": "George",
       "processor": "fanbasis",
+      "method": "us_bank_account",
       "amount": 5000.0
     },
     {
@@ -1406,6 +1581,7 @@
       "name": "James Zarvos",
       "closer": "Harry",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 3000.0
     },
     {
@@ -1414,6 +1590,7 @@
       "name": "Marlyn Edwards",
       "closer": "Amaan",
       "processor": "whop",
+      "method": "card",
       "amount": 4000.0
     },
     {
@@ -1422,6 +1599,7 @@
       "name": "Daniel Hart",
       "closer": "Avery",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 2000.0
     },
     {
@@ -1430,6 +1608,7 @@
       "name": "Roger Martinez",
       "closer": "Alexandra",
       "processor": "whop",
+      "method": "card",
       "amount": 4000.0
     },
     {
@@ -1438,6 +1617,7 @@
       "name": "Jared Silver",
       "closer": "Alexander",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 4000.0
     },
     {
@@ -1446,6 +1626,7 @@
       "name": "Ralph Gunter",
       "closer": "Ryan",
       "processor": "whop",
+      "method": "splitit",
       "amount": 7500.0
     },
     {
@@ -1454,6 +1635,7 @@
       "name": "michael Tuffelmire",
       "closer": "Caden",
       "processor": "whop",
+      "method": "card",
       "amount": 2500.0
     },
     {
@@ -1462,6 +1644,7 @@
       "name": "michael Tuffelmire",
       "closer": "Caden",
       "processor": "whop",
+      "method": "card",
       "amount": 2500.0
     },
     {
@@ -1470,6 +1653,7 @@
       "name": "Jay Davis",
       "closer": "Caden",
       "processor": "whop",
+      "method": "card",
       "amount": 1500.0
     },
     {
@@ -1478,6 +1662,7 @@
       "name": "Alexa Bader",
       "closer": "Amira",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 3500.0
     },
     {
@@ -1486,6 +1671,7 @@
       "name": "Alexa Bader",
       "closer": "Amira",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 1500.0
     },
     {
@@ -1494,6 +1680,7 @@
       "name": "Alexa Bader",
       "closer": "Amira",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 2000.0
     },
     {
@@ -1502,6 +1689,7 @@
       "name": "Robert Candelaria",
       "closer": "Taha",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 4000.0
     },
     {
@@ -1510,6 +1698,7 @@
       "name": "Richard Buck",
       "closer": "Amir",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 6500.0
     },
     {
@@ -1518,6 +1707,7 @@
       "name": "Ali ZIa",
       "closer": "Amaan",
       "processor": "whop",
+      "method": "us_bank_account",
       "amount": 4000.0
     },
     {
@@ -1526,6 +1716,7 @@
       "name": "Kai Harper",
       "closer": "Amira",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 6000.0
     },
     {
@@ -1534,6 +1725,7 @@
       "name": "Frankel Petit",
       "closer": "Amaan",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 7000.0
     },
     {
@@ -1542,6 +1734,7 @@
       "name": "Fransisco Vargas",
       "closer": "Amir",
       "processor": "fanbasis",
+      "method": "us_bank_account",
       "amount": 4000.0
     },
     {
@@ -1550,6 +1743,7 @@
       "name": "Christopher Hintz",
       "closer": "Amir",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 3000.0
     },
     {
@@ -1558,6 +1752,7 @@
       "name": "Daniel Hart",
       "closer": "Avery",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 2000.0
     },
     {
@@ -1566,6 +1761,7 @@
       "name": "Mitchell Shepherd",
       "closer": "Gavin",
       "processor": "whop",
+      "method": "card",
       "amount": 2000.0
     },
     {
@@ -1574,6 +1770,7 @@
       "name": "Joey Senescu",
       "closer": "Caden",
       "processor": "whop",
+      "method": "card",
       "amount": 1000.0
     },
     {
@@ -1582,6 +1779,7 @@
       "name": "Richard Randall",
       "closer": "Caden",
       "processor": "whop",
+      "method": "card",
       "amount": 2000.0
     },
     {
@@ -1590,6 +1788,7 @@
       "name": "Timothy Yan",
       "closer": "Adam",
       "processor": "whop",
+      "method": "splitit",
       "amount": 2000.0
     },
     {
@@ -1598,6 +1797,7 @@
       "name": "Francois Ferdinand",
       "closer": "Lee",
       "processor": "whop",
+      "method": "claritypay",
       "amount": 4500.0
     },
     {
@@ -1606,8 +1806,167 @@
       "name": "Andrew York",
       "closer": "Michael",
       "processor": "fanbasis",
+      "method": "card",
       "amount": 5000.0
     }
   ],
-  "expenses": []
+  "expenses": [
+    {
+      "id": "oct-exp-001",
+      "label": "Processing Fees",
+      "items": [
+        {
+          "id": "oct-pf-001",
+          "name": "Klarna (15%) \u2014 4 txns",
+          "amount": 2280.0
+        },
+        {
+          "id": "oct-pf-002",
+          "name": "Splitit (15%) \u2014 32 txns",
+          "amount": 21315.0
+        },
+        {
+          "id": "oct-pf-003",
+          "name": "ClarityPay (20%) \u2014 29 txns",
+          "amount": 26137.0
+        },
+        {
+          "id": "oct-pf-004",
+          "name": "Whop standard (2.7%) \u2014 45 txns",
+          "amount": 3920.4
+        },
+        {
+          "id": "oct-pf-005",
+          "name": "Fanbasis standard (2.7%+$0.30) \u2014 91 txns",
+          "amount": 8814.45
+        }
+      ]
+    },
+    {
+      "id": "oct-exp-002",
+      "label": "Sales Commissions",
+      "items": [
+        {
+          "id": "oct-comm-001",
+          "name": "Peter",
+          "amount": 6160.0
+        },
+        {
+          "id": "oct-comm-002",
+          "name": "Michael",
+          "amount": 5678.0
+        },
+        {
+          "id": "oct-comm-003",
+          "name": "Lee",
+          "amount": 5342.0
+        },
+        {
+          "id": "oct-comm-004",
+          "name": "Alyssa",
+          "amount": 4640.0
+        },
+        {
+          "id": "oct-comm-005",
+          "name": "Amira",
+          "amount": 4368.0
+        },
+        {
+          "id": "oct-comm-006",
+          "name": "Amir",
+          "amount": 3970.0
+        },
+        {
+          "id": "oct-comm-007",
+          "name": "Harry",
+          "amount": 3920.0
+        },
+        {
+          "id": "oct-comm-008",
+          "name": "Cade",
+          "amount": 3675.0
+        },
+        {
+          "id": "oct-comm-009",
+          "name": "Taha",
+          "amount": 3553.76
+        },
+        {
+          "id": "oct-comm-010",
+          "name": "Alexander",
+          "amount": 3060.0
+        },
+        {
+          "id": "oct-comm-011",
+          "name": "Ryan",
+          "amount": 3020.0
+        },
+        {
+          "id": "oct-comm-012",
+          "name": "Caleb",
+          "amount": 3014.0
+        },
+        {
+          "id": "oct-comm-013",
+          "name": "Caden",
+          "amount": 2840.0
+        },
+        {
+          "id": "oct-comm-014",
+          "name": "Owen",
+          "amount": 2554.0
+        },
+        {
+          "id": "oct-comm-015",
+          "name": "Avery",
+          "amount": 2372.8
+        },
+        {
+          "id": "oct-comm-016",
+          "name": "Max",
+          "amount": 2320.0
+        },
+        {
+          "id": "oct-comm-017",
+          "name": "George",
+          "amount": 2280.0
+        },
+        {
+          "id": "oct-comm-018",
+          "name": "Amaan",
+          "amount": 2240.0
+        },
+        {
+          "id": "oct-comm-019",
+          "name": "Irena",
+          "amount": 1620.0
+        },
+        {
+          "id": "oct-comm-020",
+          "name": "Alexandra",
+          "amount": 1520.0
+        },
+        {
+          "id": "oct-comm-021",
+          "name": "Gavin",
+          "amount": 1440.0
+        },
+        {
+          "id": "oct-comm-022",
+          "name": "Tate",
+          "amount": 1185.0
+        },
+        {
+          "id": "oct-comm-023",
+          "name": "Adam",
+          "amount": 752.0
+        },
+        {
+          "id": "oct-comm-024",
+          "name": "Makayla",
+          "amount": 700.0
+        }
+      ]
+    }
+  ]
 }
