@@ -1909,7 +1909,7 @@
         {
           "id": "oct-comm-013",
           "name": "Caden",
-          "amount": 2560.0
+          "amount": 2128.0
         },
         {
           "id": "oct-comm-014",
@@ -2058,6 +2058,41 @@
           "id": "oct-ops-008",
           "name": "High Ticket Sales Academy",
           "amount": 2000.0
+        },
+        {
+          "id": "oct-ops-009",
+          "name": "Tori",
+          "amount": 4000.0
+        },
+        {
+          "id": "oct-ops-010",
+          "name": "Michael",
+          "amount": 2000.0
+        },
+        {
+          "id": "oct-ops-011",
+          "name": "Alice",
+          "amount": 2000.0
+        },
+        {
+          "id": "oct-ops-012",
+          "name": "Video Editor",
+          "amount": 1600.0
+        },
+        {
+          "id": "oct-ops-013",
+          "name": "UI Creator/Editor",
+          "amount": 1000.0
+        },
+        {
+          "id": "oct-ops-014",
+          "name": "Usama Ghwagi",
+          "amount": 2000.0
+        },
+        {
+          "id": "oct-ops-015",
+          "name": "Max Rathbun",
+          "amount": 4000.0
         }
       ]
     },
@@ -2089,6 +2124,56 @@
           "id": "oct-mkt-005",
           "name": "Enzo (Shoutouts)",
           "amount": 3500.0
+        },
+        {
+          "id": "oct-mkt-006",
+          "name": "Google Ads",
+          "amount": 482.69
+        },
+        {
+          "id": "oct-mkt-007",
+          "name": "UGC \u2014 Max",
+          "amount": 12053.79
+        },
+        {
+          "id": "oct-mkt-008",
+          "name": "UGC \u2014 Madison",
+          "amount": 14127.76
+        },
+        {
+          "id": "oct-mkt-009",
+          "name": "UGC \u2014 Kristen",
+          "amount": 878.32
+        },
+        {
+          "id": "oct-mkt-010",
+          "name": "UGC \u2014 Dee",
+          "amount": 833.38
+        },
+        {
+          "id": "oct-mkt-011",
+          "name": "UGC \u2014 Joe",
+          "amount": 542.62
+        },
+        {
+          "id": "oct-mkt-012",
+          "name": "UGC \u2014 Vara",
+          "amount": 502.19
+        },
+        {
+          "id": "oct-mkt-013",
+          "name": "UGC \u2014 Cade",
+          "amount": 460.55
+        },
+        {
+          "id": "oct-mkt-014",
+          "name": "UGC \u2014 Alexandra",
+          "amount": 188.92
+        },
+        {
+          "id": "oct-mkt-015",
+          "name": "UGC \u2014 Elle",
+          "amount": 430.0
         }
       ]
     },
@@ -2271,6 +2356,36 @@
           "id": "oct-sw-033",
           "name": "Whop AI",
           "amount": 10.98
+        },
+        {
+          "id": "oct-sw-034",
+          "name": "DocuSign",
+          "amount": 186.58
+        },
+        {
+          "id": "oct-sw-035",
+          "name": "Render",
+          "amount": 65.57
+        },
+        {
+          "id": "oct-sw-036",
+          "name": "Google Workspace",
+          "amount": 994.32
+        },
+        {
+          "id": "oct-sw-037",
+          "name": "ActiveCampaign",
+          "amount": 525.0
+        },
+        {
+          "id": "oct-sw-038",
+          "name": "Vidalytics",
+          "amount": 24.0
+        },
+        {
+          "id": "oct-sw-039",
+          "name": "Wistia",
+          "amount": 130.0
         }
       ]
     },
