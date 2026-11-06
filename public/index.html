@@ -105,12 +105,14 @@
     .bcx:hover { border-color:var(--muted); }
     .bsub:hover { background:var(--accentlt); }
     .tog-wrap{display:flex;align-items:center;gap:8px;}.tog-lbl{font-size:11px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:var(--muted);}.tog{width:42px;height:24px;background:var(--surface2);border:1px solid var(--border);border-radius:12px;cursor:pointer;position:relative;transition:background .2s,border-color .2s;padding:0;flex-shrink:0;}.tog.on{background:rgba(196,149,53,.25);border-color:var(--accent);}.tog-k{position:absolute;top:4px;left:4px;width:14px;height:14px;border-radius:50%;background:var(--muted);transition:all .2s;pointer-events:none;}.tog.on .tog-k{left:22px;background:var(--accentlt);}
+    .nav-bar{display:flex;gap:6px;}.nbtn{background:var(--surface2);border:1px solid var(--border);border-radius:6px;padding:5px 12px;font-size:11px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:var(--muted);text-decoration:none;transition:all .15s;}.nbtn:hover{border-color:var(--accent);color:var(--accentlt);}
     @media(max-width:960px){.g21,.g11,.g3{grid-template-columns:1fr;}.container{padding:16px;}}
   </style>
 </head>
 <body>
 <header>
   <div class="logo">Tranchi <span>AI</span></div>
+    <div class="nav-bar"><a href="/" class="nbtn">Jun</a><a href="/july" class="nbtn">Jul</a><a href="/august" class="nbtn">Aug</a><a href="/september" class="nbtn">Sep</a><a href="/october" class="nbtn">Oct</a><a href="/overview" class="nbtn">Overview</a></div>
   <div class="hdr-right">
     <div class="badge">June 2026 · P&L</div>
     <div class="tog-wrap"><span class="tog-lbl">Owner Draws</span><button class="tog" id="draws-tog" onclick="toggleDraws()"><span class="tog-k"></span></button></div>
